@@ -224,6 +224,7 @@ function create_config( )
     "invite",
     "all",
     "x",
+    "spam",
     "leave_ban",
     "admin"
     },

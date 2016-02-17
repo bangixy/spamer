@@ -110,6 +110,7 @@ else
     echo "Run $0 install"
     exit 1
   fi
+-- a
 
   ./tg/bin/telegram-cli -k ./tg/tg-server.pub -s ./bot/seedbot.lua -l 1 -E $@
 fi

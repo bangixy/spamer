@@ -1,0 +1,2918 @@
+[ Sat Feb 13 14:38:03 2016 ]=>  ______‌‌_ [187769689] locked link 
+ 
+[ Sun Feb 14 05:05:36 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Sun Feb 14 11:11:58 2016 ]=>  E__M__C [0] deleted user  user#id106630608
+ 
+[ Sun Feb 14 11:11:58 2016 ]=>  E__M__C [0] deleted user  user#id106630608
+ 
+[ Sun Feb 14 16:31:48 2016 ]=>  ْ_$ɪʟ∃ɴ✝_ღα℉ɪ@мْ [176972874] deleted user  user#id176972874
+ 
+[ Sun Feb 14 16:31:48 2016 ]=>  ْ_$ɪʟ∃ɴ✝_ღα℉ɪ@мْ [176972874] deleted user  user#id176972874
+ 
+[ Sun Feb 14 16:32:53 2016 ]=>  ______‌‌_ [187769689] Used /help
+ 
+[ Sun Feb 14 16:35:28 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Sun Feb 14 16:38:40 2016 ]=>  ______‌‌_ [187769689] revoked group link 
+ 
+[ Sun Feb 14 16:38:43 2016 ]=>  ______‌‌_ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpzpemmGG2_Mw]
+ 
+[ Sun Feb 14 16:39:16 2016 ]=>  MR.PUNISHER_*REPORTAM* [168398326] banned user is talking !
+ 
+[ Sun Feb 14 16:39:16 2016 ]=>  E__M__C [0] deleted user  user#id168398326
+ 
+[ Sun Feb 14 16:39:16 2016 ]=>  E__M__C [0] deleted user  user#id168398326
+ 
+[ Sun Feb 14 16:43:46 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Sun Feb 14 17:17:15 2016 ]=>  H4J™_@Rprt [160522435] tried to change picture but failed  
+ 
+[ Sun Feb 14 17:17:15 2016 ]=>  H4J™_@Rprt [160522435] tried to change picture but failed  
+ 
+[ Sun Feb 14 17:18:50 2016 ]=>  H4J™_@Rprt [160522435] unlocked photo 
+ 
+[ Sun Feb 14 18:20:12 2016 ]=>  αяαѕн_👤 [109722284] used /id 
+ 
+[ Sun Feb 14 18:21:07 2016 ]=>  E__M__C [0] deleted user  user#id167781099
+ 
+[ Sun Feb 14 18:21:07 2016 ]=>  E__M__C [0] deleted user  user#id167781099
+ 
+[ Sun Feb 14 18:21:16 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] requested group settings 
+ 
+[ Sun Feb 14 18:21:28 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] locked member 
+ 
+[ Sun Feb 14 18:21:32 2016 ]=>  E__M__C [0] deleted user  user#id167781099
+ 
+[ Sun Feb 14 18:21:32 2016 ]=>  E__M__C [0] deleted user  user#id167781099
+ 
+[ Sun Feb 14 18:21:39 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] locked bots 
+ 
+[ Sun Feb 14 18:21:45 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] set flood to [5]
+ 
+[ Sun Feb 14 18:21:53 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] locked leaving 
+ 
+[ Sun Feb 14 18:21:59 2016 ]=>  αяαѕн_👤 [109722284] deleted user  user#id109722284
+ 
+[ Sun Feb 14 18:21:59 2016 ]=>  αяαѕн_👤 [109722284] deleted user  user#id109722284
+ 
+[ Sun Feb 14 18:22:07 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] locked badw 
+ 
+[ Sun Feb 14 18:22:23 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] locked join 
+ 
+[ Mon Feb 15 12:59:36 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Mon Feb 15 13:04:07 2016 ]=>  ______‌‌_ [187769689] requested group settings 
+ 
+[ Mon Feb 15 13:04:13 2016 ]=>  ______‌‌_ [187769689] locked bots 
+ 
+[ Mon Feb 15 13:06:13 2016 ]=>  ______‌‌_ [187769689] added a banned user >188426827
+ 
+[ Mon Feb 15 13:07:10 2016 ]=>  🌐E_M_C🌐_@_@H [188426827] banned user is talking !
+ 
+[ Mon Feb 15 13:07:17 2016 ]=>  🌐E_M_C🌐_@_@H [188426827] added a banned user >114378056
+ 
+[ Mon Feb 15 13:07:17 2016 ]=>  🌐E_M_C🌐_@_@H [188426827] added a bot > @TNT_bot
+ 
+[ Mon Feb 15 13:07:21 2016 ]=>  🌐E_M_C🌐_@_@H [188426827] banned user is talking !
+ 
+[ Mon Feb 15 13:07:48 2016 ]=>  ______‌‌_ [187769689] kicked user @TNT_bot
+ 
+[ Mon Feb 15 13:08:57 2016 ]=>  X_And_Y_Manager [119989724] used /id 
+ 
+[ Mon Feb 15 13:09:13 2016 ]=>  X_And_Y_Manager [119989724] kicked user @TNT_bot
+ 
+[ Mon Feb 15 13:09:23 2016 ]=>  X_And_Y_Manager [119989724] baned user @TNT_bot
+ 
+[ Mon Feb 15 13:09:59 2016 ]=>  H4J™_@Rprt [160522435] kicked user @USbot
+ 
+[ Mon Feb 15 13:10:06 2016 ]=>  X_And_Y_Manager [119989724] used /id 
+ 
+[ Mon Feb 15 13:10:09 2016 ]=>  H4J™_@Rprt [160522435] baned user @USbot
+ 
+[ Mon Feb 15 13:10:17 2016 ]=>  H4J™_@Rprt [160522435] deleted user  user#id73236137
+ 
+[ Mon Feb 15 13:10:17 2016 ]=>  H4J™_@Rprt [160522435] deleted user  user#id73236137
+ 
+[ Mon Feb 15 13:12:12 2016 ]=>  E__M__C [0] deleted user  user#id188426827
+ 
+[ Mon Feb 15 13:12:12 2016 ]=>  E__M__C [0] deleted user  user#id188426827
+ 
+[ Mon Feb 15 13:12:12 2016 ]=>  E__M__C [0] deleted user  user#id114378056
+ 
+[ Mon Feb 15 13:12:12 2016 ]=>  E__M__C [0] deleted user  user#id114378056
+ 
+[ Mon Feb 15 13:14:26 2016 ]=>  ______‌‌_ [187769689] kicked user @omidtarh
+ 
+[ Mon Feb 15 13:14:26 2016 ]=>  E__M__C [0] deleted user  user#id70480064
+ 
+[ Mon Feb 15 13:14:26 2016 ]=>  E__M__C [0] deleted user  user#id70480064
+ 
+[ Mon Feb 15 13:17:11 2016 ]=>  ______‌‌_ [187769689] kicked user @ameJendat
+ 
+[ Mon Feb 15 13:17:53 2016 ]=>  X_And_Y_Manager [119989724] used /id 
+ 
+[ Mon Feb 15 13:19:08 2016 ]=>  E__M__C [0] deleted user  user#id55407639
+ 
+[ Mon Feb 15 13:19:08 2016 ]=>  E__M__C [0] deleted user  user#id55407639
+ 
+[ Mon Feb 15 13:19:54 2016 ]=>  X_And_Y_Manager [119989724] used /id 
+ 
+[ Mon Feb 15 13:19:55 2016 ]=>  X_And_Y_Manager [119989724] used /id 
+ 
+[ Mon Feb 15 13:19:56 2016 ]=>  X_And_Y_Manager [119989724] used /id 
+ 
+[ Mon Feb 15 13:20:56 2016 ]=>  ______‌‌_ [187769689] banned user is talking !
+ 
+[ Mon Feb 15 13:21:10 2016 ]=>  ______‌‌_ [187769689] banned user is talking !
+ 
+[ Mon Feb 15 16:15:41 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Mon Feb 15 17:07:48 2016 ]=>  Fαrzαd [160522435] used /id 
+ 
+[ Mon Feb 15 17:30:47 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Mon Feb 15 17:31:23 2016 ]=>  ______‌‌_ [187769689] added a banned user >188426827
+ 
+[ Mon Feb 15 17:31:23 2016 ]=>  E__M__C [0] deleted user  user#id188426827
+ 
+[ Mon Feb 15 17:31:23 2016 ]=>  E__M__C [0] deleted user  user#id188426827
+ 
+[ Mon Feb 15 17:31:23 2016 ]=>  E__M__C [0] deleted user  user#id188426827
+ 
+[ Mon Feb 15 17:31:23 2016 ]=>  E__M__C [0] deleted user  user#id188426827
+ 
+[ Mon Feb 15 17:50:38 2016 ]=>  X_And_Y_Manager [119989724] used /id 
+ 
+[ Mon Feb 15 17:50:38 2016 ]=>  Fαrzαd [160522435] used /id 
+ 
+[ Mon Feb 15 17:50:38 2016 ]=>  Fαrzαd [160522435] used /id 
+ 
+[ Mon Feb 15 17:50:39 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Mon Feb 15 17:50:39 2016 ]=>  ______‌‌_ [187769689] added a banned user >188426827
+ 
+[ Mon Feb 15 17:50:39 2016 ]=>  E__M__C [0] deleted user  user#id188426827
+ 
+[ Mon Feb 15 17:50:39 2016 ]=>  E__M__C [0] deleted user  user#id188426827
+ 
+[ Mon Feb 15 17:50:39 2016 ]=>  E__M__C [0] deleted user  user#id188426827
+ 
+[ Mon Feb 15 17:50:39 2016 ]=>  E__M__C [0] deleted user  user#id188426827
+ 
+[ Mon Feb 15 17:50:40 2016 ]=>  o_(^‿^✿)ｏ [157094408] spammed and kicked ! 
+ 
+[ Mon Feb 15 18:28:25 2016 ]=>  Fαrzαd [160522435] unlocked photo 
+ 
+[ Mon Feb 15 18:57:25 2016 ]=>  Fαrzαd [160522435] unlocked photo 
+ 
+[ Mon Feb 15 18:58:23 2016 ]=>  Fαrzαd [160522435] unlocked photo 
+ 
+[ Mon Feb 15 19:11:56 2016 ]=>  Fαrzαd [160522435] unlocked photo 
+ 
+[ Tue Feb 16 10:46:27 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Tue Feb 16 17:10:58 2016 ]=>  X_And_Y_Manager [119989724] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpzpemmGG2_Mw]
+ 
+[ Tue Feb 16 17:11:27 2016 ]=>  ‮™namas_Matroper [139837032] banned user is talking !
+ 
+[ Tue Feb 16 17:11:28 2016 ]=>  E__M__C [0] deleted user  user#id139837032
+ 
+[ Tue Feb 16 17:11:28 2016 ]=>  E__M__C [0] deleted user  user#id139837032
+ 
+[ Tue Feb 16 17:12:37 2016 ]=>  X_And_Y_Manager [119989724] used /id 
+ 
+[ Tue Feb 16 17:13:06 2016 ]=>  ▼⇜нιѕαмι∂нαM⇝▲ [122922722] is banned and kicked ! 
+ 
+[ Tue Feb 16 17:13:06 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Tue Feb 16 17:13:06 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Tue Feb 16 17:13:26 2016 ]=>  X_And_Y_Manager [119989724] used /id 
+ 
+[ Tue Feb 16 17:13:28 2016 ]=>  ‮ْiのみεℳ [56693692] is banned and kicked ! 
+ 
+[ Tue Feb 16 17:13:28 2016 ]=>  E__M__C [0] deleted user  user#id56693692
+ 
+[ Tue Feb 16 17:13:28 2016 ]=>  E__M__C [0] deleted user  user#id56693692
+ 
+[ Tue Feb 16 17:13:34 2016 ]=>  X_And_Y_Manager [119989724] unbaned user 122922722
+ 
+[ Tue Feb 16 17:13:36 2016 ]=>  Fαrzαd [160522435] unbaned user 139837032
+ 
+[ Tue Feb 16 17:13:45 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Tue Feb 16 17:13:45 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Tue Feb 16 17:13:45 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Tue Feb 16 17:13:45 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Tue Feb 16 17:13:46 2016 ]=>  @beny☠-_-007🚬(◣_◢) [132209471] deleted user  user#id132209471
+ 
+[ Tue Feb 16 17:13:46 2016 ]=>  @beny☠-_-007🚬(◣_◢) [132209471] deleted user  user#id132209471
+ 
+[ Tue Feb 16 17:14:26 2016 ]=>  E__M__C [0] deleted user  user#id139837032
+ 
+[ Tue Feb 16 17:14:26 2016 ]=>  E__M__C [0] deleted user  user#id139837032
+ 
+[ Tue Feb 16 17:14:26 2016 ]=>  E__M__C [0] deleted user  user#id139837032
+ 
+[ Tue Feb 16 17:14:26 2016 ]=>  E__M__C [0] deleted user  user#id139837032
+ 
+[ Tue Feb 16 17:14:52 2016 ]=>  X_And_Y_Manager [119989724] unlocked member 
+ 
+[ Tue Feb 16 17:14:58 2016 ]=>  Fαrzαd [160522435] Used /res djmjcj
+ 
+[ Tue Feb 16 17:14:59 2016 ]=>  X_And_Y_Manager [119989724] added a banned user >122922722
+ 
+[ Tue Feb 16 17:14:59 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Tue Feb 16 17:14:59 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Tue Feb 16 17:15:14 2016 ]=>  Fαrzαd [160522435] unbaned user 139837032
+ 
+[ Tue Feb 16 17:15:14 2016 ]=>  X_And_Y_Manager [119989724] requested group settings 
+ 
+[ Tue Feb 16 17:15:23 2016 ]=>  X_And_Y_Manager [119989724] unlocked join 
+ 
+[ Tue Feb 16 17:15:33 2016 ]=>  X_And_Y_Manager [119989724] added a banned user >122922722
+ 
+[ Tue Feb 16 17:15:34 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Tue Feb 16 17:15:34 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Tue Feb 16 17:15:52 2016 ]=>  Fαrzαd [160522435] Used /res mahdimasih
+ 
+[ Tue Feb 16 17:16:03 2016 ]=>  Fαrzαd [160522435] unbaned user 122922722
+ 
+[ Tue Feb 16 17:17:27 2016 ]=>  X_And_Y_Manager [119989724] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpzpemmGG2_Mw]
+ 
+[ Tue Feb 16 17:17:27 2016 ]=>  E__M__C [0] deleted user  user#id139837032
+ 
+[ Tue Feb 16 17:17:27 2016 ]=>  E__M__C [0] deleted user  user#id139837032
+ 
+[ Tue Feb 16 17:17:27 2016 ]=>  X_And_Y_Manager [119989724] used /id 
+ 
+[ Tue Feb 16 17:17:27 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Tue Feb 16 17:17:27 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  @beny☠-_-007🚬(◣_◢) [132209471] is banned and kicked ! 
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  X_And_Y_Manager [119989724] used /id 
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  ‮ْiのみεℳ [56693692] is banned and kicked ! 
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  E__M__C [0] deleted user  user#id56693692
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  E__M__C [0] deleted user  user#id56693692
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  X_And_Y_Manager [119989724] unbaned user 122922722
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  Fαrzαd [160522435] unbaned user 139837032
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  @beny☠-_-007🚬(◣_◢) [132209471] banned user is talking !
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  @beny☠-_-007🚬(◣_◢) [132209471] deleted user  user#id132209471
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  @beny☠-_-007🚬(◣_◢) [132209471] deleted user  user#id132209471
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  E__M__C [0] deleted user  user#id139837032
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  E__M__C [0] deleted user  user#id139837032
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  E__M__C [0] deleted user  user#id139837032
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  E__M__C [0] deleted user  user#id139837032
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  X_And_Y_Manager [119989724] unlocked member 
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  Fαrzαd [160522435] Used /res djmjcj
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  X_And_Y_Manager [119989724] added a banned user >122922722
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  Fαrzαd [160522435] unbaned user 139837032
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  X_And_Y_Manager [119989724] requested group settings 
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  X_And_Y_Manager [119989724] unlocked join 
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  X_And_Y_Manager [119989724] added a banned user >122922722
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  Fαrzαd [160522435] Used /res mahdimasih
+ 
+[ Tue Feb 16 17:17:28 2016 ]=>  Fαrzαd [160522435] unbaned user 122922722
+ 
+[ Tue Feb 16 17:17:29 2016 ]=>  E__M__C [0] deleted user  user#id139837032
+ 
+[ Tue Feb 16 17:17:29 2016 ]=>  E__M__C [0] deleted user  user#id139837032
+ 
+[ Tue Feb 16 17:17:29 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Tue Feb 16 17:17:29 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Tue Feb 16 17:18:02 2016 ]=>  👑....._𝓶𝓪𝓶𝓪𝓵𝓲_𝓰𝓸𝓭𝒆𝓶_.....👑 [179286096] left using kickme 
+ 
+[ Tue Feb 16 17:18:02 2016 ]=>  E__M__C [0] deleted user  user#id179286096
+ 
+[ Tue Feb 16 17:18:02 2016 ]=>  E__M__C [0] deleted user  user#id179286096
+ 
+[ Tue Feb 16 17:18:08 2016 ]=>  Fαrzαd [160522435] added a banned user >139837032
+ 
+[ Tue Feb 16 17:18:08 2016 ]=>  E__M__C [0] deleted user  user#id139837032
+ 
+[ Tue Feb 16 17:18:08 2016 ]=>  E__M__C [0] deleted user  user#id139837032
+ 
+[ Tue Feb 16 17:18:31 2016 ]=>  ‮‮™‮a_n_i_m [83817319] is banned and kicked ! 
+ 
+[ Tue Feb 16 17:18:31 2016 ]=>  E__M__C [0] deleted user  user#id83817319
+ 
+[ Tue Feb 16 17:18:31 2016 ]=>  E__M__C [0] deleted user  user#id83817319
+ 
+[ Tue Feb 16 17:18:48 2016 ]=>  Fαrzαd [160522435] unbaned user 139837032
+ 
+[ Tue Feb 16 17:19:13 2016 ]=>  X_And_Y_Manager [119989724] used /id 
+ 
+[ Tue Feb 16 17:19:43 2016 ]=>  Fαrzαd [160522435] unbaned user 83817319
+ 
+[ Tue Feb 16 17:20:36 2016 ]=>  Fαrzαd [160522435] unbaned user 122922722
+ 
+[ Tue Feb 16 17:20:51 2016 ]=>  Fαrzαd [160522435] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpzpemmGG2_Mw]
+ 
+[ Tue Feb 16 17:22:44 2016 ]=>  X_And_Y_Manager [119989724] requested group settings 
+ 
+[ Tue Feb 16 17:22:55 2016 ]=>  X_And_Y_Manager [119989724] locked tag 
+ 
+[ Tue Feb 16 17:23:19 2016 ]=>  Fαrzαd [160522435] set flood to [20]
+ 
+[ Tue Feb 16 17:23:24 2016 ]=>  X_And_Y_Manager [119989724] set flood to [5]
+ 
+[ Tue Feb 16 17:23:53 2016 ]=>  Fαrzαd [160522435] set flood to [20]
+ 
+[ Tue Feb 16 17:24:12 2016 ]=>  X_And_Y_Manager [119989724] set flood to [2]
+ 
+[ Tue Feb 16 17:24:23 2016 ]=>  X_And_Y_Manager [119989724] set flood to [85]
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  E__M__C [0] deleted user  user#id139837032
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  E__M__C [0] deleted user  user#id139837032
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  Fαrzαd_☛_H [160522435] used /id 
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  Fαrzαd_☛_H [160522435] used /id 
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  👑....._𝓶𝓪𝓶𝓪𝓵𝓲_𝓰𝓸𝓭𝒆𝓶_.....👑 [179286096] banned user is talking !
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  E__M__C [0] deleted user  user#id179286096
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  E__M__C [0] deleted user  user#id179286096
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  ‮™namas_Matroper [139837032] banned user is talking !
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  Fαrzαd_☛_H [160522435] added a banned user >139837032
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  Fαrzαd_☛_H [160522435] unbaned user 83817319
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  E__M__C [0] deleted user  user#id139837032
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  E__M__C [0] deleted user  user#id139837032
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /idetergent 
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  E__M__C [0] deleted user  user#id83817319
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  E__M__C [0] deleted user  user#id83817319
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  Fαrzαd_☛_H [160522435] unbaned user 139837032
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  Fαrzαd_☛_H [160522435] unbaned user 122922722
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  Fαrzαd_☛_H [160522435] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpzpemmGG2_Mw]
+ 
+[ Wed Feb 17 14:27:46 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Wed Feb 17 14:27:46 2016 ]=>  ‮‮™‮a_n_i_m [83817319] is banned and kicked ! 
+ 
+[ Wed Feb 17 14:27:46 2016 ]=>  Fαrzαd_☛_H [160522435] unbaned user 83817319
+ 
+[ Wed Feb 17 14:27:46 2016 ]=>  Fαrzαd_☛_H [160522435] unbaned user 122922722
+ 
+[ Wed Feb 17 14:27:46 2016 ]=>  Fαrzαd_☛_H [160522435] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpzpemmGG2_Mw]
+ 
+[ Wed Feb 17 14:27:46 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] requested group settings 
+ 
+[ Wed Feb 17 14:27:46 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] locked tag 
+ 
+[ Wed Feb 17 14:27:46 2016 ]=>  Fαrzαd_☛_H [160522435] set flood to [20]
+ 
+[ Wed Feb 17 14:27:46 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] set flood to [5]
+ 
+[ Wed Feb 17 14:27:47 2016 ]=>  Fαrzαd_☛_H [160522435] set flood to [20]
+ 
+[ Wed Feb 17 14:27:47 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] set flood to [2]
+ 
+[ Wed Feb 17 14:27:47 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] set flood to [85]
+ 
+[ Wed Feb 17 14:27:47 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] requested group settings 
+ 
+[ Wed Feb 17 14:27:47 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] locked tag 
+ 
+[ Wed Feb 17 14:27:47 2016 ]=>  Fαrzαd_☛_H [160522435] set flood to [20]
+ 
+[ Wed Feb 17 14:27:47 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] set flood to [5]
+ 
+[ Wed Feb 17 14:27:47 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Wed Feb 17 14:27:47 2016 ]=>  Fαrzαd_☛_H [160522435] set flood to [20]
+ 
+[ Wed Feb 17 14:27:47 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] set flood to [2]
+ 
+[ Wed Feb 17 14:27:47 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] set flood to [85]
+ 
+[ Wed Feb 17 16:12:43 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Wed Feb 17 16:12:43 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Wed Feb 17 16:20:59 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Wed Feb 17 16:30:07 2016 ]=>  <\Namardam_>_🖖🤘🖖🤘🖖_____👁____.____👁_______________👃____________________👄_________________🤘_i'm_MeHrAn [156099494] used /id 
+ 
+[ Wed Feb 17 16:30:28 2016 ]=>  Fαrzαd_☛_H [160522435] used /id 
+ 
+[ Wed Feb 17 16:30:54 2016 ]=>  E__M__C [0] deleted user  user#id77750573
+ 
+[ Wed Feb 17 16:30:54 2016 ]=>  E__M__C [0] deleted user  user#id77750573
+ 
+[ Wed Feb 17 16:39:28 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] Used /help
+ 
+[ Wed Feb 17 16:42:59 2016 ]=>  ______‌‌_ [187769689] Used /res mahdimp3
+ 
+[ Wed Feb 17 16:43:10 2016 ]=>  ______‌‌_ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpzpemmGG2_Mw]
+ 
+[ Wed Feb 17 16:43:22 2016 ]=>  ... [77750573] is banned and kicked ! 
+ 
+[ Wed Feb 17 16:43:22 2016 ]=>  E__M__C [0] deleted user  user#id77750573
+ 
+[ Wed Feb 17 16:43:22 2016 ]=>  E__M__C [0] deleted user  user#id77750573
+ 
+[ Wed Feb 17 16:46:11 2016 ]=>  ▼⇜нιѕαмι∂нαM⇝▲ [122922722] banned user is talking !
+ 
+[ Wed Feb 17 16:46:11 2016 ]=>  E__M__C [0] deleted user  user#id122922722
+ 
+[ Wed Feb 17 16:46:13 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Wed Feb 17 16:46:16 2016 ]=>  <\Namardam_>_🖖🤘🖖🤘🖖_____👁____.____👁_______________👃____________________👄_________________🤘_i'm_MeHrAn [156099494] used /id 
+ 
+[ Wed Feb 17 16:46:16 2016 ]=>  Fαrzαd_☛_H [160522435] used /id 
+ 
+[ Wed Feb 17 16:46:16 2016 ]=>  E__M__C [0] deleted user  user#id77750573
+ 
+[ Wed Feb 17 16:50:25 2016 ]=>  😈mr.error😈 [77750573] banned user is talking !
+ 
+[ Wed Feb 17 16:50:25 2016 ]=>  E__M__C [0] deleted user  user#id77750573
+ 
+[ Wed Feb 17 16:50:25 2016 ]=>  E__M__C [0] deleted user  user#id77750573
+ 
+[ Wed Feb 17 16:50:40 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Wed Feb 17 16:50:51 2016 ]=>  😈mr.error😈 [77750573] is banned and kicked ! 
+ 
+[ Wed Feb 17 16:50:51 2016 ]=>  E__M__C [0] deleted user  user#id77750573
+ 
+[ Wed Feb 17 16:50:51 2016 ]=>  E__M__C [0] deleted user  user#id77750573
+ 
+[ Wed Feb 17 16:51:03 2016 ]=>  ______‌‌_ [187769689] unbaned user 77750573
+ 
+[ Wed Feb 17 17:15:44 2016 ]=>  ______‌‌_ [187769689] revoked group link 
+ 
+[ Wed Feb 17 17:15:48 2016 ]=>  ______‌‌_ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Wed Feb 17 17:16:32 2016 ]=>  MR.PUNISHER_*REPORTAM* [168398326] is banned and kicked ! 
+ 
+[ Wed Feb 17 17:16:32 2016 ]=>  E__M__C [0] deleted user  user#id168398326
+ 
+[ Wed Feb 17 17:16:32 2016 ]=>  E__M__C [0] deleted user  user#id168398326
+ 
+[ Wed Feb 17 17:16:37 2016 ]=>  😎EhsanFox😎_🔱Rξβξℓ🔱 [146661928] is banned and kicked ! 
+ 
+[ Wed Feb 17 17:16:38 2016 ]=>  E__M__C [0] deleted user  user#id146661928
+ 
+[ Wed Feb 17 17:16:38 2016 ]=>  E__M__C [0] deleted user  user#id146661928
+ 
+[ Wed Feb 17 17:16:43 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Wed Feb 17 17:16:47 2016 ]=>  ______‌‌_ [187769689] Used /res yadegari_erfan_punisher
+ 
+[ Wed Feb 17 17:16:55 2016 ]=>  ______‌‌_ [187769689] Used /res Ehsan_Fox
+ 
+[ Wed Feb 17 17:17:05 2016 ]=>  😄ρooʀʏα😄_zε∂™💣 [172871742] is banned and kicked ! 
+ 
+[ Wed Feb 17 17:17:05 2016 ]=>  E__M__C [0] deleted user  user#id172871742
+ 
+[ Wed Feb 17 17:17:05 2016 ]=>  E__M__C [0] deleted user  user#id172871742
+ 
+[ Wed Feb 17 17:17:25 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Wed Feb 17 17:18:49 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] locked link 
+ 
+[ Wed Feb 17 17:20:04 2016 ]=>  ______‌‌_ [187769689] has changed group rules to [
+هرکس گپ میخواد 
+به ادمین ها و سودو ها بگه براش رایگان میزنن 
+@Shahabambesik 
+@Mr_bangi
+@Can_3er
+با تشکر
+E                              M                     C]
+ 
+[ Wed Feb 17 17:20:29 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] has changed group rules to [
+هرکس گپ میخواد 
+به ادمین ها و سودو ها بگه براش رایگان میزنن 
+@Shahabambesik 
+@Mr_bangi
+@Can_3er
+با تشکر
+E M C]
+ 
+[ Wed Feb 17 17:21:26 2016 ]=>  <dev>Mehrpouya</dev>‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌‌_‌_‌_‌_‌‌ [91054649] is banned and kicked ! 
+ 
+[ Wed Feb 17 17:21:26 2016 ]=>  E__M__C [0] deleted user  user#id91054649
+ 
+[ Wed Feb 17 17:21:26 2016 ]=>  E__M__C [0] deleted user  user#id91054649
+ 
+[ Wed Feb 17 17:21:29 2016 ]=>  مــٍٍٍٍٍــىـــــًًًٍٍℳahdiــــٍٍٍدىًًًًًًًًًًًٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍ_پـٓٓـــســBoyـــرُُُُُُُُُُ_بـــــŊiCeــــدٰٰٰٕ [180087690] is banned and kicked ! 
+ 
+[ Wed Feb 17 17:21:29 2016 ]=>  E__M__C [0] deleted user  user#id180087690
+ 
+[ Wed Feb 17 17:21:29 2016 ]=>  E__M__C [0] deleted user  user#id180087690
+ 
+[ Wed Feb 17 17:21:40 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Wed Feb 17 17:21:45 2016 ]=>  👿ㄎﾑｲﾑ刀.尺乇Ð👿 [147115788] is banned and kicked ! 
+ 
+[ Wed Feb 17 17:21:45 2016 ]=>  E__M__C [0] deleted user  user#id147115788
+ 
+[ Wed Feb 17 17:21:45 2016 ]=>  E__M__C [0] deleted user  user#id147115788
+ 
+[ Wed Feb 17 17:21:45 2016 ]=>  ‮ْiのみεℳ [56693692] is banned and kicked ! 
+ 
+[ Wed Feb 17 17:21:46 2016 ]=>  E__M__C [0] deleted user  user#id56693692
+ 
+[ Wed Feb 17 17:21:46 2016 ]=>  E__M__C [0] deleted user  user#id56693692
+ 
+[ Wed Feb 17 17:21:51 2016 ]=>  ‮nibom [147049730] deleted user  user#id147049730
+ 
+[ Wed Feb 17 17:21:51 2016 ]=>  ‮nibom [147049730] deleted user  user#id147049730
+ 
+[ Wed Feb 17 17:21:52 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] unbaned user 91054649
+ 
+[ Wed Feb 17 17:22:09 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Wed Feb 17 17:22:14 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Wed Feb 17 17:22:14 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Wed Feb 17 17:22:15 2016 ]=>  ‮™_ihcraQoiQ [161731036] is banned and kicked ! 
+ 
+[ Wed Feb 17 17:22:15 2016 ]=>  E__M__C [0] deleted user  user#id161731036
+ 
+[ Wed Feb 17 17:22:15 2016 ]=>  E__M__C [0] deleted user  user#id161731036
+ 
+[ Wed Feb 17 17:22:23 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Wed Feb 17 17:22:32 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Wed Feb 17 17:26:50 2016 ]=>  ‮katohsorlfa_⛄⛄_‮MATROPER [134618808] used /idetergent 
+ 
+[ Wed Feb 17 17:27:25 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Wed Feb 17 17:33:47 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Wed Feb 17 17:35:52 2016 ]=>  دیگه_کات_کردم_نمیام_تلگرام [166846849] deleted user  user#id166846849
+ 
+[ Wed Feb 17 17:35:52 2016 ]=>  دیگه_کات_کردم_نمیام_تلگرام [166846849] deleted user  user#id166846849
+ 
+[ Wed Feb 17 17:39:45 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Wed Feb 17 17:42:48 2016 ]=>  Saman_R̴̵̵̴̨̧̧̨̠̲̯̮̜̹̰̼̫̪̥̻̭̬̖̗̦̙̘̤̤̘̙̦̗̖̬̭̻̥̪̫̼̰̹̜̮̯̲̠̄̅̅̄͜͜ę̴̵̧̠̲̯̮̜̹̰̼̫̪̥̻̭̬̖̗̦̙̘̤̄͜dt̨̧̠̲̯̮̜̹̰̼̫̪̥̻̭̬̖̗̑̀́̏̋̒̓̔̔̓̒̋̏́̀̐̽͛͆̕̕͜͡ę̴̵̵̴̧̠̲̯̮̜̹̰̼̫̪̥̻̭̬̖̗̦̙̘̤̄̅̀́̏̋̒̓̔̔̓̒̋̏́̐̅̄̕̕͜ą̴̵̵̴̧̛̠̲̯̮̜̹̰̼̫̪̥̻̭̬̖̗̦̙̘̤̤̘̙̄̅̑̆͗̉̃͆͛̽̅̄̚͜͡m̨̧̠̲̯̮̜̹̰̼̫̪̥͜ [93016446] is banned and kicked ! 
+ 
+[ Wed Feb 17 17:42:48 2016 ]=>  E__M__C [0] deleted user  user#id93016446
+ 
+[ Wed Feb 17 17:42:48 2016 ]=>  E__M__C [0] deleted user  user#id93016446
+ 
+[ Wed Feb 17 17:42:53 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Wed Feb 17 17:43:04 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] unbaned user 93016446
+ 
+[ Wed Feb 17 18:50:21 2016 ]=>  MR_X [179860654] is banned and kicked ! 
+ 
+[ Wed Feb 17 18:50:21 2016 ]=>  E__M__C [0] deleted user  user#id179860654
+ 
+[ Wed Feb 17 18:50:21 2016 ]=>  E__M__C [0] deleted user  user#id179860654
+ 
+[ Wed Feb 17 18:50:29 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Wed Feb 17 18:50:38 2016 ]=>  ______‌‌_ [187769689] unbaned user 179860654
+ 
+[ Wed Feb 17 20:50:03 2016 ]=>  ‮vp=kcolb_‮nimra [195487863] spammed and kicked ! 
+ 
+[ Wed Feb 17 20:50:05 2016 ]=>  E__M__C [0] deleted user  user#id195487863
+ 
+[ Wed Feb 17 20:50:05 2016 ]=>  E__M__C [0] deleted user  user#id195487863
+ 
+[ Wed Feb 17 21:13:47 2016 ]=>  E__M__C [0] deleted user  user#id195487863
+ 
+[ Wed Feb 17 21:13:47 2016 ]=>  E__M__C [0] deleted user  user#id195487863
+ 
+[ Thu Feb 18 04:02:57 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Thu Feb 18 04:05:54 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Thu Feb 18 05:10:27 2016 ]=>  E__M__C [0] deleted user  user#id185206259
+ 
+[ Thu Feb 18 05:10:27 2016 ]=>  E__M__C [0] deleted user  user#id185206259
+ 
+[ Thu Feb 18 05:11:02 2016 ]=>  E__M__C [0] deleted user  user#id192495164
+ 
+[ Thu Feb 18 05:11:02 2016 ]=>  E__M__C [0] deleted user  user#id192495164
+ 
+[ Thu Feb 18 05:15:40 2016 ]=>  E__M__C [0] deleted user  user#id185206259
+ 
+[ Thu Feb 18 05:15:40 2016 ]=>  E__M__C [0] deleted user  user#id185206259
+ 
+[ Thu Feb 18 05:15:40 2016 ]=>  E__M__C [0] deleted user  user#id192495164
+ 
+[ Thu Feb 18 05:15:40 2016 ]=>  E__M__C [0] deleted user  user#id192495164
+ 
+[ Thu Feb 18 05:24:37 2016 ]=>  ______‌‌_ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Thu Feb 18 05:24:39 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 05:25:06 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 05:30:58 2016 ]=>  ______‌‌_ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Thu Feb 18 05:30:58 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 05:30:59 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 06:15:41 2016 ]=>  ______‌‌_ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Thu Feb 18 06:15:41 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 06:15:41 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 06:21:08 2016 ]=>  ‮katohsorlfa_⛄⛄_‮MATROPER [134618808] used /id 
+ 
+[ Thu Feb 18 06:31:00 2016 ]=>  ‮katohsorlfa_⛄⛄_‮MATROPER [134618808] used /id 
+ 
+[ Thu Feb 18 06:35:00 2016 ]=>  ‮katohsorlfa_⛄⛄_‮MATROPER [134618808] used /id 
+ 
+[ Thu Feb 18 07:15:42 2016 ]=>  ‮katohsorlfa_⛄⛄_‮MATROPER [134618808] used /id 
+ 
+[ Thu Feb 18 07:25:51 2016 ]=>  ______‌‌_ [187769689] used /idetergent 
+ 
+[ Thu Feb 18 07:31:03 2016 ]=>  ______‌‌_ [187769689] used /idetergent 
+ 
+[ Thu Feb 18 07:31:20 2016 ]=>  ‮💍=>ṡһѧһѧɞ_Ԁѧяҡ<=💍 [146352807] used /idetergent 
+ 
+[ Thu Feb 18 07:33:39 2016 ]=>  ______‌‌_ [187769689] used /idetergent 
+ 
+[ Thu Feb 18 08:04:06 2016 ]=>  @CяєєƊ [118682430] requested group settings 
+ 
+[ Thu Feb 18 08:04:17 2016 ]=>  @CяєєƊ [118682430] added a banned user >190133495
+ 
+[ Thu Feb 18 08:04:17 2016 ]=>  E__M__C [0] deleted user  user#id190133495
+ 
+[ Thu Feb 18 08:04:17 2016 ]=>  E__M__C [0] deleted user  user#id190133495
+ 
+[ Thu Feb 18 08:06:44 2016 ]=>  @CяєєƊ [118682430] added a banned user >190133495
+ 
+[ Thu Feb 18 08:06:44 2016 ]=>  E__M__C [0] deleted user  user#id190133495
+ 
+[ Thu Feb 18 08:06:44 2016 ]=>  E__M__C [0] deleted user  user#id190133495
+ 
+[ Thu Feb 18 08:08:16 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 08:08:57 2016 ]=>  @CяєєƊ [118682430] Used /res creed_antispam
+ 
+[ Thu Feb 18 08:09:13 2016 ]=>  __@CreeDs@__ [190133495] spammed and kicked ! 
+ 
+[ Thu Feb 18 08:09:13 2016 ]=>  E__M__C [0] deleted user  user#id190133495
+ 
+[ Thu Feb 18 08:09:13 2016 ]=>  E__M__C [0] deleted user  user#id190133495
+ 
+[ Thu Feb 18 08:09:24 2016 ]=>  __@CreeDs@__ [190133495] deleted user  user#id190133495
+ 
+[ Thu Feb 18 08:09:24 2016 ]=>  __@CreeDs@__ [190133495] deleted user  user#id190133495
+ 
+[ Thu Feb 18 08:09:28 2016 ]=>  @CяєєƊ [118682430] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Thu Feb 18 08:10:02 2016 ]=>  @CяєєƊ [118682430] requested group settings 
+ 
+[ Thu Feb 18 08:10:22 2016 ]=>  @CяєєƊ [118682430] locked link 
+ 
+[ Thu Feb 18 08:10:27 2016 ]=>  @CяєєƊ [118682430] unlocked link 
+ 
+[ Thu Feb 18 08:11:37 2016 ]=>  ‮™_ihcraQoiQ [161731036] Used /res chi
+ 
+[ Thu Feb 18 08:18:44 2016 ]=>  ‮💍=>ṡһѧһѧɞ_Ԁѧяҡ<=💍 [146352807] added a banned user >194036868
+ 
+[ Thu Feb 18 08:18:44 2016 ]=>  E__M__C [0] deleted user  user#id194036868
+ 
+[ Thu Feb 18 08:18:44 2016 ]=>  E__M__C [0] deleted user  user#id194036868
+ 
+[ Thu Feb 18 08:21:04 2016 ]=>  UB_Helper1 [179094550] spammed and kicked ! 
+ 
+[ Thu Feb 18 08:21:04 2016 ]=>  E__M__C [0] deleted user  user#id179094550
+ 
+[ Thu Feb 18 08:21:04 2016 ]=>  E__M__C [0] deleted user  user#id179094550
+ 
+[ Thu Feb 18 08:27:37 2016 ]=>  ______‌‌_ [187769689] used /idetergent 
+ 
+[ Thu Feb 18 08:27:39 2016 ]=>  E__M__C [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 08:27:39 2016 ]=>  E__M__C [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 09:00:00 2016 ]=>  o_(^‿^✿)ｏ [157094408] Used /res thisisparsa1382
+ 
+[ Thu Feb 18 09:00:05 2016 ]=>  ______‌‌_ [187769689] Used /res ShahabDaRk
+ 
+[ Thu Feb 18 09:00:12 2016 ]=>  ______‌‌_ [187769689] Used /res inna60
+ 
+[ Thu Feb 18 09:02:22 2016 ]=>  ______‌‌_ [187769689] unbaned user 194036868
+ 
+[ Thu Feb 18 09:48:08 2016 ]=>  ‮☞_คlŦгє๔_ןן_☜ [108862143] deleted user  user#id108862143
+ 
+[ Thu Feb 18 09:48:08 2016 ]=>  ‮☞_คlŦгє๔_ןן_☜ [108862143] deleted user  user#id108862143
+ 
+[ Thu Feb 18 10:00:58 2016 ]=>  UB_Helper1 [179094550] deleted user  user#id179094550
+ 
+[ Thu Feb 18 10:00:58 2016 ]=>  UB_Helper1 [179094550] deleted user  user#id179094550
+ 
+[ Thu Feb 18 10:00:59 2016 ]=>  E__M__C [0] deleted user  user#id156099494
+ 
+[ Thu Feb 18 10:00:59 2016 ]=>  E__M__C [0] deleted user  user#id156099494
+ 
+[ Thu Feb 18 10:06:24 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 10:17:33 2016 ]=>  UZI [155236071] deleted user  user#id155236071
+ 
+[ Thu Feb 18 10:17:33 2016 ]=>  UZI [155236071] deleted user  user#id155236071
+ 
+[ Thu Feb 18 10:17:43 2016 ]=>  ‮katohsorlfa_⛄⛄_‮MATROPER [134618808] used /idetergent 
+ 
+[ Thu Feb 18 10:53:07 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 10:59:22 2016 ]=>  ______‌‌_ [187769689] added a banned user >175531746
+ 
+[ Thu Feb 18 10:59:22 2016 ]=>  E__M__C [0] deleted user  user#id175531746
+ 
+[ Thu Feb 18 10:59:22 2016 ]=>  E__M__C [0] deleted user  user#id175531746
+ 
+[ Thu Feb 18 10:59:31 2016 ]=>  ______‌‌_ [187769689] Used /res Infernal_Detergent
+ 
+[ Thu Feb 18 10:59:46 2016 ]=>  ______‌‌_ [187769689] added a banned user >175531746
+ 
+[ Thu Feb 18 10:59:46 2016 ]=>  E__M__C [0] deleted user  user#id175531746
+ 
+[ Thu Feb 18 10:59:46 2016 ]=>  E__M__C [0] deleted user  user#id175531746
+ 
+[ Thu Feb 18 10:59:54 2016 ]=>  ______‌‌_ [187769689] unbaned user 175531746
+ 
+[ Thu Feb 18 11:01:21 2016 ]=>  👑IղƒҽɾղɑӀ_👑 [175531746] used /idetergent 
+ 
+[ Thu Feb 18 11:34:16 2016 ]=>  UB_Helper2 [144907045] banned user is talking !
+ 
+[ Thu Feb 18 11:34:16 2016 ]=>  E__M__C [0] deleted user  user#id144907045
+ 
+[ Thu Feb 18 11:34:16 2016 ]=>  E__M__C [0] deleted user  user#id144907045
+ 
+[ Thu Feb 18 11:34:28 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] added a banned user >144907045
+ 
+[ Thu Feb 18 11:34:28 2016 ]=>  E__M__C [0] deleted user  user#id144907045
+ 
+[ Thu Feb 18 11:34:28 2016 ]=>  E__M__C [0] deleted user  user#id144907045
+ 
+[ Thu Feb 18 11:35:25 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] added a banned user >144907045
+ 
+[ Thu Feb 18 11:35:25 2016 ]=>  E__M__C [0] deleted user  user#id144907045
+ 
+[ Thu Feb 18 11:35:25 2016 ]=>  E__M__C [0] deleted user  user#id144907045
+ 
+[ Thu Feb 18 11:38:54 2016 ]=>  ‮💍=>ṡһѧһѧɞ_Ԁѧяҡ<=💍 [146352807] deleted user  user#id146352807
+ 
+[ Thu Feb 18 11:38:54 2016 ]=>  ‮💍=>ṡһѧһѧɞ_Ԁѧяҡ<=💍 [146352807] deleted user  user#id146352807
+ 
+[ Thu Feb 18 11:41:31 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] added a banned user >144907045
+ 
+[ Thu Feb 18 11:41:32 2016 ]=>  E__M__C [0] deleted user  user#id144907045
+ 
+[ Thu Feb 18 11:41:32 2016 ]=>  E__M__C [0] deleted user  user#id144907045
+ 
+[ Thu Feb 18 11:42:20 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] added a banned user >144907045
+ 
+[ Thu Feb 18 11:42:20 2016 ]=>  E__M__C [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 11:42:20 2016 ]=>  E__M__C [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 11:42:20 2016 ]=>  E__M__C [0] deleted user  user#id144907045
+ 
+[ Thu Feb 18 11:42:20 2016 ]=>  E__M__C [0] deleted user  user#id144907045
+ 
+[ Thu Feb 18 11:46:10 2016 ]=>  UB_Helper2 [144907045] banned user is talking !
+ 
+[ Thu Feb 18 11:46:11 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] added a banned user >144907045
+ 
+[ Thu Feb 18 11:46:11 2016 ]=>  E__M__C [0] deleted user  user#id144907045
+ 
+[ Thu Feb 18 11:46:11 2016 ]=>  E__M__C [0] deleted user  user#id144907045
+ 
+[ Thu Feb 18 11:50:20 2016 ]=>  ______‌‌_ [187769689] unbaned user 144907045
+ 
+[ Thu Feb 18 11:51:38 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] deleted user  user#id144907045
+ 
+[ Thu Feb 18 11:51:38 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] deleted user  user#id144907045
+ 
+[ Thu Feb 18 12:00:17 2016 ]=>  ______‌‌_ [187769689] Used /help
+ 
+[ Thu Feb 18 12:15:38 2016 ]=>  ______‌‌_ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Thu Feb 18 12:15:47 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 12:16:02 2016 ]=>  E__M__C [0] deleted user  user#id179094550
+ 
+[ Thu Feb 18 12:16:02 2016 ]=>  E__M__C [0] deleted user  user#id179094550
+ 
+[ Thu Feb 18 12:31:37 2016 ]=>  ______‌‌_ [187769689] Used /help
+ 
+[ Thu Feb 18 12:31:41 2016 ]=>  ______‌‌_ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Thu Feb 18 12:37:31 2016 ]=>  ______‌‌_ [187769689] Used /help
+ 
+[ Thu Feb 18 12:54:18 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Thu Feb 18 12:56:14 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /get dialogs
+ 
+[ Thu Feb 18 12:57:57 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] deleted user  user#id140925196
+ 
+[ Thu Feb 18 12:57:57 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] deleted user  user#id140925196
+ 
+[ Thu Feb 18 12:58:59 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Thu Feb 18 12:59:59 2016 ]=>  ______‌‌_ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Thu Feb 18 13:00:00 2016 ]=>  E__M__C [0] deleted user  user#id179094550
+ 
+[ Thu Feb 18 13:00:00 2016 ]=>  E__M__C [0] deleted user  user#id179094550
+ 
+[ Thu Feb 18 13:01:52 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Thu Feb 18 13:03:04 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 13:08:59 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 13:09:04 2016 ]=>  E__M__C [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 13:09:04 2016 ]=>  E__M__C [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 13:10:22 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Thu Feb 18 13:13:04 2016 ]=>  Fαrzαd_@H4J [160522435] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Thu Feb 18 13:13:09 2016 ]=>  ______‌‌_ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Thu Feb 18 13:18:56 2016 ]=>  E__M__C [0] deleted user  user#id144907045
+ 
+[ Thu Feb 18 13:18:56 2016 ]=>  E__M__C [0] deleted user  user#id144907045
+ 
+[ Thu Feb 18 13:25:45 2016 ]=>  ‮™_\-/_M_!_N [161731036] used /id 
+ 
+[ Thu Feb 18 13:27:42 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Thu Feb 18 13:35:22 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 13:39:07 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Thu Feb 18 13:43:21 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Thu Feb 18 13:43:50 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] locked badw 
+ 
+[ Thu Feb 18 13:44:13 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 13:44:13 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 13:45:15 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] demoted @@Shahabambesik
+ 
+[ Thu Feb 18 13:46:35 2016 ]=>  ______‌‌_ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Thu Feb 18 13:48:30 2016 ]=>  🌀Amirhosein🌀 [101935103] deleted user  user#id101935103
+ 
+[ Thu Feb 18 13:48:30 2016 ]=>  🌀Amirhosein🌀 [101935103] deleted user  user#id101935103
+ 
+[ Thu Feb 18 13:50:36 2016 ]=>  👑CEWER👑_🔱Ŧ[_t_[₣]_B_]β🔱_⚠️ĆΞЖΞŘ⚠️XOX [153545455] used /id 
+ 
+[ Thu Feb 18 13:52:28 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /idetergent 
+ 
+[ Thu Feb 18 13:52:33 2016 ]=>  👑CEWER👑_🔱Ŧ[_t_[₣]_B_]β🔱_⚠️ĆΞЖΞŘ⚠️XOX [153545455] used /id 
+ 
+[ Thu Feb 18 13:55:22 2016 ]=>  ______‌‌_ [187769689] used /idetergent 
+ 
+[ Thu Feb 18 13:58:16 2016 ]=>  🎩 [117301583] deleted user  user#id117301583
+ 
+[ Thu Feb 18 13:58:16 2016 ]=>  🎩 [117301583] deleted user  user#id117301583
+ 
+[ Thu Feb 18 13:59:10 2016 ]=>  Mahdi [178711840] deleted user  user#id178711840
+ 
+[ Thu Feb 18 13:59:10 2016 ]=>  Mahdi [178711840] deleted user  user#id178711840
+ 
+[ Thu Feb 18 14:00:10 2016 ]=>  ♚♔©®ℳ£ℜคʝʝ¤ภ©®♔♚\👑øωИ€ℜ👑👅🇲🇪🇷🇦🇯_🇯🇴🇳👅🇷🇪🇵🇴🇷🇹_✋🇦🇩🇲🇮🇳✌ɧą¢ƙɛγ_💪Ѧη◎η¥м◎ʊ﹩❤ʍ._ղ❤їηґ℮ℓℓ💋Ѧ∂мїηї﹩†ґѦ†ї◎η_◎ẘη℮ґ_ℳℜ👊ⓙⓞⓚⓔⓡ👌👎ɐpɯııu_ɥɐɔʞəɹ💪Ѧ∂ммї⒩_⒣α¢K∃ʀ_∀ηÐ_α∂ɪɴ_⒥ø⒦⒠ℜ_😎etehade_jokerɐslı😈օղҽ_ահíϲհ_օաղҽɾ_ղօԵ_ՀҽɑӀɑղժ_ʍɾ✊∇ICΣ_ΩШΠ_MΣΔΠ_ΩШΠ_ΩШΠ_ΩШΠ_HΔCҜΣR（ΦωΦ）(◉Θ◉)🚫ɐpɯı [152358422] deleted user  user#id152358422
+ 
+[ Thu Feb 18 14:00:10 2016 ]=>  ♚♔©®ℳ£ℜคʝʝ¤ภ©®♔♚\👑øωИ€ℜ👑👅🇲🇪🇷🇦🇯_🇯🇴🇳👅🇷🇪🇵🇴🇷🇹_✋🇦🇩🇲🇮🇳✌ɧą¢ƙɛγ_💪Ѧη◎η¥м◎ʊ﹩❤ʍ._ղ❤їηґ℮ℓℓ💋Ѧ∂мїηї﹩†ґѦ†ї◎η_◎ẘη℮ґ_ℳℜ👊ⓙⓞⓚⓔⓡ👌👎ɐpɯııu_ɥɐɔʞəɹ💪Ѧ∂ммї⒩_⒣α¢K∃ʀ_∀ηÐ_α∂ɪɴ_⒥ø⒦⒠ℜ_😎etehade_jokerɐslı😈օղҽ_ահíϲհ_օաղҽɾ_ղօԵ_ՀҽɑӀɑղժ_ʍɾ✊∇ICΣ_ΩШΠ_MΣΔΠ_ΩШΠ_ΩШΠ_ΩШΠ_HΔCҜΣR（ΦωΦ）(◉Θ◉)🚫ɐpɯı [152358422] deleted user  user#id152358422
+ 
+[ Thu Feb 18 14:07:01 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Thu Feb 18 14:07:04 2016 ]=>  Fαrzαd_@H4J [160522435] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Thu Feb 18 14:07:04 2016 ]=>  ______‌‌_ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Thu Feb 18 14:07:04 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] spammed and kicked ! 
+ 
+[ Thu Feb 18 14:07:04 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] spammed and kicked ! 
+ 
+[ Thu Feb 18 14:07:04 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 14:07:04 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 14:07:06 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Thu Feb 18 14:07:06 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Thu Feb 18 14:07:07 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id144907045
+ 
+[ Thu Feb 18 14:07:07 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id144907045
+ 
+[ Thu Feb 18 14:07:07 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Thu Feb 18 14:07:07 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Thu Feb 18 14:07:07 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Thu Feb 18 14:07:07 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Thu Feb 18 14:07:17 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Thu Feb 18 14:13:08 2016 ]=>  👑CEWER👑_🔱Ŧ[_t_[₣]_B_]β🔱_⚠️ĆΞЖΞŘ⚠️XOX [153545455] spammed and kicked ! 
+ 
+[ Thu Feb 18 14:13:08 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id153545455
+ 
+[ Thu Feb 18 14:13:08 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id153545455
+ 
+[ Thu Feb 18 14:19:24 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 14:23:01 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 14:24:15 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Thu Feb 18 14:25:22 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id132970804
+ 
+[ Thu Feb 18 14:25:22 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id132970804
+ 
+[ Thu Feb 18 14:27:06 2016 ]=>  ↻عـْـٍْـٍْـٍْـٍْـٍْـٍْـٍْـٍْر↠Z͜͡X͜͡↞شـٍْـٍْـٍْـٍْـٍْـٍْـٍْـٍْي↺_☣╭⋂╮(ّ◥ّ◣◌╔╿╗◌◢ّ◤ّ)╭⋂╮☣ [104035413] is banned and kicked ! 
+ 
+[ Thu Feb 18 14:27:06 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id104035413
+ 
+[ Thu Feb 18 14:27:06 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id104035413
+ 
+[ Thu Feb 18 14:27:17 2016 ]=>  efilkcalb™_matroper [85831686] deleted user  user#id85831686
+ 
+[ Thu Feb 18 14:27:17 2016 ]=>  efilkcalb™_matroper [85831686] deleted user  user#id85831686
+ 
+[ Thu Feb 18 14:27:19 2016 ]=>  efilkcalb™_matroper [85831686] deleted user  user#id85831686
+ 
+[ Thu Feb 18 14:27:19 2016 ]=>  efilkcalb™_matroper [85831686] deleted user  user#id85831686
+ 
+[ Thu Feb 18 14:28:15 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Thu Feb 18 14:28:16 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Thu Feb 18 14:28:16 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 14:28:18 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 14:28:19 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Thu Feb 18 14:28:19 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Thu Feb 18 14:28:19 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 14:28:19 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] spammed and kicked ! 
+ 
+[ Thu Feb 18 14:28:19 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] spammed and kicked ! 
+ 
+[ Thu Feb 18 14:28:20 2016 ]=>  ابراهیم [132970804] is banned and kicked ! 
+ 
+[ Thu Feb 18 14:28:20 2016 ]=>  ابراهیم [132970804] banned user is talking !
+ 
+[ Thu Feb 18 14:28:20 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Thu Feb 18 14:28:21 2016 ]=>  ابراهیم [132970804] banned user is talking !
+ 
+[ Thu Feb 18 14:28:21 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id132970804
+ 
+[ Thu Feb 18 14:28:21 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id132970804
+ 
+[ Thu Feb 18 14:28:21 2016 ]=>  ↻عـْـٍْـٍْـٍْـٍْـٍْـٍْـٍْـٍْر↠Z͜͡X͜͡↞شـٍْـٍْـٍْـٍْـٍْـٍْـٍْـٍْي↺_☣╭⋂╮(ّ◥ّ◣◌╔╿╗◌◢ّ◤ّ)╭⋂╮☣ [104035413] is banned and kicked ! 
+ 
+[ Thu Feb 18 14:28:21 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id104035413
+ 
+[ Thu Feb 18 14:28:21 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id104035413
+ 
+[ Thu Feb 18 14:28:22 2016 ]=>  efilkcalb™_matroper [85831686] deleted user  user#id85831686
+ 
+[ Thu Feb 18 14:28:22 2016 ]=>  efilkcalb™_matroper [85831686] deleted user  user#id85831686
+ 
+[ Thu Feb 18 14:28:22 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Thu Feb 18 14:28:23 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 14:28:23 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 14:28:23 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] locked badw 
+ 
+[ Thu Feb 18 14:28:23 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 14:28:23 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 14:28:24 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] demoted @@Shahabambesik
+ 
+[ Thu Feb 18 14:28:25 2016 ]=>  ‮katohsorlfa_⛄⛄_‮MATROPER [134618808] spammed and kicked ! 
+ 
+[ Thu Feb 18 14:28:25 2016 ]=>  ______‌‌_ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Thu Feb 18 14:28:26 2016 ]=>  🌀Amirhosein🌀 [101935103] deleted user  user#id101935103
+ 
+[ Thu Feb 18 14:28:26 2016 ]=>  🌀Amirhosein🌀 [101935103] deleted user  user#id101935103
+ 
+[ Thu Feb 18 14:28:27 2016 ]=>  👑CEWER👑_🔱Ŧ[_t_[₣]_B_]β🔱_⚠️ĆΞЖΞŘ⚠️XOX [153545455] used /id 
+ 
+[ Thu Feb 18 14:28:28 2016 ]=>  🚀NEGATIVE🚀 [68747297] spammed and kicked ! 
+ 
+[ Thu Feb 18 14:29:27 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id159040152
+ 
+[ Thu Feb 18 14:29:27 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id159040152
+ 
+[ Thu Feb 18 14:41:10 2016 ]=>  ______‌‌_ [187769689] Used /help
+ 
+[ Thu Feb 18 14:41:43 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id190133495
+ 
+[ Thu Feb 18 14:41:43 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id190133495
+ 
+[ Thu Feb 18 14:45:56 2016 ]=>  ______‌‌_ [187769689] requested group stats 
+ 
+[ Thu Feb 18 14:56:14 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id133478263
+ 
+[ Thu Feb 18 14:56:14 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id133478263
+ 
+[ Thu Feb 18 14:56:25 2016 ]=>  ______‌‌_ [187769689] locked link 
+ 
+[ Thu Feb 18 15:25:42 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 15:25:55 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 15:27:31 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 15:27:31 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 15:27:31 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id159040152
+ 
+[ Thu Feb 18 15:27:31 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id159040152
+ 
+[ Thu Feb 18 15:27:33 2016 ]=>  ______‌‌_ [187769689] Used /help
+ 
+[ Thu Feb 18 15:27:33 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id190133495
+ 
+[ Thu Feb 18 15:27:33 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id190133495
+ 
+[ Thu Feb 18 15:27:34 2016 ]=>  ______‌‌_ [187769689] requested group stats 
+ 
+[ Thu Feb 18 15:27:35 2016 ]=>  MR_Degza_シ_(Reportam)__‌‌_‌‌_↬B↯LH⇜_‌‌_‌‌████████████████████████████████████████████████▅█▅█▅█▅▅█▅█▅█▅█▅██▅█▅█▅██▅█▅█▅█▅█▅█▅█▅█▅█▅█▅▅█▅█▅█▅█▅█▅█▅█▅█▅█▅█▅█▅█▅█▅█▅█▅██▅▅█▅█▅█▅█▅█▅█▅█▅█▅█▅▅█▅█▅█▅█▅█▅██▆█▆█▆▆█_Heh___●______fuck____________sick______________😠_REPORTAM‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_؟؟_‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_Heh___●______fuck____‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌‌ [133478263] banned user is talking !
+ 
+[ Thu Feb 18 15:27:35 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id133478263
+ 
+[ Thu Feb 18 15:27:35 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id133478263
+ 
+[ Thu Feb 18 15:27:35 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] spammed and kicked ! 
+ 
+[ Thu Feb 18 15:27:35 2016 ]=>  ______‌‌_ [187769689] locked link 
+ 
+[ Thu Feb 18 15:27:38 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 15:27:38 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 15:27:39 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 15:27:39 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 15:27:39 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 15:27:39 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 15:36:46 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 15:36:46 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 15:36:46 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 15:36:46 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 15:36:46 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 15:36:46 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 16:08:18 2016 ]=>  ค๓เггєzค [105236672] deleted user  user#id105236672
+ 
+[ Thu Feb 18 16:08:18 2016 ]=>  ค๓เггєzค [105236672] deleted user  user#id105236672
+ 
+[ Thu Feb 18 16:10:22 2016 ]=>  E_M_C™ [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 16:10:22 2016 ]=>  E_M_C™ [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 16:10:28 2016 ]=>  ค๓เггєzค [105236672] deleted user  user#id105236672
+ 
+[ Thu Feb 18 16:10:28 2016 ]=>  ค๓เггєzค [105236672] deleted user  user#id105236672
+ 
+[ Thu Feb 18 16:10:42 2016 ]=>  ค๓เггєzค [105236672] deleted user  user#id105236672
+ 
+[ Thu Feb 18 16:10:42 2016 ]=>  ค๓เггєzค [105236672] deleted user  user#id105236672
+ 
+[ Thu Feb 18 16:42:29 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 16:47:14 2016 ]=>  ______‌ [127845423] used /id 
+ 
+[ Thu Feb 18 19:40:46 2016 ]=>  امی🚬ر_خلا💫ف_کار [194614421] spammed and kicked ! 
+ 
+[ Thu Feb 18 19:40:47 2016 ]=>  E_M_C™ [0] deleted user  user#id194614421
+ 
+[ Thu Feb 18 19:40:47 2016 ]=>  E_M_C™ [0] deleted user  user#id194614421
+ 
+[ Thu Feb 18 19:41:45 2016 ]=>  امی🚬ر_خلا💫ف_کار [194614421] is banned and kicked ! 
+ 
+[ Thu Feb 18 19:41:45 2016 ]=>  E_M_C™ [0] deleted user  user#id194614421
+ 
+[ Thu Feb 18 19:41:45 2016 ]=>  E_M_C™ [0] deleted user  user#id194614421
+ 
+[ Thu Feb 18 20:05:25 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Thu Feb 18 20:05:25 2016 ]=>  E_M_C™ [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 20:05:25 2016 ]=>  E_M_C™ [0] deleted user  user#id140925196
+ 
+[ Thu Feb 18 20:05:49 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Thu Feb 18 20:08:10 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] unlocked flood 
+ 
+[ Thu Feb 18 20:08:36 2016 ]=>  گروه های رایگان U.B🆓 Ramin [140925196] setted [140925196] as owner
+ 
+[ Thu Feb 18 20:40:46 2016 ]=>  E_M_C™ [0] deleted user  user#id194614421
+ 
+[ Thu Feb 18 20:40:46 2016 ]=>  E_M_C™ [0] deleted user  user#id194614421
+ 
+[ Thu Feb 18 20:40:47 2016 ]=>  امی🚬ر_خلا💫ف_کار [194614421] is banned and kicked ! 
+ 
+[ Thu Feb 18 20:40:47 2016 ]=>  E_M_C™ [0] deleted user  user#id194614421
+ 
+[ Thu Feb 18 20:40:47 2016 ]=>  E_M_C™ [0] deleted user  user#id194614421
+ 
+[ Thu Feb 18 21:40:39 2016 ]=>  ▼⇜нιѕαмι∂нαM⇝▲ [122922722] is banned and kicked ! 
+ 
+[ Thu Feb 18 21:40:57 2016 ]=>  E_M_C™ [0] deleted user  user#id122922722
+ 
+[ Thu Feb 18 21:40:57 2016 ]=>  E_M_C™ [0] deleted user  user#id122922722
+ 
+[ Fri Feb 19 00:13:15 2016 ]=>  🚀NEGATIVE🚀 [68747297] used /id 
+ 
+[ Fri Feb 19 06:02:17 2016 ]=>  🗼Shahabsaf🗼 [171608708] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Fri Feb 19 06:04:23 2016 ]=>  Hanane [136604190] deleted user  user#id136604190
+ 
+[ Fri Feb 19 06:04:23 2016 ]=>  Hanane [136604190] deleted user  user#id136604190
+ 
+[ Fri Feb 19 06:36:43 2016 ]=>  ______‌‌_ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 06:36:44 2016 ]=>  ______‌‌_ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 06:37:01 2016 ]=>  ______‌‌_ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 06:37:06 2016 ]=>  ______‌‌_ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 06:54:49 2016 ]=>  🗼Shahabsaf🗼 [171608708] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Fri Feb 19 06:54:50 2016 ]=>  Hanane [136604190] deleted user  user#id136604190
+ 
+[ Fri Feb 19 06:54:50 2016 ]=>  Hanane [136604190] deleted user  user#id136604190
+ 
+[ Fri Feb 19 06:56:33 2016 ]=>  ______‌‌_ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 06:56:33 2016 ]=>  ______‌‌_ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 06:56:33 2016 ]=>  ______‌‌_ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 06:56:33 2016 ]=>  ______‌‌_ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 07:32:38 2016 ]=>  E_M_C™ [0] deleted user  user#id176508008
+ 
+[ Fri Feb 19 07:32:38 2016 ]=>  E_M_C™ [0] deleted user  user#id176508008
+ 
+[ Fri Feb 19 07:56:35 2016 ]=>  E_M_C™ [0] deleted user  user#id176508008
+ 
+[ Fri Feb 19 07:56:35 2016 ]=>  E_M_C™ [0] deleted user  user#id176508008
+ 
+[ Fri Feb 19 08:04:50 2016 ]=>  👑๓єђ๔เ👑👑๒lคςк_tєค๓👑 [176508008] banned user is talking !
+ 
+[ Fri Feb 19 08:04:50 2016 ]=>  E_M_C™ [0] deleted user  user#id176508008
+ 
+[ Fri Feb 19 08:04:50 2016 ]=>  E_M_C™ [0] deleted user  user#id176508008
+ 
+[ Fri Feb 19 11:15:53 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 11:49:25 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 12:09:46 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 14:11:05 2016 ]=>  HҽŚɑʍ_(Ե.ժ) [115492426] deleted user  user#id115492426
+ 
+[ Fri Feb 19 14:11:05 2016 ]=>  HҽŚɑʍ_(Ե.ժ) [115492426] deleted user  user#id115492426
+ 
+[ Fri Feb 19 15:05:53 2016 ]=>  ℳiℓα∂ [110594295] is banned and kicked ! 
+ 
+[ Fri Feb 19 15:05:53 2016 ]=>  E_M_C™ [0] deleted user  user#id110594295
+ 
+[ Fri Feb 19 15:05:53 2016 ]=>  E_M_C™ [0] deleted user  user#id110594295
+ 
+[ Fri Feb 19 15:05:53 2016 ]=>  E_M_C™ [0] deleted user  user#id110594295
+ 
+[ Fri Feb 19 15:06:17 2016 ]=>  ______‌‌_ [187769689] Used /res HACKER0011
+ 
+[ Fri Feb 19 15:06:51 2016 ]=>  ZeD_Open_Source_👎😡 [162418956] used /id 
+ 
+[ Fri Feb 19 15:08:59 2016 ]=>  😈ȺӀìɾҽՀą😈✞✟sÅłiß✟✞👻_Report [57426785] deleted user  user#id57426785
+ 
+[ Fri Feb 19 15:08:59 2016 ]=>  😈ȺӀìɾҽՀą😈✞✟sÅłiß✟✞👻_Report [57426785] deleted user  user#id57426785
+ 
+[ Fri Feb 19 15:08:59 2016 ]=>  😈ȺӀìɾҽՀą😈✞✟sÅłiß✟✞👻_Report [57426785] deleted user  user#id57426785
+ 
+[ Fri Feb 19 15:09:56 2016 ]=>  E_M_C™ [0] deleted user  user#id161731036
+ 
+[ Fri Feb 19 15:09:56 2016 ]=>  E_M_C™ [0] deleted user  user#id161731036
+ 
+[ Fri Feb 19 15:09:56 2016 ]=>  E_M_C™ [0] deleted user  user#id161731036
+ 
+[ Fri Feb 19 15:10:23 2016 ]=>  ______‌‌_ [187769689] unlocked tag 
+ 
+[ Fri Feb 19 17:07:19 2016 ]=>  Fαrzαd_@H4J [160522435] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Fri Feb 19 17:07:29 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:08:40 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:08:43 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:08:59 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:09:11 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:10:08 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:10:29 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:10:46 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:10:55 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:11:06 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:11:15 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:11:33 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:11:42 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:11:56 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:12:00 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:12:25 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:12:28 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:12:37 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:13:07 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:13:29 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:13:53 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:14:16 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:14:30 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:14:34 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:14:52 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:15:00 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:15:01 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:15:17 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:15:24 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:15:32 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:15:39 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:15:48 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Fri Feb 19 17:16:03 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:16:36 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:16:52 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:16:54 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:18:05 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:18:29 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:18:40 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:18:46 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:19:00 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:19:10 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:19:22 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:20:03 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:20:29 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:20:39 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:20:45 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:20:46 2016 ]=>  ______‌‌_ [187769689] Used /help
+ 
+[ Fri Feb 19 17:20:52 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:21:29 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:21:39 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:22:00 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:22:30 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:22:39 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:22:45 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:22:51 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /idetergent 
+ 
+[ Fri Feb 19 17:22:54 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:23:07 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Fri Feb 19 17:23:08 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:23:23 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:23:26 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:23:27 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:23:31 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:23:32 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:23:41 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:23:41 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] set flood to [1]
+ 
+[ Fri Feb 19 17:23:51 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:23:57 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:24:02 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:24:10 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:24:16 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:24:20 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] locked flood 
+ 
+[ Fri Feb 19 17:24:21 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:24:25 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:24:32 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:24:32 2016 ]=>  MR_Bangi😐✌ [187769689] set flood to [0]
+ 
+[ Fri Feb 19 17:24:32 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] set flood to [5]
+ 
+[ Fri Feb 19 17:24:37 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:24:39 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:24:40 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:24:42 2016 ]=>  E_M_C™ [0] deleted user  user#id140925196
+ 
+[ Fri Feb 19 17:24:42 2016 ]=>  E_M_C™ [0] deleted user  user#id140925196
+ 
+[ Fri Feb 19 17:24:42 2016 ]=>  E_M_C™ [0] deleted user  user#id140925196
+ 
+[ Fri Feb 19 17:24:51 2016 ]=>  E_M_C™ [0] deleted user  user#id110594295
+ 
+[ Fri Feb 19 17:24:51 2016 ]=>  E_M_C™ [0] deleted user  user#id110594295
+ 
+[ Fri Feb 19 17:24:51 2016 ]=>  E_M_C™ [0] deleted user  user#id110594295
+ 
+[ Fri Feb 19 17:25:11 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Fri Feb 19 17:25:16 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Fri Feb 19 17:26:01 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:26:07 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:26:15 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:26:19 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:26:23 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:26:26 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:26:31 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:26:35 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:26:35 2016 ]=>  👑IղƒҽɾղɑӀ_👑 [175531746] used /id 
+ 
+[ Fri Feb 19 17:26:37 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:26:52 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:26:53 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:26:59 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:27:02 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:27:08 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:27:32 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:27:37 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:27:43 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:27:48 2016 ]=>  MR_Bangi😐✌ [187769689] added a banned user >140925196
+ 
+[ Fri Feb 19 17:27:57 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:28:04 2016 ]=>  E_M_C™ [0] deleted user  user#id187769689
+ 
+[ Fri Feb 19 17:28:04 2016 ]=>  E_M_C™ [0] deleted user  user#id187769689
+ 
+[ Fri Feb 19 17:28:04 2016 ]=>  E_M_C™ [0] deleted user  user#id187769689
+ 
+[ Fri Feb 19 17:28:17 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] locked member 
+ 
+[ Fri Feb 19 17:28:37 2016 ]=>  E_M_C™ [0] deleted user  user#id119989724
+ 
+[ Fri Feb 19 17:28:37 2016 ]=>  E_M_C™ [0] deleted user  user#id119989724
+ 
+[ Fri Feb 19 17:28:37 2016 ]=>  E_M_C™ [0] deleted user  user#id119989724
+ 
+[ Fri Feb 19 17:28:51 2016 ]=>  E_M_C™ [0] added a banned user >187769689
+ 
+[ Fri Feb 19 17:28:51 2016 ]=>  E_M_C™ [0] deleted user  187769689
+ 
+[ Fri Feb 19 17:29:00 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:29:10 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:29:14 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:29:16 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:29:18 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:29:21 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:29:23 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:29:54 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:29:57 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:29:58 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:29:59 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:30:06 2016 ]=>  ابراهیم2 [107522780] deleted user  user#id107522780
+ 
+[ Fri Feb 19 17:30:06 2016 ]=>  ابراهیم2 [107522780] deleted user  user#id107522780
+ 
+[ Fri Feb 19 17:30:06 2016 ]=>  ابراهیم2 [107522780] deleted user  user#id107522780
+ 
+[ Fri Feb 19 17:30:16 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:30:17 2016 ]=>  MR_Bangi😐✌ [187769689] deleted user  119989724
+ 
+[ Fri Feb 19 17:30:22 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:30:23 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:30:25 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:30:26 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:30:27 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:30:40 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:31:01 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:31:06 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:31:28 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:31:36 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:31:42 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:31:46 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:31:47 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:31:48 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:31:49 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:31:50 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:31:51 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:31:52 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:32:02 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:32:02 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:32:03 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:32:06 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:32:06 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:32:15 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:32:17 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:32:20 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:32:24 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:33:08 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:33:22 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:33:30 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:33:36 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:33:39 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:34:01 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:34:02 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:34:16 2016 ]=>  Mega_E_M_C❗Private❗ [197870636] deleted user  user#id197870636
+ 
+[ Fri Feb 19 17:34:16 2016 ]=>  Mega_E_M_C❗Private❗ [197870636] deleted user  user#id197870636
+ 
+[ Fri Feb 19 17:34:16 2016 ]=>  Mega_E_M_C❗Private❗ [197870636] deleted user  user#id197870636
+ 
+[ Fri Feb 19 17:34:20 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:34:22 2016 ]=>  MR_Bangi😐✌ [187769689] deleted user  197870636
+ 
+[ Fri Feb 19 17:34:23 2016 ]=>  E_M_C™ [0] deleted user  user#id197870636
+ 
+[ Fri Feb 19 17:34:23 2016 ]=>  E_M_C™ [0] deleted user  user#id197870636
+ 
+[ Fri Feb 19 17:34:23 2016 ]=>  E_M_C™ [0] deleted user  user#id197870636
+ 
+[ Fri Feb 19 17:34:23 2016 ]=>  E_M_C™ [0] deleted user  user#id197870636
+ 
+[ Fri Feb 19 17:34:23 2016 ]=>  E_M_C™ [0] deleted user  user#id197870636
+ 
+[ Fri Feb 19 17:34:23 2016 ]=>  E_M_C™ [0] deleted user  user#id197870636
+ 
+[ Fri Feb 19 17:34:26 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:34:26 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:34:29 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:34:36 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:34:41 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:34:43 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:34:45 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:34:46 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:34:47 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:34:49 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:35:03 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:35:03 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:35:07 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:35:09 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:35:10 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:35:13 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:35:21 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:35:24 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:35:28 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:35:29 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:35:31 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Fri Feb 19 17:35:33 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:35:36 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Fri Feb 19 17:35:40 2016 ]=>  E_M_C™ [0] deleted user  user#id140925196
+ 
+[ Fri Feb 19 17:35:40 2016 ]=>  E_M_C™ [0] deleted user  user#id140925196
+ 
+[ Fri Feb 19 17:35:40 2016 ]=>  E_M_C™ [0] deleted user  user#id140925196
+ 
+[ Fri Feb 19 17:36:16 2016 ]=>  MR_Bangi😐✌ [187769689] added a banned user >140925196
+ 
+[ Fri Feb 19 17:36:16 2016 ]=>  MR_Bangi😐✌ [187769689] deleted user  140925196
+ 
+[ Fri Feb 19 17:36:57 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:37:04 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:37:09 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:37:16 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:37:28 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:37:51 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:37:56 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Fri Feb 19 17:37:56 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Fri Feb 19 17:37:56 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Fri Feb 19 17:38:02 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:38:02 2016 ]=>  MR_Bangi😐✌ [187769689] added a banned user >175531746
+ 
+[ Fri Feb 19 17:38:02 2016 ]=>  MR_Bangi😐✌ [187769689] deleted user  175531746
+ 
+[ Fri Feb 19 17:38:03 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Fri Feb 19 17:38:03 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Fri Feb 19 17:38:03 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Fri Feb 19 17:38:20 2016 ]=>  MR_Bangi😐✌ [187769689] deleted user  175531746
+ 
+[ Fri Feb 19 17:38:20 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Fri Feb 19 17:38:20 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Fri Feb 19 17:38:20 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Fri Feb 19 17:38:35 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] banned user is talking !
+ 
+[ Fri Feb 19 17:38:40 2016 ]=>  MR_Bangi😐✌ [187769689] deleted user  175531746
+ 
+[ Fri Feb 19 17:38:41 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Fri Feb 19 17:38:41 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Fri Feb 19 17:38:41 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Fri Feb 19 17:38:41 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Fri Feb 19 17:38:41 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Fri Feb 19 17:38:41 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Fri Feb 19 17:38:51 2016 ]=>  MR_Bangi😐✌ [187769689] requested group settings 
+ 
+[ Fri Feb 19 17:38:56 2016 ]=>  MR_Bangi😐✌ [187769689] unlocked member 
+ 
+[ Fri Feb 19 17:39:09 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Fri Feb 19 17:39:24 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Fri Feb 19 17:39:28 2016 ]=>  👑IղƒҽɾղɑӀ_👑 [175531746] spammed and kicked ! 
+ 
+[ Fri Feb 19 17:39:29 2016 ]=>  MR_Bangi😐✌ [187769689] Used /help
+ 
+[ Fri Feb 19 17:39:31 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /idetergent 
+ 
+[ Fri Feb 19 17:39:31 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Fri Feb 19 17:39:32 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] set flood to [1]
+ 
+[ Fri Feb 19 17:39:33 2016 ]=>  ℳiℓα∂ [110594295] spammed and kicked ! 
+ 
+[ Fri Feb 19 17:47:01 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] added a banned user >150289672
+ 
+[ Fri Feb 19 17:50:28 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Fri Feb 19 17:51:26 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Fri Feb 19 17:52:31 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] left using kickme 
+ 
+[ Fri Feb 19 17:52:31 2016 ]=>  E_M_C™ [0] deleted user  user#id140925196
+ 
+[ Fri Feb 19 17:52:31 2016 ]=>  E_M_C™ [0] deleted user  user#id140925196
+ 
+[ Fri Feb 19 17:52:31 2016 ]=>  E_M_C™ [0] deleted user  user#id140925196
+ 
+[ Fri Feb 19 17:52:53 2016 ]=>  E_M_C™ [0] deleted user  user#id132618194
+ 
+[ Fri Feb 19 17:52:53 2016 ]=>  E_M_C™ [0] deleted user  user#id132618194
+ 
+[ Fri Feb 19 17:52:54 2016 ]=>  E_M_C™ [0] deleted user  user#id132618194
+ 
+[ Fri Feb 19 17:57:53 2016 ]=>  گروه_های_رایگان_U.B🆓_Ramin [140925196] left using kickme 
+ 
+[ Fri Feb 19 17:57:53 2016 ]=>  E_M_C™ [0] deleted user  user#id140925196
+ 
+[ Fri Feb 19 17:57:53 2016 ]=>  E_M_C™ [0] deleted user  user#id140925196
+ 
+[ Fri Feb 19 17:57:53 2016 ]=>  E_M_C™ [0] deleted user  user#id140925196
+ 
+[ Fri Feb 19 18:12:39 2016 ]=>  E_M_C™ [0] deleted user  user#id147005838
+ 
+[ Fri Feb 19 18:12:39 2016 ]=>  E_M_C™ [0] deleted user  user#id147005838
+ 
+[ Fri Feb 19 18:12:39 2016 ]=>  E_M_C™ [0] deleted user  user#id147005838
+ 
+[ Fri Feb 19 18:15:17 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Fri Feb 19 18:44:03 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Fri Feb 19 18:48:11 2016 ]=>  👺💀Jσςκεг_Ɓlλςκ_👺💀_َ [132618194] deleted user  user#id132618194
+ 
+[ Fri Feb 19 18:48:11 2016 ]=>  👺💀Jσςκεг_Ɓlλςκ_👺💀_َ [132618194] deleted user  user#id132618194
+ 
+[ Fri Feb 19 18:48:11 2016 ]=>  👺💀Jσςκεг_Ɓlλςκ_👺💀_َ [132618194] deleted user  user#id132618194
+ 
+[ Fri Feb 19 18:54:22 2016 ]=>  卐Dal🔥ρєη∂єℓтση🔥ton卐 [170202870] used /id 
+ 
+[ Fri Feb 19 18:54:56 2016 ]=>  MR_Bangi😐✌ [187769689] Used /help
+ 
+[ Fri Feb 19 18:55:41 2016 ]=>  MR_Bangi😐✌ [187769689] Used /res shayan123hacker
+ 
+[ Fri Feb 19 18:56:54 2016 ]=>  卐Dal🔥ρєη∂єℓтση🔥ton卐 [170202870] spammed and kicked ! 
+ 
+[ Fri Feb 19 18:56:54 2016 ]=>  E_M_C™ [0] deleted user  user#id170202870
+ 
+[ Fri Feb 19 18:56:54 2016 ]=>  E_M_C™ [0] deleted user  user#id170202870
+ 
+[ Fri Feb 19 18:56:54 2016 ]=>  E_M_C™ [0] deleted user  user#id170202870
+ 
+[ Fri Feb 19 18:57:07 2016 ]=>  MR_Bangi😐✌ [187769689] set flood to [15]
+ 
+[ Fri Feb 19 18:58:52 2016 ]=>  Ďïζķ [188301332] deleted user  user#id188301332
+ 
+[ Fri Feb 19 18:58:52 2016 ]=>  Ďïζķ [188301332] deleted user  user#id188301332
+ 
+[ Fri Feb 19 18:58:52 2016 ]=>  Ďïζķ [188301332] deleted user  user#id188301332
+ 
+[ Fri Feb 19 18:58:59 2016 ]=>  E_M_C™ [0] deleted user  user#id115887468
+ 
+[ Fri Feb 19 18:58:59 2016 ]=>  E_M_C™ [0] deleted user  user#id115887468
+ 
+[ Fri Feb 19 18:58:59 2016 ]=>  E_M_C™ [0] deleted user  user#id115887468
+ 
+[ Fri Feb 19 18:59:12 2016 ]=>  MR_Bangi😐✌ [187769689] unlocked link 
+ 
+[ Fri Feb 19 19:44:05 2016 ]=>  MR_Bangi😐✌ [187769689] Used /help
+ 
+[ Fri Feb 19 19:44:05 2016 ]=>  MR_Bangi😐✌ [187769689] Used /help
+ 
+[ Fri Feb 19 19:44:06 2016 ]=>  卐Dal🔥ρєη∂єℓтση🔥ton卐 [170202870] used /id 
+ 
+[ Fri Feb 19 19:44:07 2016 ]=>  MR_Bangi😐✌ [187769689] Used /help
+ 
+[ Fri Feb 19 19:44:08 2016 ]=>  MR_Bangi😐✌ [187769689] Used /res shayan123hacker
+ 
+[ Fri Feb 19 19:44:09 2016 ]=>  E_M_C™ [0] deleted user  user#id170202870
+ 
+[ Fri Feb 19 19:44:09 2016 ]=>  E_M_C™ [0] deleted user  user#id170202870
+ 
+[ Fri Feb 19 19:44:09 2016 ]=>  E_M_C™ [0] deleted user  user#id170202870
+ 
+[ Fri Feb 19 19:44:09 2016 ]=>  MR_Bangi😐✌ [187769689] set flood to [15]
+ 
+[ Fri Feb 19 19:44:11 2016 ]=>  Ďïζķ [188301332] deleted user  user#id188301332
+ 
+[ Fri Feb 19 19:44:11 2016 ]=>  Ďïζķ [188301332] deleted user  user#id188301332
+ 
+[ Fri Feb 19 19:44:11 2016 ]=>  Ďïζķ [188301332] deleted user  user#id188301332
+ 
+[ Fri Feb 19 19:44:11 2016 ]=>  E_M_C™ [0] deleted user  user#id115887468
+ 
+[ Fri Feb 19 19:44:11 2016 ]=>  E_M_C™ [0] deleted user  user#id115887468
+ 
+[ Fri Feb 19 19:44:11 2016 ]=>  E_M_C™ [0] deleted user  user#id115887468
+ 
+[ Fri Feb 19 19:44:11 2016 ]=>  MR_Bangi😐✌ [187769689] unlocked link 
+ 
+[ Fri Feb 19 19:55:33 2016 ]=>  Ďïζķ [188301332] deleted user  user#id188301332
+ 
+[ Fri Feb 19 19:55:33 2016 ]=>  Ďïζķ [188301332] deleted user  user#id188301332
+ 
+[ Fri Feb 19 19:55:33 2016 ]=>  Ďïζķ [188301332] deleted user  user#id188301332
+ 
+[ Fri Feb 19 19:55:34 2016 ]=>  E_M_C™ [0] deleted user  user#id115887468
+ 
+[ Fri Feb 19 19:55:34 2016 ]=>  E_M_C™ [0] deleted user  user#id115887468
+ 
+[ Fri Feb 19 19:55:34 2016 ]=>  E_M_C™ [0] deleted user  user#id115887468
+ 
+[ Fri Feb 19 19:55:34 2016 ]=>  MR_Bangi😐✌ [187769689] unlocked link 
+ 
+[ Fri Feb 19 20:10:08 2016 ]=>  ‮__sarakcalb [116408684] used /id 
+ 
+[ Fri Feb 19 20:11:49 2016 ]=>  ‮__sarakcalb [116408684] requested group rules
+ 
+[ Sat Feb 20 00:24:42 2016 ]=>  👑m.m.f👑 [150289672] banned user is talking !
+ 
+[ Sat Feb 20 00:24:48 2016 ]=>  👑m.m.f👑 [150289672] banned user is talking !
+ 
+[ Sat Feb 20 00:24:53 2016 ]=>  👑m.m.f👑 [150289672] banned user is talking !
+ 
+[ Sat Feb 20 00:25:04 2016 ]=>  👑m.m.f👑 [150289672] banned user is talking !
+ 
+[ Sat Feb 20 00:25:21 2016 ]=>  👑m.m.f👑 [150289672] banned user is talking !
+ 
+[ Sat Feb 20 00:32:11 2016 ]=>  🔻🔼ρoω_ږٍيٍپٍـٍ؁ٍـٍۅٍږٍتٍـٍ؁ٍـٍم_sтoη🔽🔺 [144727404] deleted user  user#id144727404
+ 
+[ Sat Feb 20 00:32:11 2016 ]=>  🔻🔼ρoω_ږٍيٍپٍـٍ؁ٍـٍۅٍږٍتٍـٍ؁ٍـٍم_sтoη🔽🔺 [144727404] deleted user  user#id144727404
+ 
+[ Sat Feb 20 00:32:11 2016 ]=>  🔻🔼ρoω_ږٍيٍپٍـٍ؁ٍـٍۅٍږٍتٍـٍ؁ٍـٍم_sтoη🔽🔺 [144727404] deleted user  user#id144727404
+ 
+[ Sat Feb 20 03:53:19 2016 ]=>  👑m.m.f👑 [150289672] banned user is talking !
+ 
+[ Sat Feb 20 03:54:50 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Sat Feb 20 04:03:00 2016 ]=>  👑m.m.f👑 [150289672] banned user is talking !
+ 
+[ Sat Feb 20 04:03:04 2016 ]=>  👑m.m.f👑 [150289672] banned user is talking !
+ 
+[ Sat Feb 20 04:03:12 2016 ]=>  👑m.m.f👑 [150289672] banned user is talking !
+ 
+[ Sat Feb 20 06:12:24 2016 ]=>  🚀NEGATIVE🚀_ZED™ [68747297] used /id 
+ 
+[ Sat Feb 20 08:38:00 2016 ]=>  ℵιιιℵѦιιιℵѦιιι_CIΔ+Uβ_🇸.🇰.🇷.🇮.🇱.🇱.🇪.🇽.CIΔ_TΣΔM,CIΔ_LIҒΣ,CIΔ_ҒΔMILΨ._∂◎η†_ƒʊ¢к_wiႠႬ_ႮႽ,_🇸.🇰.🇷.🇮.🇱.🇱.🇪.🇽 [198455891] banned user is talking !
+ 
+[ Sat Feb 20 08:38:01 2016 ]=>  E_M_C™ [0] deleted user  user#id198455891
+ 
+[ Sat Feb 20 08:38:01 2016 ]=>  E_M_C™ [0] deleted user  user#id198455891
+ 
+[ Sat Feb 20 08:38:01 2016 ]=>  E_M_C™ [0] deleted user  user#id198455891
+ 
+[ Sat Feb 20 09:18:41 2016 ]=>  ℵιιιℵѦιιιℵѦιιι_CIΔ+Uβ_🇸.🇰.🇷.🇮.🇱.🇱.🇪.🇽.CIΔ_TΣΔM,CIΔ_LIҒΣ,CIΔ_ҒΔMILΨ._∂◎η†_ƒʊ¢к_wiႠႬ_ႮႽ,_🇸.🇰.🇷.🇮.🇱.🇱.🇪.🇽 [198455891] is banned and kicked ! 
+ 
+[ Sat Feb 20 09:18:41 2016 ]=>  E_M_C™ [0] deleted user  user#id198455891
+ 
+[ Sat Feb 20 09:18:41 2016 ]=>  E_M_C™ [0] deleted user  user#id198455891
+ 
+[ Sat Feb 20 09:18:41 2016 ]=>  E_M_C™ [0] deleted user  user#id198455891
+ 
+[ Sat Feb 20 09:20:22 2016 ]=>  ℵιιιℵѦιιιℵѦιιι_CIΔ+Uβ_🇸.🇰.🇷.🇮.🇱.🇱.🇪.🇽.CIΔ_TΣΔM,CIΔ_LIҒΣ,CIΔ_ҒΔMILΨ._∂◎η†_ƒʊ¢к_wiႠႬ_ႮႽ,_🇸.🇰.🇷.🇮.🇱.🇱.🇪.🇽 [198455891] is banned and kicked ! 
+ 
+[ Sat Feb 20 09:20:23 2016 ]=>  E_M_C™ [0] deleted user  user#id198455891
+ 
+[ Sat Feb 20 09:20:23 2016 ]=>  E_M_C™ [0] deleted user  user#id198455891
+ 
+[ Sat Feb 20 09:20:23 2016 ]=>  E_M_C™ [0] deleted user  user#id198455891
+ 
+[ Sat Feb 20 10:45:12 2016 ]=>  🚀NEGATIVE🚀_ZED™ [68747297] used /id 
+ 
+[ Sat Feb 20 10:45:27 2016 ]=>  🚀NEGATIVE🚀_ZED™ [68747297] deleted user  user#id169430086
+ 
+[ Sat Feb 20 10:45:27 2016 ]=>  🚀NEGATIVE🚀_ZED™ [68747297] deleted user  user#id169430086
+ 
+[ Sat Feb 20 10:45:27 2016 ]=>  🚀NEGATIVE🚀_ZED™ [68747297] deleted user  user#id169430086
+ 
+[ Sat Feb 20 11:02:37 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Sat Feb 20 11:02:41 2016 ]=>  MR_Bangi😐✌ [187769689] requested group settings 
+ 
+[ Sat Feb 20 11:11:27 2016 ]=>  MR_Bangi😐✌ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Sat Feb 20 11:11:37 2016 ]=>  E_M_C™ [0] deleted user  user#id86927736
+ 
+[ Sat Feb 20 11:11:37 2016 ]=>  E_M_C™ [0] deleted user  user#id86927736
+ 
+[ Sat Feb 20 11:11:37 2016 ]=>  E_M_C™ [0] deleted user  user#id86927736
+ 
+[ Sat Feb 20 11:11:41 2016 ]=>  MR_Bangi😐✌ [187769689] locked link 
+ 
+[ Sat Feb 20 11:12:27 2016 ]=>  HowraM [86927736] is banned and kicked ! 
+ 
+[ Sat Feb 20 11:12:28 2016 ]=>  E_M_C™ [0] deleted user  user#id86927736
+ 
+[ Sat Feb 20 11:12:28 2016 ]=>  E_M_C™ [0] deleted user  user#id86927736
+ 
+[ Sat Feb 20 11:12:28 2016 ]=>  E_M_C™ [0] deleted user  user#id86927736
+ 
+[ Sat Feb 20 11:12:37 2016 ]=>  🚀NEGATIVE🚀_ZED™ [68747297] used /id 
+ 
+[ Sat Feb 20 11:12:52 2016 ]=>  HowraM [86927736] is banned and kicked ! 
+ 
+[ Sat Feb 20 11:12:52 2016 ]=>  E_M_C™ [0] deleted user  user#id86927736
+ 
+[ Sat Feb 20 11:12:52 2016 ]=>  E_M_C™ [0] deleted user  user#id86927736
+ 
+[ Sat Feb 20 11:12:52 2016 ]=>  E_M_C™ [0] deleted user  user#id86927736
+ 
+[ Sat Feb 20 11:12:55 2016 ]=>  میثم_منو_تنهایی [193039767] deleted user  user#id193039767
+ 
+[ Sat Feb 20 11:12:55 2016 ]=>  میثم_منو_تنهایی [193039767] deleted user  user#id193039767
+ 
+[ Sat Feb 20 11:12:55 2016 ]=>  میثم_منو_تنهایی [193039767] deleted user  user#id193039767
+ 
+[ Sat Feb 20 11:20:07 2016 ]=>  MR_Bangi😐✌ [187769689] Used /res KINGAPPSADMIN
+ 
+[ Sat Feb 20 13:14:55 2016 ]=>  🚀NEGATIVE🚀_ZED™ [68747297] requested group modlist
+ 
+[ Sat Feb 20 13:15:07 2016 ]=>  E_M_C™ [0] deleted user  user#id68747297
+ 
+[ Sat Feb 20 13:15:07 2016 ]=>  E_M_C™ [0] deleted user  user#id68747297
+ 
+[ Sat Feb 20 13:15:07 2016 ]=>  E_M_C™ [0] deleted user  user#id68747297
+ 
+[ Sat Feb 20 13:31:38 2016 ]=>  😎EhsanFox😎_🔱Rξβξℓ🔱 [146661928] Used /res shyansoft
+ 
+[ Sat Feb 20 13:52:25 2016 ]=>  🚀NEGATIVE🚀_ZED™ [68747297] banned user is talking !
+ 
+[ Sat Feb 20 13:52:25 2016 ]=>  🚀NEGATIVE🚀_ZED™ [68747297] banned user is talking !
+ 
+[ Sat Feb 20 13:52:25 2016 ]=>  🚀NEGATIVE🚀_ZED™ [68747297] banned user is talking !
+ 
+[ Sat Feb 20 13:52:25 2016 ]=>  E_M_C™ [0] deleted user  user#id68747297
+ 
+[ Sat Feb 20 13:52:25 2016 ]=>  E_M_C™ [0] deleted user  user#id68747297
+ 
+[ Sat Feb 20 13:52:25 2016 ]=>  E_M_C™ [0] deleted user  user#id68747297
+ 
+[ Sat Feb 20 14:47:34 2016 ]=>  ✿↝.._ℳìšš_ℳɪɲ๏̯͡๏_..↜✿ [942245] deleted user  user#id942245
+ 
+[ Sat Feb 20 14:47:34 2016 ]=>  ✿↝.._ℳìšš_ℳɪɲ๏̯͡๏_..↜✿ [942245] deleted user  user#id942245
+ 
+[ Sat Feb 20 14:47:34 2016 ]=>  ✿↝.._ℳìšš_ℳɪɲ๏̯͡๏_..↜✿ [942245] deleted user  user#id942245
+ 
+[ Sat Feb 20 14:50:20 2016 ]=>  E_M_C™ [0] deleted user  user#id146661928
+ 
+[ Sat Feb 20 14:50:20 2016 ]=>  E_M_C™ [0] deleted user  user#id146661928
+ 
+[ Sat Feb 20 14:50:20 2016 ]=>  E_M_C™ [0] deleted user  user#id146661928
+ 
+[ Sat Feb 20 15:21:14 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Sat Feb 20 15:21:16 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Sat Feb 20 15:21:22 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Sat Feb 20 15:22:21 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Sat Feb 20 15:22:24 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Sat Feb 20 15:32:59 2016 ]=>  👑m.m.f👑_⚜_†[_T_[ƒ]_B_]฿_⚜ [150289672] banned user is talking !
+ 
+[ Sat Feb 20 15:33:07 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Sat Feb 20 15:47:51 2016 ]=>  MR_Bangi😐✌ [187769689] Used /help
+ 
+[ Sat Feb 20 16:11:09 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Sat Feb 20 16:11:15 2016 ]=>  MR_Bangi😐✌ [187769689] Used /help
+ 
+[ Sat Feb 20 17:15:39 2016 ]=>  Fαrzαd_@H4J [160522435] used /id 
+ 
+[ Sat Feb 20 17:16:46 2016 ]=>  Fαrzαd_@H4J [160522435] used /id 
+ 
+[ Sat Feb 20 17:19:32 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Sat Feb 20 17:22:36 2016 ]=>  Hame_kare_bot [171875108] left using kickme 
+ 
+[ Sat Feb 20 17:22:36 2016 ]=>  E_M_C™ [0] deleted user  user#id171875108
+ 
+[ Sat Feb 20 17:22:36 2016 ]=>  E_M_C™ [0] deleted user  user#id171875108
+ 
+[ Sat Feb 20 17:22:36 2016 ]=>  E_M_C™ [0] deleted user  user#id171875108
+ 
+[ Sat Feb 20 17:24:59 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Sat Feb 20 17:32:44 2016 ]=>  Fαrzαd_@H4J [160522435] used /id 
+ 
+[ Sat Feb 20 17:33:43 2016 ]=>  MR_Bangi😐✌ [187769689] Used /res Shahabambesik
+ 
+[ Sat Feb 20 18:09:20 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Sat Feb 20 18:09:52 2016 ]=>  Fαrzαd_@H4J [160522435] used /id 
+ 
+[ Sat Feb 20 18:09:52 2016 ]=>  ______‌ [127845423] deleted user  user#id127845423
+ 
+[ Sat Feb 20 18:09:52 2016 ]=>  ______‌ [127845423] deleted user  user#id127845423
+ 
+[ Sat Feb 20 18:09:52 2016 ]=>  ______‌ [127845423] deleted user  user#id127845423
+ 
+[ Sat Feb 20 18:09:52 2016 ]=>  Fαrzαd_@H4J [160522435] used /id 
+ 
+[ Sat Feb 20 18:09:53 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Sat Feb 20 18:09:54 2016 ]=>  Hame_kare_bot [171875108] left using kickme 
+ 
+[ Sat Feb 20 18:09:54 2016 ]=>  E_M_C™ [0] deleted user  user#id171875108
+ 
+[ Sat Feb 20 18:09:54 2016 ]=>  E_M_C™ [0] deleted user  user#id171875108
+ 
+[ Sat Feb 20 18:09:54 2016 ]=>  E_M_C™ [0] deleted user  user#id171875108
+ 
+[ Sat Feb 20 18:09:55 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Sat Feb 20 18:09:57 2016 ]=>  Fαrzαd_@H4J [160522435] used /id 
+ 
+[ Sat Feb 20 18:09:57 2016 ]=>  MR_Bangi😐✌ [187769689] Used /res Shahabambesik
+ 
+[ Sat Feb 20 18:10:02 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Sat Feb 20 18:28:28 2016 ]=>  E_M_C™ [0] deleted user  user#id144659458
+ 
+[ Sat Feb 20 18:28:28 2016 ]=>  E_M_C™ [0] deleted user  user#id144659458
+ 
+[ Sat Feb 20 18:28:28 2016 ]=>  E_M_C™ [0] deleted user  user#id144659458
+ 
+[ Sat Feb 20 19:51:41 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Sat Feb 20 20:04:05 2016 ]=>  MR_Bangi😐✌ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Sat Feb 20 20:04:15 2016 ]=>  MR_Bangi😐✌ [187769689] used /idetergent 
+ 
+[ Sat Feb 20 20:04:47 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Sat Feb 20 20:04:53 2016 ]=>  E_M_C™ [0] deleted user  user#id157119400
+ 
+[ Sat Feb 20 20:04:53 2016 ]=>  E_M_C™ [0] deleted user  user#id157119400
+ 
+[ Sat Feb 20 20:04:53 2016 ]=>  E_M_C™ [0] deleted user  user#id157119400
+ 
+[ Sat Feb 20 20:05:17 2016 ]=>  MR_Bangi😐✌ [187769689] used /idetergent 
+ 
+[ Sat Feb 20 20:13:08 2016 ]=>  MR_Bangi😐✌ [187769689] set flood to [4]
+ 
+[ Sat Feb 20 20:13:16 2016 ]=>  MR_Bangi😐✌ [187769689] locked flood 
+ 
+[ Sat Feb 20 20:13:20 2016 ]=>  MR_Bangi😐✌ [187769689] locked bots 
+ 
+[ Sat Feb 20 20:13:36 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Sat Feb 20 20:13:37 2016 ]=>  MR_Bangi😐✌ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Sat Feb 20 20:13:38 2016 ]=>  MR_Bangi😐✌ [187769689] used /idetergent 
+ 
+[ Sat Feb 20 20:13:39 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Sat Feb 20 20:13:39 2016 ]=>  E_M_C™ [0] deleted user  user#id157119400
+ 
+[ Sat Feb 20 20:13:39 2016 ]=>  E_M_C™ [0] deleted user  user#id157119400
+ 
+[ Sat Feb 20 20:13:39 2016 ]=>  E_M_C™ [0] deleted user  user#id157119400
+ 
+[ Sat Feb 20 20:13:40 2016 ]=>  MR_Bangi😐✌ [187769689] used /idetergent 
+ 
+[ Sat Feb 20 20:13:42 2016 ]=>  MR_Bangi😐✌ [187769689] set flood to [4]
+ 
+[ Sat Feb 20 20:13:42 2016 ]=>  MR_Bangi😐✌ [187769689] locked flood 
+ 
+[ Sat Feb 20 20:13:42 2016 ]=>  MR_Bangi😐✌ [187769689] locked bots 
+ 
+[ Sat Feb 20 20:13:42 2016 ]=>  E_M_C™ [0] deleted user  user#id157119400
+ 
+[ Sat Feb 20 20:13:42 2016 ]=>  E_M_C™ [0] deleted user  user#id157119400
+ 
+[ Sat Feb 20 20:13:42 2016 ]=>  E_M_C™ [0] deleted user  user#id157119400
+ 
+[ Sat Feb 20 20:13:43 2016 ]=>  Mega_E_M_C❗Private❗ [197870636] added a bot > @MMF_bot
+ 
+[ Sat Feb 20 20:20:15 2016 ]=>  @CяєєƊ [118682430] used /id 
+ 
+[ Sat Feb 20 20:36:48 2016 ]=>  <dev>Mehrpouya</dev>‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌‌_‌_‌_‌_‌‌ [91054649] used /id 
+ 
+[ Sun Feb 21 03:59:35 2016 ]=>  MR_Bangi😐✌ [187769689] locked bots 
+ 
+[ Sun Feb 21 04:00:06 2016 ]=>  Mega_E_M_C❗Private❗ [197870636] added a bot > @Marg_bot
+ 
+[ Sun Feb 21 04:00:06 2016 ]=>  Mega_E_M_C❗Private❗ [197870636] added a bot > @Marg_bot
+ 
+[ Sun Feb 21 04:00:06 2016 ]=>  E_M_C™ [0] deleted user  user#id105926388
+ 
+[ Sun Feb 21 04:00:06 2016 ]=>  E_M_C™ [0] deleted user  user#id105926388
+ 
+[ Sun Feb 21 04:00:06 2016 ]=>  E_M_C™ [0] deleted user  user#id105926388
+ 
+[ Sun Feb 21 04:00:06 2016 ]=>  E_M_C™ [0] deleted user  user#id105926388
+ 
+[ Sun Feb 21 04:00:06 2016 ]=>  E_M_C™ [0] deleted user  user#id105926388
+ 
+[ Sun Feb 21 04:00:06 2016 ]=>  E_M_C™ [0] deleted user  user#id105926388
+ 
+[ Sun Feb 21 04:20:11 2016 ]=>  MR_Bangi😐✌ [187769689] locked bots 
+ 
+[ Sun Feb 21 04:20:11 2016 ]=>  Mega_E_M_C❗Private❗ [197870636] added a bot > @Marg_bot
+ 
+[ Sun Feb 21 04:20:11 2016 ]=>  E_M_C™ [0] deleted user  user#id105926388
+ 
+[ Sun Feb 21 04:20:11 2016 ]=>  E_M_C™ [0] deleted user  user#id105926388
+ 
+[ Sun Feb 21 04:20:11 2016 ]=>  E_M_C™ [0] deleted user  user#id105926388
+ 
+[ Sun Feb 21 04:20:11 2016 ]=>  E_M_C™ [0] deleted user  user#id105926388
+ 
+[ Sun Feb 21 04:20:11 2016 ]=>  E_M_C™ [0] deleted user  user#id105926388
+ 
+[ Sun Feb 21 04:20:11 2016 ]=>  E_M_C™ [0] deleted user  user#id105926388
+ 
+[ Sun Feb 21 09:51:23 2016 ]=>  S.I.L.E.N.T.👑๓คfiค๓👑_<>_<>_<>_<>_<>_<>_<>_<>_<>_<_<>_<>_<>_>_<>_<>_<>_<__>_<>_<>_<>_<>_<>_<>_<>_<>_<>_<>_<> [176972874] deleted user  user#id176972874
+ 
+[ Sun Feb 21 09:51:23 2016 ]=>  S.I.L.E.N.T.👑๓คfiค๓👑_<>_<>_<>_<>_<>_<>_<>_<>_<>_<_<>_<>_<>_>_<>_<>_<>_<__>_<>_<>_<>_<>_<>_<>_<>_<>_<>_<>_<> [176972874] deleted user  user#id176972874
+ 
+[ Sun Feb 21 09:51:23 2016 ]=>  S.I.L.E.N.T.👑๓คfiค๓👑_<>_<>_<>_<>_<>_<>_<>_<>_<>_<_<>_<>_<>_>_<>_<>_<>_<__>_<>_<>_<>_<>_<>_<>_<>_<>_<>_<>_<> [176972874] deleted user  user#id176972874
+ 
+[ Sun Feb 21 09:54:58 2016 ]=>  S.I.L.E.N.T.👑๓คfiค๓👑_<>_<>_<>_<>_<>_<>_<>_<>_<>_<_<>_<>_<>_>_<>_<>_<>_<__>_<>_<>_<>_<>_<>_<>_<>_<>_<>_<>_<> [176972874] deleted user  user#id176972874
+ 
+[ Sun Feb 21 09:54:58 2016 ]=>  S.I.L.E.N.T.👑๓คfiค๓👑_<>_<>_<>_<>_<>_<>_<>_<>_<>_<_<>_<>_<>_>_<>_<>_<>_<__>_<>_<>_<>_<>_<>_<>_<>_<>_<>_<>_<> [176972874] deleted user  user#id176972874
+ 
+[ Sun Feb 21 09:54:58 2016 ]=>  S.I.L.E.N.T.👑๓คfiค๓👑_<>_<>_<>_<>_<>_<>_<>_<>_<>_<_<>_<>_<>_>_<>_<>_<>_<__>_<>_<>_<>_<>_<>_<>_<>_<>_<>_<>_<> [176972874] deleted user  user#id176972874
+ 
+[ Sun Feb 21 11:17:19 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Sun Feb 21 11:20:23 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Sun Feb 21 11:20:46 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Sun Feb 21 11:21:06 2016 ]=>  E_M_C™ [0] deleted user  user#id140322389
+ 
+[ Sun Feb 21 11:21:06 2016 ]=>  E_M_C™ [0] deleted user  user#id140322389
+ 
+[ Sun Feb 21 11:21:06 2016 ]=>  E_M_C™ [0] deleted user  user#id140322389
+ 
+[ Sun Feb 21 11:21:41 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] locked leaving 
+ 
+[ Sun Feb 21 11:22:18 2016 ]=>  Nazanin [110556280] deleted user  user#id110556280
+ 
+[ Sun Feb 21 11:22:18 2016 ]=>  Nazanin [110556280] deleted user  user#id110556280
+ 
+[ Sun Feb 21 11:22:18 2016 ]=>  Nazanin [110556280] deleted user  user#id110556280
+ 
+[ Sun Feb 21 11:22:33 2016 ]=>  £m@d [165439336] deleted user  user#id165439336
+ 
+[ Sun Feb 21 11:22:33 2016 ]=>  £m@d [165439336] deleted user  user#id165439336
+ 
+[ Sun Feb 21 11:22:33 2016 ]=>  £m@d [165439336] deleted user  user#id165439336
+ 
+[ Sun Feb 21 11:25:28 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Sun Feb 21 11:25:50 2016 ]=>  E_M_C™ [0] deleted user  user#id169097575
+ 
+[ Sun Feb 21 11:25:50 2016 ]=>  E_M_C™ [0] deleted user  user#id169097575
+ 
+[ Sun Feb 21 11:25:50 2016 ]=>  E_M_C™ [0] deleted user  user#id169097575
+ 
+[ Sun Feb 21 11:26:30 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Sun Feb 21 11:29:28 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Sun Feb 21 11:37:38 2016 ]=>  Professional [95275811] deleted user  user#id95275811
+ 
+[ Sun Feb 21 11:37:38 2016 ]=>  Professional [95275811] deleted user  user#id95275811
+ 
+[ Sun Feb 21 11:37:38 2016 ]=>  Professional [95275811] deleted user  user#id95275811
+ 
+[ Sun Feb 21 11:42:37 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Sun Feb 21 11:43:17 2016 ]=>  E_M_C™ [0] deleted user  user#id129035931
+ 
+[ Sun Feb 21 11:43:17 2016 ]=>  E_M_C™ [0] deleted user  user#id129035931
+ 
+[ Sun Feb 21 11:43:17 2016 ]=>  E_M_C™ [0] deleted user  user#id129035931
+ 
+[ Sun Feb 21 11:43:28 2016 ]=>  @CяєєƊ [118682430] used /id 
+ 
+[ Sun Feb 21 11:43:30 2016 ]=>  @CяєєƊ [118682430] used /id 
+ 
+[ Sun Feb 21 11:43:33 2016 ]=>  @CяєєƊ [118682430] used /id 
+ 
+[ Sun Feb 21 11:43:35 2016 ]=>  @CяєєƊ [118682430] used /id 
+ 
+[ Sun Feb 21 11:43:44 2016 ]=>  @CяєєƊ [118682430] Used /help
+ 
+[ Sun Feb 21 11:43:56 2016 ]=>  @CяєєƊ [118682430] used /id 
+ 
+[ Sun Feb 21 11:47:27 2016 ]=>  @CяєєƊ [118682430] used /id 
+ 
+[ Sun Feb 21 11:47:33 2016 ]=>  @CяєєƊ [118682430] used /id 
+ 
+[ Sun Feb 21 11:47:35 2016 ]=>  @CяєєƊ [118682430] used /id 
+ 
+[ Sun Feb 21 11:47:54 2016 ]=>  @CяєєƊ [118682430] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Sun Feb 21 11:47:59 2016 ]=>  E_M_C™ [0] deleted user  user#id156099494
+ 
+[ Sun Feb 21 11:47:59 2016 ]=>  E_M_C™ [0] deleted user  user#id156099494
+ 
+[ Sun Feb 21 11:47:59 2016 ]=>  E_M_C™ [0] deleted user  user#id156099494
+ 
+[ Sun Feb 21 12:18:35 2016 ]=>  Mega_E_M_C❗Private❗ [197870636] deleted user  user#id197870636
+ 
+[ Sun Feb 21 12:18:35 2016 ]=>  Mega_E_M_C❗Private❗ [197870636] deleted user  user#id197870636
+ 
+[ Sun Feb 21 12:18:35 2016 ]=>  Mega_E_M_C❗Private❗ [197870636] deleted user  user#id197870636
+ 
+[ Sun Feb 21 12:18:45 2016 ]=>  🗼Shahabsaf🗼 [171608708] used /id 
+ 
+[ Sun Feb 21 12:18:48 2016 ]=>  🗼Shahabsaf🗼 [171608708] used /id 
+ 
+[ Sun Feb 21 12:35:49 2016 ]=>  🗼Shahabsaf🗼 [171608708] used /id 
+ 
+[ Sun Feb 21 13:29:10 2016 ]=>  MR_Bangi😐✌ [187769689] Used /help
+ 
+[ Sun Feb 21 13:29:21 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Sun Feb 21 13:29:22 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Sun Feb 21 13:30:36 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Sun Feb 21 13:36:29 2016 ]=>  Amir [77890081] deleted user  user#id77890081
+ 
+[ Sun Feb 21 13:36:29 2016 ]=>  Amir [77890081] deleted user  user#id77890081
+ 
+[ Sun Feb 21 13:36:29 2016 ]=>  Amir [77890081] deleted user  user#id77890081
+ 
+[ Sun Feb 21 13:37:17 2016 ]=>  MR_Bangi😐✌ [187769689] requested group settings 
+ 
+[ Sun Feb 21 13:45:36 2016 ]=>  E_M_C™ [0] deleted user  user#id166538399
+ 
+[ Sun Feb 21 13:45:36 2016 ]=>  E_M_C™ [0] deleted user  user#id166538399
+ 
+[ Sun Feb 21 13:45:36 2016 ]=>  E_M_C™ [0] deleted user  user#id166538399
+ 
+[ Sun Feb 21 13:46:01 2016 ]=>  MR_Bangi😐✌ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Sun Feb 21 13:46:07 2016 ]=>  ⓨⓐⓢⓔⓡ¹²³⁴_report [166538399] is banned and kicked ! 
+ 
+[ Sun Feb 21 13:46:07 2016 ]=>  ⓨⓐⓢⓔⓡ¹²³⁴_report [166538399] is banned and kicked ! 
+ 
+[ Sun Feb 21 13:46:07 2016 ]=>  E_M_C™ [0] deleted user  user#id166538399
+ 
+[ Sun Feb 21 13:46:07 2016 ]=>  E_M_C™ [0] deleted user  user#id166538399
+ 
+[ Sun Feb 21 13:46:07 2016 ]=>  E_M_C™ [0] deleted user  user#id166538399
+ 
+[ Sun Feb 21 13:46:07 2016 ]=>  E_M_C™ [0] deleted user  user#id166538399
+ 
+[ Sun Feb 21 13:46:07 2016 ]=>  E_M_C™ [0] deleted user  user#id166538399
+ 
+[ Sun Feb 21 13:46:07 2016 ]=>  E_M_C™ [0] deleted user  user#id166538399
+ 
+[ Sun Feb 21 13:46:23 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 13:46:23 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 13:46:23 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:06 2016 ]=>  @CяєєƊ [118682430] added a banned user >138922615
+ 
+[ Sun Feb 21 14:14:06 2016 ]=>  @CяєєƊ [118682430] added a banned user >138922615
+ 
+[ Sun Feb 21 14:14:06 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:06 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:06 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:06 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:06 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:06 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:14 2016 ]=>  @CяєєƊ [118682430] Used /res Knowledge_cleverbot
+ 
+[ Sun Feb 21 14:14:18 2016 ]=>  @CяєєƊ [118682430] unbaned user 138922615
+ 
+[ Sun Feb 21 14:14:22 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] locked member 
+ 
+[ Sun Feb 21 14:14:23 2016 ]=>  @CяєєƊ [118682430] deleted user  138922615
+ 
+[ Sun Feb 21 14:14:23 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:23 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:23 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:23 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:23 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:23 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:23 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:23 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:23 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:31 2016 ]=>  @CяєєƊ [118682430] unlocked member 
+ 
+[ Sun Feb 21 14:14:35 2016 ]=>  @CяєєƊ [118682430] added a banned user >138922615
+ 
+[ Sun Feb 21 14:14:35 2016 ]=>  @CяєєƊ [118682430] added a banned user >138922615
+ 
+[ Sun Feb 21 14:14:36 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:36 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:36 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:36 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:36 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:36 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:36 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] locked bots 
+ 
+[ Sun Feb 21 14:14:48 2016 ]=>  @CяєєƊ [118682430] added a banned user >138922615
+ 
+[ Sun Feb 21 14:14:48 2016 ]=>  @CяєєƊ [118682430] added a banned user >138922615
+ 
+[ Sun Feb 21 14:14:48 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:48 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:48 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:48 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:48 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:48 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:53 2016 ]=>  @CяєєƊ [118682430] unlocked bots 
+ 
+[ Sun Feb 21 14:14:58 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] locked member 
+ 
+[ Sun Feb 21 14:14:58 2016 ]=>  @CяєєƊ [118682430] added a banned user >138922615
+ 
+[ Sun Feb 21 14:14:58 2016 ]=>  @CяєєƊ [118682430] added a banned user >138922615
+ 
+[ Sun Feb 21 14:14:58 2016 ]=>  @CяєєƊ [118682430] deleted user  138922615
+ 
+[ Sun Feb 21 14:14:58 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:58 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:58 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:58 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:58 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:14:58 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:15:11 2016 ]=>  @CяєєƊ [118682430] unlocked member 
+ 
+[ Sun Feb 21 14:15:15 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] locked bots 
+ 
+[ Sun Feb 21 14:15:16 2016 ]=>  @CяєєƊ [118682430] added a banned user >138922615
+ 
+[ Sun Feb 21 14:15:16 2016 ]=>  @CяєєƊ [118682430] added a banned user >138922615
+ 
+[ Sun Feb 21 14:15:16 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:15:16 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:15:16 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:15:16 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:15:16 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:15:16 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:15:21 2016 ]=>  @CяєєƊ [118682430] unlocked bots 
+ 
+[ Sun Feb 21 14:15:25 2016 ]=>  @CяєєƊ [118682430] added a banned user >138922615
+ 
+[ Sun Feb 21 14:15:25 2016 ]=>  @CяєєƊ [118682430] added a banned user >138922615
+ 
+[ Sun Feb 21 14:15:25 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:15:25 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:15:25 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:15:25 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:15:25 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:15:25 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:15:25 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] locked member 
+ 
+[ Sun Feb 21 14:15:31 2016 ]=>  @CяєєƊ [118682430] unlocked member 
+ 
+[ Sun Feb 21 14:15:32 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] locked bots 
+ 
+[ Sun Feb 21 14:15:46 2016 ]=>  @CяєєƊ [118682430] used /id 
+ 
+[ Sun Feb 21 14:15:49 2016 ]=>  @CяєєƊ [118682430] set [138922615] as owner
+ 
+[ Sun Feb 21 14:15:54 2016 ]=>  @CяєєƊ [118682430] added a banned user >138922615
+ 
+[ Sun Feb 21 14:15:54 2016 ]=>  @CяєєƊ [118682430] added a banned user >138922615
+ 
+[ Sun Feb 21 14:15:59 2016 ]=>  آگاهی_با_دانایی [138922615] banned user is talking !
+ 
+[ Sun Feb 21 14:15:59 2016 ]=>  آگاهی_با_دانایی [138922615] banned user is talking !
+ 
+[ Sun Feb 21 14:16:30 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] locked member 
+ 
+[ Sun Feb 21 14:16:30 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] locked bots 
+ 
+[ Sun Feb 21 14:16:30 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:16:30 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:16:30 2016 ]=>  E_M_C™ [0] deleted user  user#id138922615
+ 
+[ Sun Feb 21 14:16:46 2016 ]=>  ‮👑bahahs gnik👑 kcolb = vp izabdeZ CME [119989724] setted [119989724] as owner
+ 
+[ Sun Feb 21 14:50:41 2016 ]=>  MR_Bangi😐✌ [187769689] requested group settings 
+ 
+[ Sun Feb 21 14:52:45 2016 ]=>  E_M_C™ [0] deleted user  user#id184862831
+ 
+[ Sun Feb 21 14:52:45 2016 ]=>  E_M_C™ [0] deleted user  user#id184862831
+ 
+[ Sun Feb 21 14:52:45 2016 ]=>  E_M_C™ [0] deleted user  user#id184862831
+ 
+[ Sun Feb 21 14:58:18 2016 ]=>  MR_Bangi😐✌ [187769689] requested group settings 
+ 
+[ Sun Feb 21 14:58:29 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Sun Feb 21 15:01:59 2016 ]=>  MR_Bangi😐✌ [160522435] banned user is talking !
+ 
+[ Sun Feb 21 15:01:59 2016 ]=>  MR_Bangi😐✌ [160522435] banned user is talking !
+ 
+[ Sun Feb 21 15:01:59 2016 ]=>  E_M_C™ [0] deleted user  user#id160522435
+ 
+[ Sun Feb 21 15:01:59 2016 ]=>  E_M_C™ [0] deleted user  user#id160522435
+ 
+[ Sun Feb 21 15:01:59 2016 ]=>  E_M_C™ [0] deleted user  user#id160522435
+ 
+[ Sun Feb 21 15:04:38 2016 ]=>  MR_Bangi😐✌#1 [187769689] added a banned user >160522435
+ 
+[ Sun Feb 21 15:04:38 2016 ]=>  MR_Bangi😐✌#1 [187769689] added a banned user >160522435
+ 
+[ Sun Feb 21 15:04:38 2016 ]=>  MR_Bangi😐✌#1 [187769689] deleted user  160522435
+ 
+[ Sun Feb 21 15:04:38 2016 ]=>  E_M_C™ [0] deleted user  user#id160522435
+ 
+[ Sun Feb 21 15:04:38 2016 ]=>  E_M_C™ [0] deleted user  user#id160522435
+ 
+[ Sun Feb 21 15:04:38 2016 ]=>  E_M_C™ [0] deleted user  user#id160522435
+ 
+[ Sun Feb 21 15:04:46 2016 ]=>  MR_Bangi😐✌#1 [187769689] unlocked member 
+ 
+[ Sun Feb 21 15:04:50 2016 ]=>  MR_Bangi😐✌#1 [187769689] added a banned user >160522435
+ 
+[ Sun Feb 21 15:04:50 2016 ]=>  MR_Bangi😐✌#1 [187769689] added a banned user >160522435
+ 
+[ Sun Feb 21 15:04:50 2016 ]=>  E_M_C™ [0] deleted user  user#id160522435
+ 
+[ Sun Feb 21 15:04:50 2016 ]=>  E_M_C™ [0] deleted user  user#id160522435
+ 
+[ Sun Feb 21 15:04:50 2016 ]=>  E_M_C™ [0] deleted user  user#id160522435
+ 
+[ Sun Feb 21 15:04:50 2016 ]=>  E_M_C™ [0] deleted user  user#id160522435
+ 
+[ Sun Feb 21 15:04:50 2016 ]=>  E_M_C™ [0] deleted user  user#id160522435
+ 
+[ Sun Feb 21 15:04:50 2016 ]=>  E_M_C™ [0] deleted user  user#id160522435
+ 
+[ Sun Feb 21 15:45:44 2016 ]=>  MR_Bangi😐✌ [187769689] requested group settings 
+ 
+[ Sun Feb 21 15:45:45 2016 ]=>  MR_Bangi😐✌ [187769689] requested group settings 
+ 
+[ Sun Feb 21 15:45:46 2016 ]=>  MR_Bangi😐✌ [187769689] requested group settings 
+ 
+[ Sun Feb 21 15:45:48 2016 ]=>  E_M_C™ [0] deleted user  user#id184862831
+ 
+[ Sun Feb 21 15:45:48 2016 ]=>  E_M_C™ [0] deleted user  user#id184862831
+ 
+[ Sun Feb 21 15:45:48 2016 ]=>  E_M_C™ [0] deleted user  user#id184862831
+ 
+[ Sun Feb 21 15:45:50 2016 ]=>  MR_Bangi😐✌ [187769689] requested group settings 
+ 
+[ Sun Feb 21 15:45:50 2016 ]=>  MR_Bangi😐✌ [187769689] requested group settings 
+ 
+[ Sun Feb 21 15:45:50 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Sun Feb 21 15:45:53 2016 ]=>  E_M_C™ [0] deleted user  user#id160522435
+ 
+[ Sun Feb 21 15:45:53 2016 ]=>  E_M_C™ [0] deleted user  user#id160522435
+ 
+[ Sun Feb 21 15:45:53 2016 ]=>  E_M_C™ [0] deleted user  user#id160522435
+ 
+[ Sun Feb 21 18:05:38 2016 ]=>  <\>_Mustafa_ip [178159688] spammed and kicked ! 
+ 
+[ Sun Feb 21 18:05:40 2016 ]=>  E_M_C™ [0] deleted user  user#id178159688
+ 
+[ Sun Feb 21 18:05:40 2016 ]=>  E_M_C™ [0] deleted user  user#id178159688
+ 
+[ Sun Feb 21 18:05:40 2016 ]=>  E_M_C™ [0] deleted user  user#id178159688
+ 
+[ Sun Feb 21 18:15:22 2016 ]=>  E_M_C™ [0] deleted user  user#id77750573
+ 
+[ Sun Feb 21 18:15:22 2016 ]=>  E_M_C™ [0] deleted user  user#id77750573
+ 
+[ Sun Feb 21 18:15:22 2016 ]=>  E_M_C™ [0] deleted user  user#id77750573
+ 
+[ Sun Feb 21 18:15:47 2016 ]=>  👑m.m.f👑_⚜_†[_T_[ƒ]_B_]฿_⚜ [150289672] used /id 
+ 
+[ Sun Feb 21 18:15:54 2016 ]=>  👑m.m.f👑_⚜_†[_T_[ƒ]_B_]฿_⚜ [150289672] used /id 
+ 
+[ Sun Feb 21 18:16:22 2016 ]=>  👑m.m.f👑_⚜_†[_T_[ƒ]_B_]฿_⚜ [150289672] used /id 
+ 
+[ Sun Feb 21 18:16:31 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Sun Feb 21 18:16:31 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Sun Feb 21 18:16:35 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Sun Feb 21 18:16:35 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Sun Feb 21 18:16:35 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Sun Feb 21 18:17:11 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Sun Feb 21 18:17:11 2016 ]=>  MR_Bangi😐✌ [187769689] banned user is talking !
+ 
+[ Sun Feb 21 18:17:27 2016 ]=>  👑m.m.f👑_⚜_†[_T_[ƒ]_B_]฿_⚜ [150289672] used /id 
+ 
+[ Sun Feb 21 18:22:23 2016 ]=>  E_M_C™ [0] deleted user  user#id134618808
+ 
+[ Sun Feb 21 18:22:23 2016 ]=>  E_M_C™ [0] deleted user  user#id134618808
+ 
+[ Sun Feb 21 18:22:23 2016 ]=>  E_M_C™ [0] deleted user  user#id134618808
+ 
+[ Sun Feb 21 18:22:40 2016 ]=>  MR_Bangi😐✌ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Sun Feb 21 18:23:06 2016 ]=>  ‮katohsorlfa_⛄⛄_‮MATROPER [134618808] is banned and kicked ! 
+ 
+[ Sun Feb 21 18:23:06 2016 ]=>  ‮katohsorlfa_⛄⛄_‮MATROPER [134618808] is banned and kicked ! 
+ 
+[ Sun Feb 21 18:23:06 2016 ]=>  E_M_C™ [0] deleted user  user#id134618808
+ 
+[ Sun Feb 21 18:23:06 2016 ]=>  E_M_C™ [0] deleted user  user#id134618808
+ 
+[ Sun Feb 21 18:23:06 2016 ]=>  E_M_C™ [0] deleted user  user#id134618808
+ 
+[ Sun Feb 21 18:23:06 2016 ]=>  E_M_C™ [0] deleted user  user#id134618808
+ 
+[ Sun Feb 21 18:23:06 2016 ]=>  E_M_C™ [0] deleted user  user#id134618808
+ 
+[ Sun Feb 21 18:23:06 2016 ]=>  E_M_C™ [0] deleted user  user#id134618808
+ 
+[ Sun Feb 21 18:43:41 2016 ]=>  <\>_Mustafa_ip [178159688] banned user is talking !
+ 
+[ Sun Feb 21 18:43:41 2016 ]=>  <\>_Mustafa_ip [178159688] banned user is talking !
+ 
+[ Sun Feb 21 18:43:41 2016 ]=>  ‮katohsorlfa_⛄⛄_‮MATROPER [134618808] banned user is talking !
+ 
+[ Sun Feb 21 18:43:41 2016 ]=>  ‮katohsorlfa_⛄⛄_‮MATROPER [134618808] banned user is talking !
+ 
+[ Sun Feb 21 18:43:41 2016 ]=>  <\>_Mustafa_ip [178159688] banned user is talking !
+ 
+[ Sun Feb 21 18:43:41 2016 ]=>  <\>_Mustafa_ip [178159688] banned user is talking !
+ 
+[ Sun Feb 21 18:43:43 2016 ]=>  E_M_C™ [0] deleted user  user#id178159688
+ 
+[ Sun Feb 21 18:43:43 2016 ]=>  E_M_C™ [0] deleted user  user#id178159688
+ 
+[ Sun Feb 21 18:43:43 2016 ]=>  E_M_C™ [0] deleted user  user#id178159688
+ 
+[ Sun Feb 21 18:43:43 2016 ]=>  😈mr.error😈 [77750573] banned user is talking !
+ 
+[ Sun Feb 21 18:43:43 2016 ]=>  😈mr.error😈 [77750573] banned user is talking !
+ 
+[ Sun Feb 21 18:43:44 2016 ]=>  😈mr.error😈 [77750573] banned user is talking !
+ 
+[ Sun Feb 21 18:43:44 2016 ]=>  😈mr.error😈 [77750573] banned user is talking !
+ 
+[ Sun Feb 21 18:43:44 2016 ]=>  😈mr.error😈 [77750573] banned user is talking !
+ 
+[ Sun Feb 21 18:43:44 2016 ]=>  😈mr.error😈 [77750573] banned user is talking !
+ 
+[ Sun Feb 21 18:43:44 2016 ]=>  😈mr.error😈 [77750573] banned user is talking !
+ 
+[ Sun Feb 21 18:43:44 2016 ]=>  😈mr.error😈 [77750573] banned user is talking !
+ 
+[ Sun Feb 21 18:43:44 2016 ]=>  😈mr.error😈 [77750573] banned user is talking !
+ 
+[ Sun Feb 21 18:43:44 2016 ]=>  😈mr.error😈 [77750573] banned user is talking !
+ 
+[ Sun Feb 21 18:43:44 2016 ]=>  😈mr.error😈 [77750573] banned user is talking !
+ 
+[ Sun Feb 21 18:43:44 2016 ]=>  😈mr.error😈 [77750573] spammed and kicked ! 
+ 
+[ Sun Feb 21 18:43:44 2016 ]=>  😈mr.error😈 [77750573] banned user is talking !
+ 
+[ Sun Feb 21 18:43:45 2016 ]=>  😈mr.error😈 [77750573] banned user is talking !
+ 
+[ Sun Feb 21 18:43:45 2016 ]=>  😈mr.error😈 [77750573] banned user is talking !
+ 
+[ Sun Feb 21 18:43:45 2016 ]=>  😈mr.error😈 [77750573] banned user is talking !
+ 
+[ Sun Feb 21 18:43:45 2016 ]=>  E_M_C™ [0] deleted user  user#id77750573
+ 
+[ Sun Feb 21 18:43:45 2016 ]=>  E_M_C™ [0] deleted user  user#id77750573
+ 
+[ Sun Feb 21 18:43:45 2016 ]=>  E_M_C™ [0] deleted user  user#id77750573
+ 
+[ Sun Feb 21 18:43:45 2016 ]=>  👑m.m.f👑_⚜_†[_T_[ƒ]_B_]฿_⚜ [150289672] used /id 
+ 
+[ Sun Feb 21 18:43:45 2016 ]=>  👑m.m.f👑_⚜_†[_T_[ƒ]_B_]฿_⚜ [150289672] used /id 
+ 
+[ Sun Feb 21 18:43:46 2016 ]=>  👑m.m.f👑_⚜_†[_T_[ƒ]_B_]฿_⚜ [150289672] used /id 
+ 
+[ Sun Feb 21 18:43:46 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Sun Feb 21 18:43:47 2016 ]=>  👑m.m.f👑_⚜_†[_T_[ƒ]_B_]฿_⚜ [150289672] used /id 
+ 
+[ Sun Feb 21 18:43:48 2016 ]=>  ‮katohsorlfa_⛄⛄_‮MATROPER [134618808] banned user is talking !
+ 
+[ Sun Feb 21 18:43:48 2016 ]=>  ‮katohsorlfa_⛄⛄_‮MATROPER [134618808] banned user is talking !
+ 
+[ Sun Feb 21 18:43:48 2016 ]=>  E_M_C™ [0] deleted user  user#id134618808
+ 
+[ Sun Feb 21 18:43:48 2016 ]=>  E_M_C™ [0] deleted user  user#id134618808
+ 
+[ Sun Feb 21 18:43:48 2016 ]=>  E_M_C™ [0] deleted user  user#id134618808
+ 
+[ Sun Feb 21 18:43:48 2016 ]=>  MR_Bangi😐✌ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQX2ZWpZxyc8jZyDGQ]
+ 
+[ Sun Feb 21 18:43:48 2016 ]=>  ‮katohsorlfa_⛄⛄_‮MATROPER [134618808] is banned and kicked ! 
+ 
+[ Sun Feb 21 18:43:48 2016 ]=>  ‮katohsorlfa_⛄⛄_‮MATROPER [134618808] is banned and kicked ! 
+ 
+[ Sun Feb 21 18:43:48 2016 ]=>  E_M_C™ [0] deleted user  user#id134618808
+ 
+[ Sun Feb 21 18:43:48 2016 ]=>  E_M_C™ [0] deleted user  user#id134618808
+ 
+[ Sun Feb 21 18:43:48 2016 ]=>  E_M_C™ [0] deleted user  user#id134618808
+ 
+[ Sun Feb 21 18:43:48 2016 ]=>  E_M_C™ [0] deleted user  user#id134618808
+ 
+[ Sun Feb 21 18:43:48 2016 ]=>  E_M_C™ [0] deleted user  user#id134618808
+ 
+[ Sun Feb 21 18:43:48 2016 ]=>  E_M_C™ [0] deleted user  user#id134618808
+ 
+[ Mon Feb 22 13:29:46 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] left using kickme 
+ 
+[ Mon Feb 22 13:29:47 2016 ]=>  E_M_C™ [0] deleted user  user#id119989724
+ 
+[ Mon Feb 22 13:29:47 2016 ]=>  E_M_C™ [0] deleted user  user#id119989724
+ 
+[ Mon Feb 22 13:29:47 2016 ]=>  E_M_C™ [0] deleted user  user#id119989724
+ 
+[ Mon Feb 22 13:29:51 2016 ]=>  MR_Bangi😐✌ [187769689] left using kickme 
+ 
+[ Mon Feb 22 13:29:52 2016 ]=>  E_M_C™ [0] deleted user  user#id187769689
+ 
+[ Mon Feb 22 13:29:52 2016 ]=>  E_M_C™ [0] deleted user  user#id187769689
+ 
+[ Mon Feb 22 13:29:52 2016 ]=>  E_M_C™ [0] deleted user  user#id187769689
+ 
+[ Mon Feb 22 13:34:06 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Mon Feb 22 13:39:04 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Mon Feb 22 13:53:04 2016 ]=>  <dev>Mehrpouya</dev>‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌‌_‌_‌_‌_‌‌ [91054649] deleted user  user#id91054649
+ 
+[ Mon Feb 22 13:53:04 2016 ]=>  <dev>Mehrpouya</dev>‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌‌_‌_‌_‌_‌‌ [91054649] deleted user  user#id91054649
+ 
+[ Mon Feb 22 13:53:04 2016 ]=>  <dev>Mehrpouya</dev>‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌_‌‌_‌_‌_‌_‌‌ [91054649] deleted user  user#id91054649
+ 
+[ Mon Feb 22 14:30:52 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Mon Feb 22 14:43:52 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Mon Feb 22 15:04:57 2016 ]=>  @CяєєƊ [118682430] used /id 
+ 
+[ Mon Feb 22 15:05:01 2016 ]=>  @CяєєƊ [118682430] used /id 
+ 
+[ Mon Feb 22 15:06:09 2016 ]=>  MR_Bangi😐✌ [187769689] Used /help
+ 
+[ Mon Feb 22 15:26:34 2016 ]=>  @CяєєƊ [118682430] used /id 
+ 
+[ Mon Feb 22 15:26:34 2016 ]=>  @CяєєƊ [118682430] used /id 
+ 
+[ Mon Feb 22 15:26:35 2016 ]=>  MR_Bangi😐✌ [187769689] Used /help
+ 
+[ Mon Feb 22 16:59:01 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Mon Feb 22 17:44:44 2016 ]=>  E_M_C™ [0] deleted user  user#id175022226
+ 
+[ Mon Feb 22 17:44:44 2016 ]=>  E_M_C™ [0] deleted user  user#id175022226
+ 
+[ Mon Feb 22 17:44:44 2016 ]=>  E_M_C™ [0] deleted user  user#id175022226
+ 
+[ Tue Feb 23 14:18:51 2016 ]=>  E_M_C™ [0] deleted user  user#id123752533
+ 
+[ Tue Feb 23 14:18:51 2016 ]=>  E_M_C™ [0] deleted user  user#id123752533
+ 
+[ Tue Feb 23 14:18:51 2016 ]=>  E_M_C™ [0] deleted user  user#id123752533
+ 
+[ Tue Feb 23 14:19:02 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Tue Feb 23 14:19:02 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Tue Feb 23 14:19:02 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Tue Feb 23 14:19:08 2016 ]=>  MR_Bangi😐✌ [187769689] added a banned user >175531746
+ 
+[ Tue Feb 23 14:19:08 2016 ]=>  MR_Bangi😐✌ [187769689] added a banned user >175531746
+ 
+[ Tue Feb 23 14:19:08 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Tue Feb 23 14:19:08 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Tue Feb 23 14:19:08 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Tue Feb 23 14:19:19 2016 ]=>  MR_Bangi😐✌ [187769689] unlocked member 
+ 
+[ Tue Feb 23 14:19:27 2016 ]=>  Fαrzαd_@H4J [160522435] left using kickme 
+ 
+[ Tue Feb 23 14:19:27 2016 ]=>  E_M_C™ [0] deleted user  user#id160522435
+ 
+[ Tue Feb 23 14:19:27 2016 ]=>  E_M_C™ [0] deleted user  user#id160522435
+ 
+[ Tue Feb 23 14:19:27 2016 ]=>  E_M_C™ [0] deleted user  user#id160522435
+ 
+[ Tue Feb 23 14:19:44 2016 ]=>  ⓨⓐⓢⓔⓡ_🇷🇪🇵🇴🇷🇹 [166538399] banned user is talking !
+ 
+[ Tue Feb 23 14:19:44 2016 ]=>  ⓨⓐⓢⓔⓡ_🇷🇪🇵🇴🇷🇹 [166538399] banned user is talking !
+ 
+[ Tue Feb 23 14:19:44 2016 ]=>  E_M_C™ [0] deleted user  user#id166538399
+ 
+[ Tue Feb 23 14:19:44 2016 ]=>  E_M_C™ [0] deleted user  user#id166538399
+ 
+[ Tue Feb 23 14:19:44 2016 ]=>  E_M_C™ [0] deleted user  user#id166538399
+ 
+[ Tue Feb 23 14:19:44 2016 ]=>  E_M_C™ [0] deleted user  user#id166538399
+ 
+[ Tue Feb 23 14:19:44 2016 ]=>  E_M_C™ [0] deleted user  user#id166538399
+ 
+[ Tue Feb 23 14:19:44 2016 ]=>  E_M_C™ [0] deleted user  user#id166538399
+ 
+[ Tue Feb 23 14:20:35 2016 ]=>  Fαrzαd_@H4J [160522435] used /id 
+ 
+[ Tue Feb 23 14:23:21 2016 ]=>  Fαrzαd_@H4J [160522435] Used /help
+ 
+[ Tue Feb 23 14:54:32 2016 ]=>  E_M_C™ [0] deleted user  user#id123752533
+ 
+[ Tue Feb 23 14:54:32 2016 ]=>  E_M_C™ [0] deleted user  user#id123752533
+ 
+[ Tue Feb 23 14:54:32 2016 ]=>  E_M_C™ [0] deleted user  user#id123752533
+ 
+[ Tue Feb 23 14:54:32 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Tue Feb 23 14:54:32 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Tue Feb 23 14:54:32 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Tue Feb 23 14:54:32 2016 ]=>  MR_Bangi😐✌ [187769689] added a banned user >175531746
+ 
+[ Tue Feb 23 14:54:32 2016 ]=>  MR_Bangi😐✌ [187769689] added a banned user >175531746
+ 
+[ Tue Feb 23 14:54:32 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Tue Feb 23 14:54:32 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Tue Feb 23 14:54:32 2016 ]=>  E_M_C™ [0] deleted user  user#id175531746
+ 
+[ Tue Feb 23 14:54:33 2016 ]=>  MR_Bangi😐✌ [187769689] unlocked member 
+ 
+[ Tue Feb 23 14:54:33 2016 ]=>  E_M_C™ [0] deleted user  user#id160522435
+ 
+[ Tue Feb 23 14:54:33 2016 ]=>  E_M_C™ [0] deleted user  user#id160522435
+ 
+[ Tue Feb 23 14:54:33 2016 ]=>  E_M_C™ [0] deleted user  user#id160522435
+ 
+[ Tue Feb 23 14:54:33 2016 ]=>  MR_Bangi😐✌ [187769689] added a banned user >175531746
+ 
+[ Tue Feb 23 14:54:33 2016 ]=>  MR_Bangi😐✌ [187769689] added a banned user >175531746
+ 
+[ Tue Feb 23 14:54:34 2016 ]=>  ⓨⓐⓢⓔⓡ_🇷🇪🇵🇴🇷🇹 [166538399] banned user is talking !
+ 
+[ Tue Feb 23 14:54:34 2016 ]=>  ⓨⓐⓢⓔⓡ_🇷🇪🇵🇴🇷🇹 [166538399] banned user is talking !
+ 
+[ Tue Feb 23 14:54:34 2016 ]=>  E_M_C™ [0] deleted user  user#id166538399
+ 
+[ Tue Feb 23 14:54:34 2016 ]=>  E_M_C™ [0] deleted user  user#id166538399
+ 
+[ Tue Feb 23 14:54:34 2016 ]=>  E_M_C™ [0] deleted user  user#id166538399
+ 
+[ Tue Feb 23 14:54:34 2016 ]=>  E_M_C™ [0] deleted user  user#id166538399
+ 
+[ Tue Feb 23 14:54:34 2016 ]=>  E_M_C™ [0] deleted user  user#id166538399
+ 
+[ Tue Feb 23 14:54:34 2016 ]=>  E_M_C™ [0] deleted user  user#id166538399
+ 
+[ Tue Feb 23 14:54:34 2016 ]=>  Fαrzαd_@H4J [160522435] used /id 
+ 
+[ Tue Feb 23 15:05:35 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Tue Feb 23 15:05:39 2016 ]=>  MR_Bangi😐✌ [187769689] Used /res alfroshotak
+ 
+[ Tue Feb 23 15:12:41 2016 ]=>  erfan [167040744] used /id 
+ 
+[ Tue Feb 23 15:18:14 2016 ]=>  MR_Bangi😐✌ [187769689] used /id 
+ 
+[ Tue Feb 23 15:18:14 2016 ]=>  MR_Bangi😐✌ [187769689] Used /res alfroshotak
+ 
+[ Tue Feb 23 15:18:14 2016 ]=>  erfan [167040744] used /id 
+ 

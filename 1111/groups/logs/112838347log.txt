@@ -1,0 +1,238 @@
+[ Sun Feb 14 16:27:03 2016 ]=>  ______‌‌_ [187769689] revoked group link 
+ 
+[ Sun Feb 14 16:27:04 2016 ]=>  ______‌‌_ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQa5xss5JDw858JEbA]
+ 
+[ Sun Feb 14 16:28:21 2016 ]=>  erfan [167040744] setted [167040744] as owner
+ 
+[ Sun Feb 14 16:28:29 2016 ]=>  ______‌‌_ [187769689] left using kickme 
+ 
+[ Sun Feb 14 16:28:29 2016 ]=>  E__M__C [0] deleted user  user#id187769689
+ 
+[ Sun Feb 14 16:28:29 2016 ]=>  E__M__C [0] deleted user  user#id187769689
+ 
+[ Sun Feb 14 16:30:55 2016 ]=>  erfan [167040744] Used /help
+ 
+[ Sun Feb 14 16:33:27 2016 ]=>  erfan [167040744] Used /help
+ 
+[ Sun Feb 14 16:44:38 2016 ]=>  erfan [167040744] used /id 
+ 
+[ Sun Feb 14 16:49:55 2016 ]=>  ______‌‌_ [187769689] revoked group link 
+ 
+[ Sun Feb 14 16:49:55 2016 ]=>  ______‌‌_ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQa5xss5JDw858JEbA]
+ 
+[ Sun Feb 14 16:49:55 2016 ]=>  ______‌‌_ [187769689] left using kickme 
+ 
+[ Sun Feb 14 16:49:55 2016 ]=>  E__M__C [0] deleted user  user#id187769689
+ 
+[ Sun Feb 14 16:49:55 2016 ]=>  E__M__C [0] deleted user  user#id187769689
+ 
+[ Sun Feb 14 17:13:39 2016 ]=>  erfan [167040744] used /owner
+ 
+[ Sun Feb 14 17:25:36 2016 ]=>  erfan [167040744] requested group link [https://telegram.me/joinchat/CNx_gQa5xss5JDw858JEbA]
+ 
+[ Sun Feb 14 17:25:42 2016 ]=>  erfan [167040744] revoked group link 
+ 
+[ Sun Feb 14 17:25:48 2016 ]=>  erfan [167040744] requested group link [https://telegram.me/joinchat/CNx_gQa5xssjdl0Rz6LvAg]
+ 
+[ Sun Feb 14 17:34:39 2016 ]=>  erfan [167040744] requested group modlist
+ 
+[ Tue Feb 16 17:18:56 2016 ]=>  erfan [167040744] deleted user  user#id195838892
+ 
+[ Tue Feb 16 17:18:56 2016 ]=>  erfan [167040744] deleted user  user#id195838892
+ 
+[ Tue Feb 16 17:18:58 2016 ]=>  erfan [167040744] deleted user  user#id127725365
+ 
+[ Tue Feb 16 17:18:58 2016 ]=>  erfan [167040744] deleted user  user#id127725365
+ 
+[ Tue Feb 16 17:19:01 2016 ]=>  erfan [167040744] deleted user  user#id115592253
+ 
+[ Tue Feb 16 17:19:01 2016 ]=>  erfan [167040744] deleted user  user#id115592253
+ 
+[ Tue Feb 16 17:19:05 2016 ]=>  erfan [167040744] deleted user  user#id127725365
+ 
+[ Tue Feb 16 17:19:05 2016 ]=>  erfan [167040744] deleted user  user#id127725365
+ 
+[ Tue Feb 16 17:19:05 2016 ]=>  erfan [167040744] deleted user  user#id115592253
+ 
+[ Tue Feb 16 17:19:05 2016 ]=>  erfan [167040744] deleted user  user#id115592253
+ 
+[ Tue Feb 16 17:19:05 2016 ]=>  erfan [167040744] deleted user  user#id78284956
+ 
+[ Tue Feb 16 17:19:05 2016 ]=>  erfan [167040744] deleted user  user#id78284956
+ 
+[ Tue Feb 16 17:19:13 2016 ]=>  erfan [167040744] Used /help
+ 
+[ Tue Feb 16 17:28:47 2016 ]=>  Mr.MoRɟɪη [166649308] deleted user  user#id190478866
+ 
+[ Tue Feb 16 17:28:47 2016 ]=>  Mr.MoRɟɪη [166649308] deleted user  user#id190478866
+ 
+[ Tue Feb 16 17:32:02 2016 ]=>  erfan [167040744] tried to change picture but failed  
+ 
+[ Tue Feb 16 17:32:02 2016 ]=>  erfan [167040744] tried to change picture but failed  
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  erfan [167040744] deleted user  user#id78284956
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  erfan [167040744] deleted user  user#id78284956
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  erfan [167040744] Used /help
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  erfan [167040744] deleted user  user#id195838892
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  erfan [167040744] deleted user  user#id195838892
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  erfan [167040744] deleted user  user#id127725365
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  erfan [167040744] deleted user  user#id127725365
+ 
+[ Wed Feb 17 14:27:45 2016 ]=>  erfan [167040744] deleted user  user#id115592253
+ 
+[ Wed Feb 17 14:27:46 2016 ]=>  erfan [167040744] deleted user  user#id115592253
+ 
+[ Wed Feb 17 14:27:46 2016 ]=>  erfan [167040744] deleted user  user#id78284956
+ 
+[ Wed Feb 17 14:27:46 2016 ]=>  erfan [167040744] deleted user  user#id78284956
+ 
+[ Wed Feb 17 14:27:46 2016 ]=>  erfan [167040744] Used /help
+ 
+[ Wed Feb 17 14:27:48 2016 ]=>  Mr.MoRɟɪη [166649308] added a banned user >190478866
+ 
+[ Wed Feb 17 14:27:48 2016 ]=>  Javad [162969549] deleted user  user#id162969549
+ 
+[ Wed Feb 17 14:27:48 2016 ]=>  Mr.MoRɟɪη [166649308] deleted user  user#id190478866
+ 
+[ Wed Feb 17 14:27:48 2016 ]=>  Javad [162969549] deleted user  user#id162969549
+ 
+[ Wed Feb 17 14:27:48 2016 ]=>  Mr.MoRɟɪη [166649308] deleted user  user#id190478866
+ 
+[ Wed Feb 17 14:27:48 2016 ]=>  ♤👧GoLGoll_RãD♤👧 [89163756] spammed and kicked ! 
+ 
+[ Wed Feb 17 14:27:48 2016 ]=>  erfan [167040744] added a banned user >162969549
+ 
+[ Wed Feb 17 14:27:48 2016 ]=>   _ﾑんᄊﾑÐ_℃IѦ [108228098] spammed and kicked ! 
+ 
+[ Wed Feb 17 14:27:48 2016 ]=>  erfan [167040744] tried to change picture but failed  
+ 
+[ Wed Feb 17 14:27:48 2016 ]=>  erfan [167040744] tried to change picture but failed  
+ 
+[ Wed Feb 17 19:49:57 2016 ]=>  "پایدار_تا_پای_دار" [129751994] spammed and kicked ! 
+ 
+[ Wed Feb 17 19:49:58 2016 ]=>  E__M__C [0] deleted user  user#id129751994
+ 
+[ Wed Feb 17 19:49:58 2016 ]=>  E__M__C [0] deleted user  user#id129751994
+ 
+[ Wed Feb 17 20:13:45 2016 ]=>  E__M__C [0] deleted user  user#id129751994
+ 
+[ Wed Feb 17 20:13:45 2016 ]=>  E__M__C [0] deleted user  user#id129751994
+ 
+[ Wed Feb 17 21:50:30 2016 ]=>  💀_Ħαɳι_💀 [87242183] deleted user  user#id87242183
+ 
+[ Wed Feb 17 21:50:30 2016 ]=>  💀_Ħαɳι_💀 [87242183] deleted user  user#id87242183
+ 
+[ Wed Feb 17 22:13:48 2016 ]=>  💀_Ħαɳι_💀 [87242183] deleted user  user#id87242183
+ 
+[ Wed Feb 17 22:13:48 2016 ]=>  💀_Ħαɳι_💀 [87242183] deleted user  user#id87242183
+ 
+[ Thu Feb 18 04:44:09 2016 ]=>  ßÁĎ_ßŐŶ [142189407] requested group modlist
+ 
+[ Thu Feb 18 05:15:39 2016 ]=>  ßÁĎ_ßŐŶ [142189407] requested group modlist
+ 
+[ Thu Feb 18 05:15:39 2016 ]=>  ßÁĎ_ßŐŶ [142189407] spammed and kicked ! 
+ 
+[ Thu Feb 18 05:15:41 2016 ]=>  E__M__C [0] deleted user  user#id142189407
+ 
+[ Thu Feb 18 05:15:41 2016 ]=>  E__M__C [0] deleted user  user#id142189407
+ 
+[ Thu Feb 18 05:30:58 2016 ]=>  E__M__C [0] deleted user  user#id142189407
+ 
+[ Thu Feb 18 05:30:58 2016 ]=>  E__M__C [0] deleted user  user#id142189407
+ 
+[ Thu Feb 18 12:09:10 2016 ]=>  ♤👧GoLGoll_RãD♤👧 [89163756] deleted user  user#id89163756
+ 
+[ Thu Feb 18 12:09:10 2016 ]=>  ♤👧GoLGoll_RãD♤👧 [89163756] deleted user  user#id89163756
+ 
+[ Thu Feb 18 12:15:43 2016 ]=>  Mr.MoRɟɪη [166649308] deleted user  user#id166649308
+ 
+[ Thu Feb 18 12:15:43 2016 ]=>  Mr.MoRɟɪη [166649308] deleted user  user#id166649308
+ 
+[ Thu Feb 18 12:31:40 2016 ]=>  ♤👧GoLGoll_RãD♤👧 [89163756] deleted user  user#id89163756
+ 
+[ Thu Feb 18 12:31:40 2016 ]=>  ♤👧GoLGoll_RãD♤👧 [89163756] deleted user  user#id89163756
+ 
+[ Thu Feb 18 12:31:41 2016 ]=>  Mr.MoRɟɪη [166649308] deleted user  user#id166649308
+ 
+[ Thu Feb 18 12:31:41 2016 ]=>  Mr.MoRɟɪη [166649308] deleted user  user#id166649308
+ 
+[ Thu Feb 18 12:59:59 2016 ]=>  Mr.MoRɟɪη [166649308] deleted user  user#id166649308
+ 
+[ Thu Feb 18 12:59:59 2016 ]=>  Mr.MoRɟɪη [166649308] deleted user  user#id166649308
+ 
+[ Sun Feb 21 04:00:37 2016 ]=>  erfan [167040744] used /owner
+ 
+[ Sun Feb 21 04:00:41 2016 ]=>  erfan [167040744] Used /help
+ 
+[ Sun Feb 21 04:01:05 2016 ]=>  erfan [167040744] locked bots 
+ 
+[ Sun Feb 21 04:04:04 2016 ]=>  erfan [167040744] set flood to [6]
+ 
+[ Sun Feb 21 04:05:02 2016 ]=>  Group { X }  name changed to [ law terrible ] by erfan [167040744]
+ 
+[ Sun Feb 21 04:05:03 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Sun Feb 21 04:05:03 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Sun Feb 21 04:05:03 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Sun Feb 21 04:07:02 2016 ]=>  erfan [167040744] requested group modlist
+ 
+[ Sun Feb 21 04:20:11 2016 ]=>  erfan [167040744] used /owner
+ 
+[ Sun Feb 21 04:20:11 2016 ]=>  erfan [167040744] Used /help
+ 
+[ Sun Feb 21 04:20:11 2016 ]=>  erfan [167040744] locked bots 
+ 
+[ Sun Feb 21 04:20:12 2016 ]=>  erfan [167040744] set flood to [6]
+ 
+[ Sun Feb 21 04:20:12 2016 ]=>  Group { law_terrible }  name changed to [ law terrible ] by erfan [167040744]
+ 
+[ Sun Feb 21 04:20:12 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Sun Feb 21 04:20:12 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Sun Feb 21 04:20:12 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Sun Feb 21 04:20:12 2016 ]=>  erfan [167040744] requested group modlist
+ 
+[ Sun Feb 21 09:42:00 2016 ]=>  erfan [167040744] revoked group link 
+ 
+[ Sun Feb 21 09:42:07 2016 ]=>  erfan [167040744] requested group link [https://telegram.me/joinchat/CNx_gQa5xst4XIRyhW741A]
+ 
+[ Sun Feb 21 09:54:56 2016 ]=>  erfan [167040744] revoked group link 
+ 
+[ Sun Feb 21 09:54:56 2016 ]=>  erfan [167040744] requested group link [https://telegram.me/joinchat/CNx_gQa5xst4XIRyhW741A]
+ 
+[ Sun Feb 21 15:02:37 2016 ]=>  erfan [167040744] Used /help
+ 
+[ Sun Feb 21 15:45:53 2016 ]=>  erfan [167040744] Used /help
+ 
+[ Mon Feb 22 13:40:06 2016 ]=>  erfan [167040744] Used /help
+ 
+[ Tue Feb 23 06:30:30 2016 ]=>  E_M_C™ [0] deleted user  user#id176809822
+ 
+[ Tue Feb 23 06:30:30 2016 ]=>  E_M_C™ [0] deleted user  user#id176809822
+ 
+[ Tue Feb 23 06:30:30 2016 ]=>  E_M_C™ [0] deleted user  user#id176809822
+ 
+[ Tue Feb 23 15:18:15 2016 ]=>  E_M_C™ [0] deleted user  user#id170974895
+ 
+[ Tue Feb 23 15:18:15 2016 ]=>  E_M_C™ [0] deleted user  user#id170974895
+ 
+[ Tue Feb 23 15:18:15 2016 ]=>  E_M_C™ [0] deleted user  user#id170974895
+ 
+[ Tue Feb 23 15:59:17 2016 ]=>  E_M_C™ [0] deleted user  user#id170974895
+ 
+[ Tue Feb 23 15:59:17 2016 ]=>  E_M_C™ [0] deleted user  user#id170974895
+ 
+[ Tue Feb 23 15:59:17 2016 ]=>  E_M_C™ [0] deleted user  user#id170974895
+ 
+[ Tue Feb 23 17:47:49 2016 ]=>  erfan [167040744] added a banned user >170974895
+ 

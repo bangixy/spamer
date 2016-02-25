@@ -1,0 +1,150 @@
+[ Sun Feb 14 14:02:23 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Sun Feb 14 14:02:34 2016 ]=>  ______‌‌_ [187769689] Used /res freemani
+ 
+[ Sun Feb 14 14:02:41 2016 ]=>  ______‌‌_ [187769689] set [157094408] as owner
+ 
+[ Sun Feb 14 14:02:53 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Sun Feb 14 14:02:58 2016 ]=>  ______‌‌_ [187769689] used /owner
+ 
+[ Sun Feb 14 14:03:01 2016 ]=>  ______‌‌_ [187769689] left using kickme 
+ 
+[ Sun Feb 14 14:03:01 2016 ]=>  E__M__C [0] deleted user  user#id187769689
+ 
+[ Sun Feb 14 14:03:01 2016 ]=>  E__M__C [0] deleted user  user#id187769689
+ 
+[ Sun Feb 14 14:49:51 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Sun Feb 14 14:49:51 2016 ]=>  ______‌‌_ [187769689] Used /res freemani
+ 
+[ Sun Feb 14 14:49:51 2016 ]=>  ______‌‌_ [187769689] set [157094408] as owner
+ 
+[ Sun Feb 14 14:49:51 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Sun Feb 14 14:49:51 2016 ]=>  ______‌‌_ [187769689] used /owner
+ 
+[ Sun Feb 14 14:49:51 2016 ]=>  ______‌‌_ [187769689] left using kickme 
+ 
+[ Sun Feb 14 14:49:51 2016 ]=>  E__M__C [0] deleted user  user#id187769689
+ 
+[ Sun Feb 14 14:49:51 2016 ]=>  E__M__C [0] deleted user  user#id187769689
+ 
+[ Mon Feb 15 17:31:38 2016 ]=>  o_(^‿^✿)ｏ [157094408] added a banned user >88696921
+ 
+[ Mon Feb 15 17:38:43 2016 ]=>  o (^‿^✿)ｏ [157094408] setted [157094408] as owner
+ 
+[ Mon Feb 15 17:39:12 2016 ]=>  ______‌‌_ [187769689] left using kickme 
+ 
+[ Mon Feb 15 17:39:12 2016 ]=>  E__M__C [0] deleted user  user#id187769689
+ 
+[ Mon Feb 15 17:39:12 2016 ]=>  E__M__C [0] deleted user  user#id187769689
+ 
+[ Mon Feb 15 17:50:38 2016 ]=>  o_(^‿^✿)ｏ [157094408] unlocked link 
+ 
+[ Mon Feb 15 17:50:38 2016 ]=>  o_(^‿^✿)ｏ [157094408] requested group settings 
+ 
+[ Mon Feb 15 17:50:39 2016 ]=>  o_(^‿^✿)ｏ [157094408] used /id 
+ 
+[ Mon Feb 15 17:50:39 2016 ]=>  o_(^‿^✿)ｏ [157094408] Used /res me
+ 
+[ Mon Feb 15 17:50:39 2016 ]=>  o_(^‿^✿)ｏ [157094408] added a banned user >88696921
+ 
+[ Mon Feb 15 17:50:39 2016 ]=>  E__M__C [0] deleted user  user#id88696921
+ 
+[ Mon Feb 15 17:50:39 2016 ]=>  E__M__C [0] deleted user  user#id88696921
+ 
+[ Thu Feb 18 05:57:40 2016 ]=>  o_(^‿^✿)ｏ [157094408] requested group settings 
+ 
+[ Thu Feb 18 05:57:56 2016 ]=>  o_(^‿^✿)ｏ [157094408] Used /help
+ 
+[ Thu Feb 18 05:59:13 2016 ]=>  o_(^‿^✿)ｏ [157094408] revoked group link 
+ 
+[ Thu Feb 18 05:59:23 2016 ]=>  o_(^‿^✿)ｏ [157094408] requested group link [https://telegram.me/joinchat/CNx_gQYzi89qZpyhILToAg]
+ 
+[ Thu Feb 18 06:15:41 2016 ]=>  o_(^‿^✿)ｏ [157094408] requested group settings 
+ 
+[ Thu Feb 18 06:15:42 2016 ]=>  o_(^‿^✿)ｏ [157094408] Used /help
+ 
+[ Thu Feb 18 06:15:42 2016 ]=>  o_(^‿^✿)ｏ [157094408] requested group link [https://telegram.me/joinchat/CNx_gQYzi89qZpyhILToAg]
+ 
+[ Thu Feb 18 06:15:42 2016 ]=>  o_(^‿^✿)ｏ [157094408] revoked group link 
+ 
+[ Thu Feb 18 06:15:42 2016 ]=>  o_(^‿^✿)ｏ [157094408] requested group link [https://telegram.me/joinchat/CNx_gQYzi89qZpyhILToAg]
+ 
+[ Thu Feb 18 06:20:19 2016 ]=>  o_(^‿^✿)ｏ [157094408] requested group settings 
+ 
+[ Thu Feb 18 06:20:19 2016 ]=>  o_(^‿^✿)ｏ [157094408] Used /help
+ 
+[ Thu Feb 18 06:20:19 2016 ]=>  o_(^‿^✿)ｏ [157094408] requested group link [https://telegram.me/joinchat/CNx_gQYzi8-bLXU3GB9WoA]
+ 
+[ Thu Feb 18 06:20:20 2016 ]=>  o_(^‿^✿)ｏ [157094408] revoked group link 
+ 
+[ Thu Feb 18 06:20:20 2016 ]=>  o_(^‿^✿)ｏ [157094408] requested group link [https://telegram.me/joinchat/CNx_gQYzi8-bLXU3GB9WoA]
+ 
+[ Thu Feb 18 06:30:59 2016 ]=>  o_(^‿^✿)ｏ [157094408] requested group settings 
+ 
+[ Thu Feb 18 06:30:59 2016 ]=>  o_(^‿^✿)ｏ [157094408] Used /help
+ 
+[ Thu Feb 18 06:30:59 2016 ]=>  o_(^‿^✿)ｏ [157094408] requested group link [https://telegram.me/joinchat/CNx_gQYzi88p8GgTxYixmg]
+ 
+[ Thu Feb 18 06:30:59 2016 ]=>  o_(^‿^✿)ｏ [157094408] revoked group link 
+ 
+[ Thu Feb 18 06:30:59 2016 ]=>  o_(^‿^✿)ｏ [157094408] requested group link [https://telegram.me/joinchat/CNx_gQYzi88p8GgTxYixmg]
+ 
+[ Thu Feb 18 13:46:14 2016 ]=>  P_M_C [157094408] Used /help
+ 
+[ Thu Feb 18 13:47:02 2016 ]=>  P_M_C [157094408] used /idetergent 
+ 
+[ Thu Feb 18 13:48:33 2016 ]=>  P_M_C [157094408] used /idetergent 
+ 
+[ Thu Feb 18 13:48:50 2016 ]=>  log file created by owner
+ 
+[ Thu Feb 18 14:28:25 2016 ]=>  P_M_C [157094408] Used /help
+ 
+[ Thu Feb 18 14:28:25 2016 ]=>  P_M_C [157094408] used /idetergent 
+ 
+[ Thu Feb 18 14:28:26 2016 ]=>  P_M_C [157094408] used /idetergent 
+ 
+[ Thu Feb 18 14:28:27 2016 ]=>  log file created by owner
+ 
+[ Fri Feb 19 05:49:17 2016 ]=>  P_M_C [157094408] unlocked flood 
+ 
+[ Fri Feb 19 05:52:05 2016 ]=>  P_M_C [157094408] unlocked flood 
+ 
+[ Fri Feb 19 14:38:51 2016 ]=>  P_M_C [157094408] Used /help
+ 
+[ Sun Feb 21 17:24:39 2016 ]=>  Group { mani }  name changed to [ a ] by P_M_C [157094408]
+ 
+[ Sun Feb 21 17:25:34 2016 ]=>  Group { a }  name changed to [ man ] by P_M_C [157094408]
+ 
+[ Sun Feb 21 17:49:34 2016 ]=>  Group { man }  name changed to [ a ] by P_M_C [157094408]
+ 
+[ Sun Feb 21 17:49:34 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Sun Feb 21 17:49:34 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Sun Feb 21 17:49:34 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Sun Feb 21 17:49:34 2016 ]=>  Group { man }  name changed to [ man ] by P_M_C [157094408]
+ 
+[ Tue Feb 23 11:35:25 2016 ]=>  P_M_C [157094408] added a banned user >140325175
+ 
+[ Tue Feb 23 11:35:25 2016 ]=>  P_M_C [157094408] added a banned user >140325175
+ 
+[ Tue Feb 23 11:35:25 2016 ]=>  E_M_C™ [0] deleted user  user#id140325175
+ 
+[ Tue Feb 23 11:35:25 2016 ]=>  E_M_C™ [0] deleted user  user#id140325175
+ 
+[ Tue Feb 23 11:35:25 2016 ]=>  E_M_C™ [0] deleted user  user#id140325175
+ 
+[ Tue Feb 23 12:12:17 2016 ]=>  P_M_C [157094408] added a banned user >140325175
+ 
+[ Tue Feb 23 12:12:17 2016 ]=>  P_M_C [157094408] added a banned user >140325175
+ 
+[ Tue Feb 23 12:12:17 2016 ]=>  E_M_C™ [0] deleted user  user#id140325175
+ 
+[ Tue Feb 23 12:12:17 2016 ]=>  E_M_C™ [0] deleted user  user#id140325175
+ 
+[ Tue Feb 23 12:12:17 2016 ]=>  E_M_C™ [0] deleted user  user#id140325175
+ 

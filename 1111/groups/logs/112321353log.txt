@@ -1,0 +1,20 @@
+[ Fri Feb 19 06:48:35 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] revoked group link 
+ 
+[ Fri Feb 19 06:48:37 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] requested group link [https://telegram.me/joinchat/CNx_gQax40kU97V2CKOCrg]
+ 
+[ Fri Feb 19 06:49:26 2016 ]=>  E_M_C™ [0] added a banned user >161389560
+ 
+[ Fri Feb 19 06:49:26 2016 ]=>  E_M_C™ [0] deleted user  user#id161389560
+ 
+[ Fri Feb 19 06:49:26 2016 ]=>  E_M_C™ [0] deleted user  user#id161389560
+ 
+[ Fri Feb 19 06:56:39 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] revoked group link 
+ 
+[ Fri Feb 19 06:56:39 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] requested group link [https://telegram.me/joinchat/CNx_gQax40kU97V2CKOCrg]
+ 
+[ Fri Feb 19 06:56:40 2016 ]=>  E_M_C™ [0] added a banned user >161389560
+ 
+[ Fri Feb 19 06:56:40 2016 ]=>  E_M_C™ [0] deleted user  user#id161389560
+ 
+[ Fri Feb 19 06:56:40 2016 ]=>  E_M_C™ [0] deleted user  user#id161389560
+ 

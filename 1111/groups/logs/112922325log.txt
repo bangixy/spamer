@@ -1,0 +1,16 @@
+[ Thu Feb 18 14:28:23 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] revoked group link 
+ 
+[ Thu Feb 18 14:28:23 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Thu Feb 18 14:28:37 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] requested group link [https://telegram.me/joinchat/CNx_gQa7DtWVfrjnE5DiJw]
+ 
+[ Thu Feb 18 14:29:08 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] revoked group link 
+ 
+[ Thu Feb 18 15:27:31 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] revoked group link 
+ 
+[ Thu Feb 18 15:27:31 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Thu Feb 18 15:27:31 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] requested group link [https://telegram.me/joinchat/CNx_gQa7DtVs6Nd7bs-ZAg]
+ 
+[ Thu Feb 18 15:27:31 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] revoked group link 
+ 

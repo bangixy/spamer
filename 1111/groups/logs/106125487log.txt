@@ -1,0 +1,2415 @@
+[ Thu Feb 18 19:23:15 2016 ]=>  ______‌‌_ [187769689] revoked group link 
+ 
+[ Thu Feb 18 19:23:17 2016 ]=>  ______‌‌_ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQZTWK_GjiXv6Me4CQ]
+ 
+[ Thu Feb 18 19:25:09 2016 ]=>  🗼Shahabsaf🗼 [171608708] requested member list 
+ 
+[ Thu Feb 18 19:25:25 2016 ]=>  🗼Shahabsaf🗼 [171608708] kicked user 112392827
+ 
+[ Thu Feb 18 19:25:25 2016 ]=>  E_M_C™ [0] deleted user  user#id112392827
+ 
+[ Thu Feb 18 19:25:25 2016 ]=>  E_M_C™ [0] deleted user  user#id112392827
+ 
+[ Thu Feb 18 19:26:52 2016 ]=>  مــٍٍٍٍٍــىـــــًًًٍٍℳahdiــــٍٍٍدىًًًًًًًًًًًٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍ_پـٓٓـــســBoyـــرُُُُُُُُُُ_بـــــŊiCeــــدٰٰٰٕ [180087690] is banned and kicked ! 
+ 
+[ Thu Feb 18 19:26:52 2016 ]=>  E_M_C™ [0] deleted user  user#id180087690
+ 
+[ Thu Feb 18 19:26:52 2016 ]=>  E_M_C™ [0] deleted user  user#id180087690
+ 
+[ Thu Feb 18 19:27:09 2016 ]=>  ______‌‌_ [187769689] Used /res mahdib9
+ 
+[ Thu Feb 18 19:27:12 2016 ]=>  🗼Shahabsaf🗼 [171608708] used /id 
+ 
+[ Thu Feb 18 19:28:07 2016 ]=>  UZI [155236071] setted [155236071] as owner
+ 
+[ Thu Feb 18 19:28:10 2016 ]=>  E_M_C™ [0] deleted user  user#id77750573
+ 
+[ Thu Feb 18 19:28:10 2016 ]=>  E_M_C™ [0] deleted user  user#id77750573
+ 
+[ Thu Feb 18 19:28:10 2016 ]=>  E_M_C™ [0] deleted user  user#id83817319
+ 
+[ Thu Feb 18 19:28:10 2016 ]=>  E_M_C™ [0] deleted user  user#id83817319
+ 
+[ Thu Feb 18 19:28:10 2016 ]=>  E_M_C™ [0] deleted user  user#id112392827
+ 
+[ Thu Feb 18 19:28:10 2016 ]=>  E_M_C™ [0] deleted user  user#id112392827
+ 
+[ Thu Feb 18 19:28:17 2016 ]=>  ______‌‌_ [187769689] left using kickme 
+ 
+[ Thu Feb 18 19:28:17 2016 ]=>  E_M_C™ [0] deleted user  user#id187769689
+ 
+[ Thu Feb 18 19:28:17 2016 ]=>  E_M_C™ [0] deleted user  user#id187769689
+ 
+[ Thu Feb 18 19:28:57 2016 ]=>  UZI [155236071] requested group link [https://telegram.me/joinchat/CNx_gQZTWK_GjiXv6Me4CQ]
+ 
+[ Thu Feb 18 19:29:07 2016 ]=>  UZI [155236071] Used /help
+ 
+[ Thu Feb 18 19:29:23 2016 ]=>  🗼Shahabsaf🗼 [171608708] requested group settings 
+ 
+[ Thu Feb 18 19:29:27 2016 ]=>  UZI [155236071] requested group settings 
+ 
+[ Thu Feb 18 19:29:37 2016 ]=>  E_M_C™ [0] deleted user  user#id171608708
+ 
+[ Thu Feb 18 19:29:37 2016 ]=>  E_M_C™ [0] deleted user  user#id171608708
+ 
+[ Thu Feb 18 19:29:39 2016 ]=>  E_M_C™ [0] deleted user  user#id119989724
+ 
+[ Thu Feb 18 19:29:39 2016 ]=>  E_M_C™ [0] deleted user  user#id119989724
+ 
+[ Thu Feb 18 19:31:17 2016 ]=>  UZI [155236071] requested group link [https://telegram.me/joinchat/CNx_gQZTWK_GjiXv6Me4CQ]
+ 
+[ Thu Feb 18 19:31:34 2016 ]=>  Group { X }  name changed to [ UZI ] by UZI [155236071]
+ 
+[ Thu Feb 18 19:31:34 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Thu Feb 18 19:31:34 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Thu Feb 18 19:40:42 2016 ]=>  ______‌‌_ [187769689] revoked group link 
+ 
+[ Thu Feb 18 19:40:42 2016 ]=>  ______‌‌_ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQZTWK_GjiXv6Me4CQ]
+ 
+[ Thu Feb 18 19:40:42 2016 ]=>  🗼Shahabsaf🗼 [171608708] requested member list 
+ 
+[ Thu Feb 18 19:40:42 2016 ]=>  🗼Shahabsaf🗼 [171608708] kicked user 112392827
+ 
+[ Thu Feb 18 19:40:42 2016 ]=>  E_M_C™ [0] deleted user  user#id112392827
+ 
+[ Thu Feb 18 19:40:42 2016 ]=>  E_M_C™ [0] deleted user  user#id112392827
+ 
+[ Thu Feb 18 19:40:43 2016 ]=>  🔱Apex🔱king⚜MARG.. [112392827] spammed and kicked ! 
+ 
+[ Thu Feb 18 19:40:43 2016 ]=>  E_M_C™ [0] deleted user  user#id180087690
+ 
+[ Thu Feb 18 19:40:43 2016 ]=>  E_M_C™ [0] deleted user  user#id180087690
+ 
+[ Thu Feb 18 19:40:43 2016 ]=>  ______‌‌_ [187769689] Used /res mahdib9
+ 
+[ Thu Feb 18 19:40:43 2016 ]=>  🗼Shahabsaf🗼 [171608708] used /id 
+ 
+[ Thu Feb 18 19:40:44 2016 ]=>  E_M_C™ [0] deleted user  user#id77750573
+ 
+[ Thu Feb 18 19:40:44 2016 ]=>  E_M_C™ [0] deleted user  user#id77750573
+ 
+[ Thu Feb 18 19:40:44 2016 ]=>  E_M_C™ [0] deleted user  user#id83817319
+ 
+[ Thu Feb 18 19:40:44 2016 ]=>  E_M_C™ [0] deleted user  user#id83817319
+ 
+[ Thu Feb 18 19:40:44 2016 ]=>  E_M_C™ [0] deleted user  user#id112392827
+ 
+[ Thu Feb 18 19:40:44 2016 ]=>  E_M_C™ [0] deleted user  user#id112392827
+ 
+[ Thu Feb 18 19:40:44 2016 ]=>  ______‌‌_ [187769689] left using kickme 
+ 
+[ Thu Feb 18 19:40:44 2016 ]=>  E_M_C™ [0] deleted user  user#id187769689
+ 
+[ Thu Feb 18 19:40:44 2016 ]=>  E_M_C™ [0] deleted user  user#id187769689
+ 
+[ Thu Feb 18 19:40:44 2016 ]=>  UZI#1 [155236071] requested group link [https://telegram.me/joinchat/CNx_gQZTWK_GjiXv6Me4CQ]
+ 
+[ Thu Feb 18 19:40:44 2016 ]=>  UZI#1 [155236071] Used /help
+ 
+[ Thu Feb 18 19:40:44 2016 ]=>  🗼Shahabsaf🗼 [171608708] requested group settings 
+ 
+[ Thu Feb 18 19:40:44 2016 ]=>  UZI#1 [155236071] requested group settings 
+ 
+[ Thu Feb 18 19:40:44 2016 ]=>  E_M_C™ [0] deleted user  user#id171608708
+ 
+[ Thu Feb 18 19:40:44 2016 ]=>  E_M_C™ [0] deleted user  user#id171608708
+ 
+[ Thu Feb 18 19:40:44 2016 ]=>  E_M_C™ [0] deleted user  user#id119989724
+ 
+[ Thu Feb 18 19:40:44 2016 ]=>  E_M_C™ [0] deleted user  user#id119989724
+ 
+[ Thu Feb 18 19:40:44 2016 ]=>  UZI#1 [155236071] requested group link [https://telegram.me/joinchat/CNx_gQZTWK_GjiXv6Me4CQ]
+ 
+[ Thu Feb 18 19:40:45 2016 ]=>  Group { UZI }  name changed to [ UZI ] by UZI#1 [155236071]
+ 
+[ Thu Feb 18 19:40:46 2016 ]=>  UZI#1 [155236071] setted [155236071] as owner
+ 
+[ Thu Feb 18 19:42:37 2016 ]=>  UZI#1 [155236071] requested group link [https://telegram.me/joinchat/CNx_gQZTWK_GjiXv6Me4CQ]
+ 
+[ Thu Feb 18 19:43:57 2016 ]=>  UZI#1 [155236071] revoked group link 
+ 
+[ Thu Feb 18 19:44:00 2016 ]=>  UZI#1 [155236071] requested group link [https://telegram.me/joinchat/CNx_gQZTWK8mK0R5SsfpXg]
+ 
+[ Thu Feb 18 19:44:30 2016 ]=>  UZI#1 [155236071] revoked group link 
+ 
+[ Thu Feb 18 19:45:40 2016 ]=>  ➰ [108814342] deleted user  user#id108814342
+ 
+[ Thu Feb 18 19:45:40 2016 ]=>  ➰ [108814342] deleted user  user#id108814342
+ 
+[ Thu Feb 18 19:45:57 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ  آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] setted [145025039] as owner
+ 
+[ Thu Feb 18 19:46:25 2016 ]=>  UZI#1 [155236071] left using kickme 
+ 
+[ Thu Feb 18 19:46:25 2016 ]=>  E_M_C™ [0] deleted user  user#id155236071
+ 
+[ Thu Feb 18 19:46:25 2016 ]=>  E_M_C™ [0] deleted user  user#id155236071
+ 
+[ Thu Feb 18 19:46:45 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] tried to change name but failed  
+ 
+[ Thu Feb 18 19:46:45 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] tried to change name but failed  
+ 
+[ Thu Feb 18 19:47:02 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] tried to change name but failed  
+ 
+[ Thu Feb 18 19:47:03 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] tried to change name but failed  
+ 
+[ Thu Feb 18 19:48:02 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] used /id 
+ 
+[ Thu Feb 18 19:48:11 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] Used /help
+ 
+[ Thu Feb 18 19:48:48 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested group settings 
+ 
+[ Thu Feb 18 19:50:39 2016 ]=>  Group { UZI }  name changed to [ teat ] by 🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039]
+ 
+[ Thu Feb 18 19:51:13 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] Used /help
+ 
+[ Thu Feb 18 19:53:35 2016 ]=>  Group { teat }  name changed to [ #عـــلــــαησηумσυѕـی ] by 🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039]
+ 
+[ Thu Feb 18 19:53:35 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Thu Feb 18 19:53:35 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Thu Feb 18 19:55:13 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested group link [https://telegram.me/joinchat/CNx_gQZTWK-C6CRfxXNAew]
+ 
+[ Thu Feb 18 19:56:11 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] Used /help
+ 
+[ Thu Feb 18 20:00:16 2016 ]=>  E_M_C™ [0] deleted user  user#id160592819
+ 
+[ Thu Feb 18 20:00:16 2016 ]=>  E_M_C™ [0] deleted user  user#id160592819
+ 
+[ Thu Feb 18 20:01:22 2016 ]=>  ♚عًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًٌٖـًًًًًًًًًًًًًًًًًًًًًًًًٌـًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًٌڸًّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّٖ؁ٰےٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍ‌ٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍ_ڜًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًـًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًـًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًً؁_ًًًًًًًًًًًًًًًًًًًٌـًًًًًًًًًًًًًٌڕّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّ♚ [114061294] deleted user  user#id114061294
+ 
+[ Thu Feb 18 20:01:22 2016 ]=>  ♚عًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًٌٖـًًًًًًًًًًًًًًًًًًًًًًًًٌـًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًٌڸًّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّٖ؁ٰےٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍ‌ٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍ_ڜًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًـًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًـًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًً؁_ًًًًًًًًًًًًًًًًًًًٌـًًًًًًًًًًًًًٌڕّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّ♚ [114061294] deleted user  user#id114061294
+ 
+[ Thu Feb 18 20:01:33 2016 ]=>  👑masto_hoshyar👑 [119766629] deleted user  user#id119766629
+ 
+[ Thu Feb 18 20:01:33 2016 ]=>  👑masto_hoshyar👑 [119766629] deleted user  user#id119766629
+ 
+[ Thu Feb 18 20:02:30 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] Used /help
+ 
+[ Thu Feb 18 20:04:36 2016 ]=>  M😮h@mm@d [113673588] deleted user  user#id113673588
+ 
+[ Thu Feb 18 20:04:36 2016 ]=>  M😮h@mm@d [113673588] deleted user  user#id113673588
+ 
+[ Thu Feb 18 20:06:46 2016 ]=>  M86 [170882973] deleted user  user#id170882973
+ 
+[ Thu Feb 18 20:06:46 2016 ]=>  M86 [170882973] deleted user  user#id170882973
+ 
+[ Thu Feb 18 20:40:48 2016 ]=>  UZI [155236071] spammed and kicked ! 
+ 
+[ Thu Feb 18 20:40:48 2016 ]=>  ➰ [108814342] deleted user  user#id108814342
+ 
+[ Thu Feb 18 20:40:48 2016 ]=>  ➰ [108814342] deleted user  user#id108814342
+ 
+[ Thu Feb 18 20:40:49 2016 ]=>  E_M_C™ [0] deleted user  user#id155236071
+ 
+[ Thu Feb 18 20:40:49 2016 ]=>  E_M_C™ [0] deleted user  user#id155236071
+ 
+[ Thu Feb 18 20:40:49 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] tried to change name but failed  
+ 
+[ Thu Feb 18 20:40:49 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] tried to change name but failed  
+ 
+[ Thu Feb 18 20:40:49 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Thu Feb 18 20:40:49 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Thu Feb 18 20:40:49 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] tried to change name but failed  
+ 
+[ Thu Feb 18 20:40:49 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] tried to change name but failed  
+ 
+[ Thu Feb 18 20:40:49 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Thu Feb 18 20:40:49 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Thu Feb 18 20:40:49 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] used /id 
+ 
+[ Thu Feb 18 20:40:49 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] Used /help
+ 
+[ Thu Feb 18 20:40:49 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested group settings 
+ 
+[ Thu Feb 18 20:40:52 2016 ]=>  Group { @عـــلــــαησηумσυѕـی }  name changed to [ teat ] by 🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039]
+ 
+[ Thu Feb 18 20:40:52 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Thu Feb 18 20:40:52 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Thu Feb 18 20:40:53 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] Used /help
+ 
+[ Thu Feb 18 20:40:55 2016 ]=>  Group { @عـــلــــαησηумσυѕـی }  name changed to [ #عـــلــــαησηумσυѕـی ] by 🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039]
+ 
+[ Thu Feb 18 20:40:55 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Thu Feb 18 20:40:55 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Thu Feb 18 20:40:56 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested group link [https://telegram.me/joinchat/CNx_gQZTWK-C6CRfxXNAew]
+ 
+[ Thu Feb 18 20:40:56 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] Used /help
+ 
+[ Thu Feb 18 20:40:58 2016 ]=>  E_M_C™ [0] deleted user  user#id160592819
+ 
+[ Thu Feb 18 20:40:58 2016 ]=>  E_M_C™ [0] deleted user  user#id160592819
+ 
+[ Thu Feb 18 20:40:59 2016 ]=>  ♚عًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًٌٖـًًًًًًًًًًًًًًًًًًًًًًًًٌـًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًٌڸًّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّٖ؁ٰےٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍ‌ٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍ_ڜًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًـًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًـًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًً؁_ًًًًًًًًًًًًًًًًًًًٌـًًًًًًًًًًًًًٌڕّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّ♚ [114061294] deleted user  user#id114061294
+ 
+[ Thu Feb 18 20:40:59 2016 ]=>  ♚عًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًٌٖـًًًًًًًًًًًًًًًًًًًًًًًًٌـًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًٌڸًّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّٖ؁ٰےٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍ‌ٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍ_ڜًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًـًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًـًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًً؁_ًًًًًًًًًًًًًًًًًًًٌـًًًًًًًًًًًًًٌڕّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّ♚ [114061294] deleted user  user#id114061294
+ 
+[ Thu Feb 18 20:40:59 2016 ]=>  👑masto_hoshyar👑 [119766629] deleted user  user#id119766629
+ 
+[ Thu Feb 18 20:40:59 2016 ]=>  👑masto_hoshyar👑 [119766629] deleted user  user#id119766629
+ 
+[ Thu Feb 18 20:40:59 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] Used /help
+ 
+[ Thu Feb 18 21:40:40 2016 ]=>  ─═हई╬_ħλɖίȘ_╬ईह═─ [89391396] deleted user  user#id89391396
+ 
+[ Thu Feb 18 21:40:40 2016 ]=>  ─═हई╬_ħλɖίȘ_╬ईह═─ [89391396] deleted user  user#id89391396
+ 
+[ Fri Feb 19 05:06:15 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] locked link 
+ 
+[ Fri Feb 19 05:06:51 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] set flood to [20]
+ 
+[ Fri Feb 19 05:07:11 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] set flood to [10]
+ 
+[ Fri Feb 19 05:07:19 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] Used /help
+ 
+[ Fri Feb 19 05:07:51 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested member list 
+ 
+[ Fri Feb 19 05:08:14 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested group modlist
+ 
+[ Fri Feb 19 05:08:36 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested group description
+ 
+[ Fri Feb 19 05:09:50 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] used /owner
+ 
+[ Fri Feb 19 05:10:09 2016 ]=>  log file created by owner
+ 
+[ Fri Feb 19 05:10:39 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested group rules
+ 
+[ Fri Feb 19 05:14:36 2016 ]=>  Group { @عـــلــــαησηумσυѕـی }  name changed to [ tbl!?#azad😊 ] by 🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039]
+ 
+[ Fri Feb 19 05:14:36 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Fri Feb 19 05:14:36 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Fri Feb 19 05:14:57 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] Used /help
+ 
+[ Fri Feb 19 05:17:46 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] has changed group description to [سلام فداتـــــــــشم ڪــــــه عــــــضو شــدی 
+تبلیغ آزاد میباشد😊💋]
+ 
+[ Fri Feb 19 05:21:46 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] has changed group rules to [1.tbl mojaz 2. attack!🚫 3.welcome to group tbl!?#azad]
+ 
+[ Fri Feb 19 05:22:11 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] Used /help
+ 
+[ Fri Feb 19 05:22:48 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] locked bots 
+ 
+[ Fri Feb 19 05:23:14 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] unlocked tag 
+ 
+[ Fri Feb 19 05:24:02 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] set flood to [20]
+ 
+[ Fri Feb 19 05:24:16 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested group link [https://telegram.me/joinchat/CNx_gQZTWK-C6CRfxXNAew]
+ 
+[ Fri Feb 19 05:30:04 2016 ]=>  M😮h@mm@d [113673588] deleted user  user#id113673588
+ 
+[ Fri Feb 19 05:30:04 2016 ]=>  M😮h@mm@d [113673588] deleted user  user#id113673588
+ 
+[ Fri Feb 19 05:31:18 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] Used /help
+ 
+[ Fri Feb 19 05:37:11 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] left using kickme 
+ 
+[ Fri Feb 19 05:37:11 2016 ]=>  E_M_C™ [0] deleted user  user#id119989724
+ 
+[ Fri Feb 19 05:37:11 2016 ]=>  E_M_C™ [0] deleted user  user#id119989724
+ 
+[ Fri Feb 19 05:37:26 2016 ]=>  ______‌‌_ [187769689] left using kickme 
+ 
+[ Fri Feb 19 05:37:26 2016 ]=>  E_M_C™ [0] deleted user  user#id187769689
+ 
+[ Fri Feb 19 05:37:26 2016 ]=>  E_M_C™ [0] deleted user  user#id187769689
+ 
+[ Fri Feb 19 05:40:59 2016 ]=>  🗼Shahabsaf🗼 [171608708] used /id 
+ 
+[ Fri Feb 19 05:43:43 2016 ]=>  E_M_C™ [0] deleted user  user#id136604190
+ 
+[ Fri Feb 19 05:43:43 2016 ]=>  E_M_C™ [0] deleted user  user#id136604190
+ 
+[ Fri Feb 19 05:43:58 2016 ]=>  🗼Shahabsaf🗼 [171608708] unlocked link 
+ 
+[ Fri Feb 19 05:44:20 2016 ]=>  🌐OLGOOO🌐 [103362420] deleted user  user#id103362420
+ 
+[ Fri Feb 19 05:44:20 2016 ]=>  🌐OLGOOO🌐 [103362420] deleted user  user#id103362420
+ 
+[ Fri Feb 19 05:44:38 2016 ]=>  Amir_Mental [120507122] deleted user  user#id120507122
+ 
+[ Fri Feb 19 05:44:38 2016 ]=>  Amir_Mental [120507122] deleted user  user#id120507122
+ 
+[ Fri Feb 19 05:48:14 2016 ]=>  @ [120947849] deleted user  user#id120947849
+ 
+[ Fri Feb 19 05:48:14 2016 ]=>  @ [120947849] deleted user  user#id120947849
+ 
+[ Fri Feb 19 05:49:55 2016 ]=>  Elyot_rmn [169209706] deleted user  user#id169209706
+ 
+[ Fri Feb 19 05:49:55 2016 ]=>  Elyot_rmn [169209706] deleted user  user#id169209706
+ 
+[ Fri Feb 19 05:51:14 2016 ]=>  آڢڸايڹم [169775708] requested group rules
+ 
+[ Fri Feb 19 05:51:40 2016 ]=>  ΑΜιЯ🚬 [173455477] deleted user  user#id173455477
+ 
+[ Fri Feb 19 05:51:40 2016 ]=>  ΑΜιЯ🚬 [173455477] deleted user  user#id173455477
+ 
+[ Fri Feb 19 05:51:51 2016 ]=>  آڢڸايڹم [169775708] requested group description
+ 
+[ Fri Feb 19 05:51:58 2016 ]=>  M😮h@mm@d [113673588] deleted user  user#id113673588
+ 
+[ Fri Feb 19 05:51:58 2016 ]=>  M😮h@mm@d [113673588] deleted user  user#id113673588
+ 
+[ Fri Feb 19 05:51:58 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] Used /help
+ 
+[ Fri Feb 19 05:51:59 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] left using kickme 
+ 
+[ Fri Feb 19 05:51:59 2016 ]=>  E_M_C™ [0] deleted user  user#id119989724
+ 
+[ Fri Feb 19 05:51:59 2016 ]=>  E_M_C™ [0] deleted user  user#id119989724
+ 
+[ Fri Feb 19 05:51:59 2016 ]=>  ______‌‌_ [187769689] left using kickme 
+ 
+[ Fri Feb 19 05:51:59 2016 ]=>  E_M_C™ [0] deleted user  user#id187769689
+ 
+[ Fri Feb 19 05:51:59 2016 ]=>  E_M_C™ [0] deleted user  user#id187769689
+ 
+[ Fri Feb 19 05:52:02 2016 ]=>  🗼Shahabsaf🗼 [171608708] used /id 
+ 
+[ Fri Feb 19 05:52:02 2016 ]=>  E_M_C™ [0] deleted user  user#id136604190
+ 
+[ Fri Feb 19 05:52:02 2016 ]=>  E_M_C™ [0] deleted user  user#id136604190
+ 
+[ Fri Feb 19 05:52:02 2016 ]=>  🗼Shahabsaf🗼 [171608708] unlocked link 
+ 
+[ Fri Feb 19 05:52:02 2016 ]=>  🌐OLGOOO🌐 [103362420] deleted user  user#id103362420
+ 
+[ Fri Feb 19 05:52:02 2016 ]=>  🌐OLGOOO🌐 [103362420] deleted user  user#id103362420
+ 
+[ Fri Feb 19 05:52:03 2016 ]=>  Amir_Mental [120507122] deleted user  user#id120507122
+ 
+[ Fri Feb 19 05:52:03 2016 ]=>  Amir_Mental [120507122] deleted user  user#id120507122
+ 
+[ Fri Feb 19 05:52:04 2016 ]=>  @ [120947849] deleted user  user#id120947849
+ 
+[ Fri Feb 19 05:52:04 2016 ]=>  @ [120947849] deleted user  user#id120947849
+ 
+[ Fri Feb 19 05:52:05 2016 ]=>  Elyot_rmn [169209706] deleted user  user#id169209706
+ 
+[ Fri Feb 19 05:52:05 2016 ]=>  Elyot_rmn [169209706] deleted user  user#id169209706
+ 
+[ Fri Feb 19 05:52:06 2016 ]=>  آڢڸايڹم [169775708] requested group rules
+ 
+[ Fri Feb 19 05:52:06 2016 ]=>  ΑΜιЯ🚬 [173455477] deleted user  user#id173455477
+ 
+[ Fri Feb 19 05:52:06 2016 ]=>  ΑΜιЯ🚬 [173455477] deleted user  user#id173455477
+ 
+[ Fri Feb 19 05:52:06 2016 ]=>  آڢڸايڹم [169775708] requested group description
+ 
+[ Fri Feb 19 05:52:06 2016 ]=>  -mysmsh🌚 [67444107] deleted user  user#id67444107
+ 
+[ Fri Feb 19 05:52:06 2016 ]=>  -mysmsh🌚 [67444107] deleted user  user#id67444107
+ 
+[ Fri Feb 19 05:52:23 2016 ]=>  ⏩_🔥_ครเคภ_💥_⏪ [137984481] deleted user  user#id137984481
+ 
+[ Fri Feb 19 05:52:23 2016 ]=>  ⏩_🔥_ครเคภ_💥_⏪ [137984481] deleted user  user#id137984481
+ 
+[ Fri Feb 19 05:52:35 2016 ]=>  -sһԀı🐼👅 [86966882] deleted user  user#id86966882
+ 
+[ Fri Feb 19 05:52:35 2016 ]=>  -sһԀı🐼👅 [86966882] deleted user  user#id86966882
+ 
+[ Fri Feb 19 05:52:51 2016 ]=>  Дli_***👑 [72315692] deleted user  user#id72315692
+ 
+[ Fri Feb 19 05:52:51 2016 ]=>  Дli_***👑 [72315692] deleted user  user#id72315692
+ 
+[ Fri Feb 19 05:56:29 2016 ]=>  🗼Shahabsaf🗼 [171608708] used /idetergent 
+ 
+[ Fri Feb 19 05:56:32 2016 ]=>  🗼Shahabsaf🗼 [171608708] used /idetergent 
+ 
+[ Fri Feb 19 06:09:39 2016 ]=>  Amir_Ta [152039575] deleted user  user#id152039575
+ 
+[ Fri Feb 19 06:09:39 2016 ]=>  Amir_Ta [152039575] deleted user  user#id152039575
+ 
+[ Fri Feb 19 06:14:48 2016 ]=>  ¸.·✿ɴคբձşm✿¸.· [106556908] deleted user  user#id106556908
+ 
+[ Fri Feb 19 06:14:48 2016 ]=>  ¸.·✿ɴคբձşm✿¸.· [106556908] deleted user  user#id106556908
+ 
+[ Fri Feb 19 06:19:37 2016 ]=>  ((🔱💘Erfan_&_S💘🔱)) [102767038] deleted user  user#id102767038
+ 
+[ Fri Feb 19 06:19:37 2016 ]=>  ((🔱💘Erfan_&_S💘🔱)) [102767038] deleted user  user#id102767038
+ 
+[ Fri Feb 19 06:25:08 2016 ]=>  سّّاّّمّّاّّنّّمّّ_شّّاّّهّّ_بّّلّّکّّ_بّّنّّگّّ_رّّوّّاّّلّّهّّ_💀eblis💀_ســــــــلــــــامـــــــتـــــــے▼_لــــــــــاشـــــــــــــے▲_تــــریـــــن_پســــــــر▼_کـــــهـــ▲_روز'ے_▼_عـــــاشـــــــــق_تریـن▲_پســـــــــر_شهــــــــر_بود_▼_اما▲__شکو_ђเ๔๔єภ_💀eblis💀&🔱black_bang🔱_نام_________حسرت__نام_خانوادگی________تنها___ﻣــــــﺦ_________ﺗﻌــﻄﯿﻞ__ﺟــــــﯿﺐ________سوال_بعدلطفا.__ﺍﻋﺼـــﺎﺏ_______داغووون__ﺍﻣﯿﺪ_ﺑﻪ_ﺯﻧﺪﮔﯽ_______ﺟﺎنم...!!؟؟__ﺩﻝ_________ﺗﻨـــﮓ__ﻏﻢ________تا_دلت_بخواد__ﺷﺎﺩﯼ________ [141129130] deleted user  user#id141129130
+ 
+[ Fri Feb 19 06:25:08 2016 ]=>  سّّاّّمّّاّّنّّمّّ_شّّاّّهّّ_بّّلّّکّّ_بّّنّّگّّ_رّّوّّاّّلّّهّّ_💀eblis💀_ســــــــلــــــامـــــــتـــــــے▼_لــــــــــاشـــــــــــــے▲_تــــریـــــن_پســــــــر▼_کـــــهـــ▲_روز'ے_▼_عـــــاشـــــــــق_تریـن▲_پســـــــــر_شهــــــــر_بود_▼_اما▲__شکو_ђเ๔๔єภ_💀eblis💀&🔱black_bang🔱_نام_________حسرت__نام_خانوادگی________تنها___ﻣــــــﺦ_________ﺗﻌــﻄﯿﻞ__ﺟــــــﯿﺐ________سوال_بعدلطفا.__ﺍﻋﺼـــﺎﺏ_______داغووون__ﺍﻣﯿﺪ_ﺑﻪ_ﺯﻧﺪﮔﯽ_______ﺟﺎنم...!!؟؟__ﺩﻝ_________ﺗﻨـــﮓ__ﻏﻢ________تا_دلت_بخواد__ﺷﺎﺩﯼ________ [141129130] deleted user  user#id141129130
+ 
+[ Fri Feb 19 06:29:47 2016 ]=>  👑ایـــــــن_اکــــــانــــت_افـــــــــــــــــشـــــــــد👑_👑ـــــــــریپورتم_ده_تااستیکرـــــــــــــــ👑 [153082803] deleted user  user#id153082803
+ 
+[ Fri Feb 19 06:29:47 2016 ]=>  👑ایـــــــن_اکــــــانــــت_افـــــــــــــــــشـــــــــد👑_👑ـــــــــریپورتم_ده_تااستیکرـــــــــــــــ👑 [153082803] deleted user  user#id153082803
+ 
+[ Fri Feb 19 06:31:23 2016 ]=>  Shahin [193344379] deleted user  user#id193344379
+ 
+[ Fri Feb 19 06:31:23 2016 ]=>  Shahin [193344379] deleted user  user#id193344379
+ 
+[ Fri Feb 19 06:31:45 2016 ]=>  حسن_سيدى [113967803] deleted user  user#id113967803
+ 
+[ Fri Feb 19 06:31:45 2016 ]=>  حسن_سيدى [113967803] deleted user  user#id113967803
+ 
+[ Fri Feb 19 06:33:14 2016 ]=>  ♚♚♚♚DANTE♚♚♚♚_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error [156907037] deleted user  user#id156907037
+ 
+[ Fri Feb 19 06:33:14 2016 ]=>  ♚♚♚♚DANTE♚♚♚♚_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error [156907037] deleted user  user#id156907037
+ 
+[ Fri Feb 19 06:34:53 2016 ]=>  (ĀŘMÅŇ)rip_10_stiker [176338410] deleted user  user#id176338410
+ 
+[ Fri Feb 19 06:34:53 2016 ]=>  (ĀŘMÅŇ)rip_10_stiker [176338410] deleted user  user#id176338410
+ 
+[ Fri Feb 19 06:38:22 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested group link [https://telegram.me/joinchat/CNx_gQZTWK-C6CRfxXNAew]
+ 
+[ Fri Feb 19 06:41:41 2016 ]=>  من_و_خودش [78941167] deleted user  user#id78941167
+ 
+[ Fri Feb 19 06:41:41 2016 ]=>  من_و_خودش [78941167] deleted user  user#id78941167
+ 
+[ Fri Feb 19 06:41:44 2016 ]=>  یلدا [120009370] deleted user  user#id120009370
+ 
+[ Fri Feb 19 06:41:44 2016 ]=>  یلدا [120009370] deleted user  user#id120009370
+ 
+[ Fri Feb 19 06:43:10 2016 ]=>  علیرضا_کیان [92711315] deleted user  user#id92711315
+ 
+[ Fri Feb 19 06:43:10 2016 ]=>  علیرضا_کیان [92711315] deleted user  user#id92711315
+ 
+[ Fri Feb 19 06:44:58 2016 ]=>  اميرحسين [187587494] deleted user  user#id187587494
+ 
+[ Fri Feb 19 06:44:58 2016 ]=>  اميرحسين [187587494] deleted user  user#id187587494
+ 
+[ Fri Feb 19 06:45:52 2016 ]=>  پَریسا_دُخْمَلْ_باباشْ [73471183] deleted user  user#id73471183
+ 
+[ Fri Feb 19 06:45:52 2016 ]=>  پَریسا_دُخْمَلْ_باباشْ [73471183] deleted user  user#id73471183
+ 
+[ Fri Feb 19 06:46:12 2016 ]=>  سکوت... [119485437] deleted user  user#id119485437
+ 
+[ Fri Feb 19 06:46:12 2016 ]=>  سکوت... [119485437] deleted user  user#id119485437
+ 
+[ Fri Feb 19 06:46:24 2016 ]=>  ، [91325397] deleted user  user#id91325397
+ 
+[ Fri Feb 19 06:46:24 2016 ]=>  ، [91325397] deleted user  user#id91325397
+ 
+[ Fri Feb 19 06:47:07 2016 ]=>  shwan [76796307] deleted user  user#id76796307
+ 
+[ Fri Feb 19 06:47:07 2016 ]=>  shwan [76796307] deleted user  user#id76796307
+ 
+[ Fri Feb 19 06:47:24 2016 ]=>  K_H_A_L_S_E [111003668] deleted user  user#id111003668
+ 
+[ Fri Feb 19 06:47:24 2016 ]=>  K_H_A_L_S_E [111003668] deleted user  user#id111003668
+ 
+[ Fri Feb 19 06:48:23 2016 ]=>  amir [151355963] deleted user  user#id151355963
+ 
+[ Fri Feb 19 06:48:23 2016 ]=>  amir [151355963] deleted user  user#id151355963
+ 
+[ Fri Feb 19 06:48:26 2016 ]=>  ❦s♠⇦ναlỹ⇨ᵝ♠❦ [138199708] deleted user  user#id138199708
+ 
+[ Fri Feb 19 06:48:26 2016 ]=>  ❦s♠⇦ναlỹ⇨ᵝ♠❦ [138199708] deleted user  user#id138199708
+ 
+[ Fri Feb 19 06:48:31 2016 ]=>  حدیث [180816872] deleted user  user#id180816872
+ 
+[ Fri Feb 19 06:48:31 2016 ]=>  حدیث [180816872] deleted user  user#id180816872
+ 
+[ Fri Feb 19 06:50:25 2016 ]=>  POUYA [88364266] deleted user  user#id88364266
+ 
+[ Fri Feb 19 06:50:25 2016 ]=>  POUYA [88364266] deleted user  user#id88364266
+ 
+[ Fri Feb 19 06:50:50 2016 ]=>  Android_Boy_™ [71672081] deleted user  user#id71672081
+ 
+[ Fri Feb 19 06:50:50 2016 ]=>  Android_Boy_™ [71672081] deleted user  user#id71672081
+ 
+[ Fri Feb 19 06:50:50 2016 ]=>  нαмι∂_яєzα [118484374] deleted user  user#id118484374
+ 
+[ Fri Feb 19 06:50:50 2016 ]=>  нαмι∂_яєzα [118484374] deleted user  user#id118484374
+ 
+[ Fri Feb 19 06:51:03 2016 ]=>  آتون [92857295] deleted user  user#id92857295
+ 
+[ Fri Feb 19 06:51:03 2016 ]=>  آتون [92857295] deleted user  user#id92857295
+ 
+[ Fri Feb 19 06:51:46 2016 ]=>  پر_درد [119324501] deleted user  user#id119324501
+ 
+[ Fri Feb 19 06:51:46 2016 ]=>  پر_درد [119324501] deleted user  user#id119324501
+ 
+[ Fri Feb 19 06:52:11 2016 ]=>  _-؛($)؛/-_ [198738882] deleted user  user#id198738882
+ 
+[ Fri Feb 19 06:52:11 2016 ]=>  _-؛($)؛/-_ [198738882] deleted user  user#id198738882
+ 
+[ Fri Feb 19 06:52:14 2016 ]=>  💀عًٌٍٍْلٌٍٍّْیًٌٍٍْرٌٍٍْضٌٍٍْآًٌٌٍ💀جًٌٍٍْوًٌٍْکٌٍُْْرٌٌٍْ💀رٌٌٍٍْوًٌٌٍْآًٌٍْلًًٌٌٍٍهًٌٌٌٍ💀 [199258203] added a bot > @star_ASR_bot
+ 
+[ Fri Feb 19 06:52:14 2016 ]=>  E_M_C™ [0] deleted user  user#id143060035
+ 
+[ Fri Feb 19 06:52:14 2016 ]=>  E_M_C™ [0] deleted user  user#id143060035
+ 
+[ Fri Feb 19 06:52:31 2016 ]=>  20411_Kurdestan [64051363] deleted user  user#id64051363
+ 
+[ Fri Feb 19 06:52:31 2016 ]=>  20411_Kurdestan [64051363] deleted user  user#id64051363
+ 
+[ Fri Feb 19 06:52:45 2016 ]=>  مجتبی [85295273] deleted user  user#id85295273
+ 
+[ Fri Feb 19 06:52:45 2016 ]=>  مجتبی [85295273] deleted user  user#id85295273
+ 
+[ Fri Feb 19 06:52:47 2016 ]=>  💀عًٌٍٍْلٌٍٍّْیًٌٍٍْرٌٍٍْضٌٍٍْآًٌٌٍ💀جًٌٍٍْوًٌٍْکٌٍُْْرٌٌٍْ💀رٌٌٍٍْوًٌٌٍْآًٌٍْلًًٌٌٍٍهًٌٌٌٍ💀 [199258203] deleted user  user#id199258203
+ 
+[ Fri Feb 19 06:52:47 2016 ]=>  💀عًٌٍٍْلٌٍٍّْیًٌٍٍْرٌٍٍْضٌٍٍْآًٌٌٍ💀جًٌٍٍْوًٌٍْکٌٍُْْرٌٌٍْ💀رٌٌٍٍْوًٌٌٍْآًٌٍْلًًٌٌٍٍهًٌٌٌٍ💀 [199258203] deleted user  user#id199258203
+ 
+[ Fri Feb 19 06:53:40 2016 ]=>  B@KhT¡@® [120420425] deleted user  user#id120420425
+ 
+[ Fri Feb 19 06:53:40 2016 ]=>  B@KhT¡@® [120420425] deleted user  user#id120420425
+ 
+[ Fri Feb 19 06:53:52 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] Used /help
+ 
+[ Fri Feb 19 06:54:21 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] set flood to [8]
+ 
+[ Fri Feb 19 06:54:34 2016 ]=>  hami [100405876] deleted user  user#id100405876
+ 
+[ Fri Feb 19 06:54:34 2016 ]=>  hami [100405876] deleted user  user#id100405876
+ 
+[ Fri Feb 19 06:54:51 2016 ]=>  Amir_Ta [152039575] deleted user  user#id152039575
+ 
+[ Fri Feb 19 06:54:51 2016 ]=>  Amir_Ta [152039575] deleted user  user#id152039575
+ 
+[ Fri Feb 19 06:54:52 2016 ]=>  ¸.·✿ɴคբձşm✿¸.· [106556908] deleted user  user#id106556908
+ 
+[ Fri Feb 19 06:54:52 2016 ]=>  ¸.·✿ɴคբձşm✿¸.· [106556908] deleted user  user#id106556908
+ 
+[ Fri Feb 19 06:54:53 2016 ]=>  ((🔱💘Erfan_&_S💘🔱)) [102767038] deleted user  user#id102767038
+ 
+[ Fri Feb 19 06:54:53 2016 ]=>  ((🔱💘Erfan_&_S💘🔱)) [102767038] deleted user  user#id102767038
+ 
+[ Fri Feb 19 06:54:54 2016 ]=>  سّّاّّمّّاّّنّّمّّ_شّّاّّهّّ_بّّلّّکّّ_بّّنّّگّّ_رّّوّّاّّلّّهّّ_💀eblis💀_ســــــــلــــــامـــــــتـــــــے▼_لــــــــــاشـــــــــــــے▲_تــــریـــــن_پســــــــر▼_کـــــهـــ▲_روز'ے_▼_عـــــاشـــــــــق_تریـن▲_پســـــــــر_شهــــــــر_بود_▼_اما▲__شکو_ђเ๔๔єภ_💀eblis💀&🔱black_bang🔱_نام_________حسرت__نام_خانوادگی________تنها___ﻣــــــﺦ_________ﺗﻌــﻄﯿﻞ__ﺟــــــﯿﺐ________سوال_بعدلطفا.__ﺍﻋﺼـــﺎﺏ_______داغووون__ﺍﻣﯿﺪ_ﺑﻪ_ﺯﻧﺪﮔﯽ_______ﺟﺎنم...!!؟؟__ﺩﻝ_________ﺗﻨـــﮓ__ﻏﻢ________تا_دلت_بخواد__ﺷﺎﺩﯼ________ [141129130] deleted user  user#id141129130
+ 
+[ Fri Feb 19 06:54:55 2016 ]=>  سّّاّّمّّاّّنّّمّّ_شّّاّّهّّ_بّّلّّکّّ_بّّنّّگّّ_رّّوّّاّّلّّهّّ_💀eblis💀_ســــــــلــــــامـــــــتـــــــے▼_لــــــــــاشـــــــــــــے▲_تــــریـــــن_پســــــــر▼_کـــــهـــ▲_روز'ے_▼_عـــــاشـــــــــق_تریـن▲_پســـــــــر_شهــــــــر_بود_▼_اما▲__شکو_ђเ๔๔єภ_💀eblis💀&🔱black_bang🔱_نام_________حسرت__نام_خانوادگی________تنها___ﻣــــــﺦ_________ﺗﻌــﻄﯿﻞ__ﺟــــــﯿﺐ________سوال_بعدلطفا.__ﺍﻋﺼـــﺎﺏ_______داغووون__ﺍﻣﯿﺪ_ﺑﻪ_ﺯﻧﺪﮔﯽ_______ﺟﺎنم...!!؟؟__ﺩﻝ_________ﺗﻨـــﮓ__ﻏﻢ________تا_دلت_بخواد__ﺷﺎﺩﯼ________ [141129130] deleted user  user#id141129130
+ 
+[ Fri Feb 19 06:56:28 2016 ]=>  Amir_Ta [152039575] deleted user  user#id152039575
+ 
+[ Fri Feb 19 06:56:28 2016 ]=>  Amir_Ta [152039575] deleted user  user#id152039575
+ 
+[ Fri Feb 19 06:56:28 2016 ]=>  ¸.·✿ɴคբձşm✿¸.· [106556908] deleted user  user#id106556908
+ 
+[ Fri Feb 19 06:56:29 2016 ]=>  ¸.·✿ɴคբձşm✿¸.· [106556908] deleted user  user#id106556908
+ 
+[ Fri Feb 19 06:56:30 2016 ]=>  ((🔱💘Erfan_&_S💘🔱)) [102767038] deleted user  user#id102767038
+ 
+[ Fri Feb 19 06:56:30 2016 ]=>  ((🔱💘Erfan_&_S💘🔱)) [102767038] deleted user  user#id102767038
+ 
+[ Fri Feb 19 06:56:31 2016 ]=>  سّّاّّمّّاّّنّّمّّ_شّّاّّهّّ_بّّلّّکّّ_بّّنّّگّّ_رّّوّّاّّلّّهّّ_💀eblis💀_ســــــــلــــــامـــــــتـــــــے▼_لــــــــــاشـــــــــــــے▲_تــــریـــــن_پســــــــر▼_کـــــهـــ▲_روز'ے_▼_عـــــاشـــــــــق_تریـن▲_پســـــــــر_شهــــــــر_بود_▼_اما▲__شکو_ђเ๔๔єภ_💀eblis💀&🔱black_bang🔱_نام_________حسرت__نام_خانوادگی________تنها___ﻣــــــﺦ_________ﺗﻌــﻄﯿﻞ__ﺟــــــﯿﺐ________سوال_بعدلطفا.__ﺍﻋﺼـــﺎﺏ_______داغووون__ﺍﻣﯿﺪ_ﺑﻪ_ﺯﻧﺪﮔﯽ_______ﺟﺎنم...!!؟؟__ﺩﻝ_________ﺗﻨـــﮓ__ﻏﻢ________تا_دلت_بخواد__ﺷﺎﺩﯼ________ [141129130] deleted user  user#id141129130
+ 
+[ Fri Feb 19 06:56:31 2016 ]=>  سّّاّّمّّاّّنّّمّّ_شّّاّّهّّ_بّّلّّکّّ_بّّنّّگّّ_رّّوّّاّّلّّهّّ_💀eblis💀_ســــــــلــــــامـــــــتـــــــے▼_لــــــــــاشـــــــــــــے▲_تــــریـــــن_پســــــــر▼_کـــــهـــ▲_روز'ے_▼_عـــــاشـــــــــق_تریـن▲_پســـــــــر_شهــــــــر_بود_▼_اما▲__شکو_ђเ๔๔єภ_💀eblis💀&🔱black_bang🔱_نام_________حسرت__نام_خانوادگی________تنها___ﻣــــــﺦ_________ﺗﻌــﻄﯿﻞ__ﺟــــــﯿﺐ________سوال_بعدلطفا.__ﺍﻋﺼـــﺎﺏ_______داغووون__ﺍﻣﯿﺪ_ﺑﻪ_ﺯﻧﺪﮔﯽ_______ﺟﺎنم...!!؟؟__ﺩﻝ_________ﺗﻨـــﮓ__ﻏﻢ________تا_دلت_بخواد__ﺷﺎﺩﯼ________ [141129130] deleted user  user#id141129130
+ 
+[ Fri Feb 19 06:56:32 2016 ]=>  👑ایـــــــن_اکــــــانــــت_افـــــــــــــــــشـــــــــد👑_👑ـــــــــریپورتم_ده_تااستیکرـــــــــــــــ👑 [153082803] deleted user  user#id153082803
+ 
+[ Fri Feb 19 06:56:32 2016 ]=>  👑ایـــــــن_اکــــــانــــت_افـــــــــــــــــشـــــــــد👑_👑ـــــــــریپورتم_ده_تااستیکرـــــــــــــــ👑 [153082803] deleted user  user#id153082803
+ 
+[ Fri Feb 19 06:56:32 2016 ]=>  Shahin [193344379] deleted user  user#id193344379
+ 
+[ Fri Feb 19 06:56:32 2016 ]=>  Shahin [193344379] deleted user  user#id193344379
+ 
+[ Fri Feb 19 06:56:32 2016 ]=>  حسن_سيدى [113967803] deleted user  user#id113967803
+ 
+[ Fri Feb 19 06:56:33 2016 ]=>  حسن_سيدى [113967803] deleted user  user#id113967803
+ 
+[ Fri Feb 19 06:56:33 2016 ]=>  ♚♚♚♚DANTE♚♚♚♚_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error [156907037] deleted user  user#id156907037
+ 
+[ Fri Feb 19 06:56:33 2016 ]=>  ♚♚♚♚DANTE♚♚♚♚_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error_ERROR_error [156907037] deleted user  user#id156907037
+ 
+[ Fri Feb 19 06:56:33 2016 ]=>  (ĀŘMÅŇ)rip_10_stiker [176338410] deleted user  user#id176338410
+ 
+[ Fri Feb 19 06:56:33 2016 ]=>  (ĀŘMÅŇ)rip_10_stiker [176338410] deleted user  user#id176338410
+ 
+[ Fri Feb 19 06:56:34 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested group link [https://telegram.me/joinchat/CNx_gQZTWK-C6CRfxXNAew]
+ 
+[ Fri Feb 19 06:56:35 2016 ]=>  من_و_خودش [78941167] deleted user  user#id78941167
+ 
+[ Fri Feb 19 06:56:35 2016 ]=>  من_و_خودش [78941167] deleted user  user#id78941167
+ 
+[ Fri Feb 19 06:56:35 2016 ]=>  یلدا [120009370] deleted user  user#id120009370
+ 
+[ Fri Feb 19 06:56:35 2016 ]=>  یلدا [120009370] deleted user  user#id120009370
+ 
+[ Fri Feb 19 06:56:35 2016 ]=>  shwan [76796307] spammed and kicked ! 
+ 
+[ Fri Feb 19 06:56:36 2016 ]=>  علیرضا_کیان [92711315] deleted user  user#id92711315
+ 
+[ Fri Feb 19 06:56:36 2016 ]=>  علیرضا_کیان [92711315] deleted user  user#id92711315
+ 
+[ Fri Feb 19 06:56:36 2016 ]=>  اميرحسين [187587494] deleted user  user#id187587494
+ 
+[ Fri Feb 19 06:56:36 2016 ]=>  اميرحسين [187587494] deleted user  user#id187587494
+ 
+[ Fri Feb 19 06:56:37 2016 ]=>  پَریسا_دُخْمَلْ_باباشْ [73471183] deleted user  user#id73471183
+ 
+[ Fri Feb 19 06:56:37 2016 ]=>  پَریسا_دُخْمَلْ_باباشْ [73471183] deleted user  user#id73471183
+ 
+[ Fri Feb 19 06:56:37 2016 ]=>  سکوت... [119485437] deleted user  user#id119485437
+ 
+[ Fri Feb 19 06:56:37 2016 ]=>  سکوت... [119485437] deleted user  user#id119485437
+ 
+[ Fri Feb 19 06:56:37 2016 ]=>  ، [91325397] deleted user  user#id91325397
+ 
+[ Fri Feb 19 06:56:37 2016 ]=>  ، [91325397] deleted user  user#id91325397
+ 
+[ Fri Feb 19 06:56:38 2016 ]=>  shwan [76796307] deleted user  user#id76796307
+ 
+[ Fri Feb 19 06:56:38 2016 ]=>  shwan [76796307] deleted user  user#id76796307
+ 
+[ Fri Feb 19 06:56:38 2016 ]=>  K_H_A_L_S_E [111003668] spammed and kicked ! 
+ 
+[ Fri Feb 19 06:56:38 2016 ]=>  K_H_A_L_S_E [111003668] deleted user  user#id111003668
+ 
+[ Fri Feb 19 06:56:38 2016 ]=>  K_H_A_L_S_E [111003668] deleted user  user#id111003668
+ 
+[ Fri Feb 19 06:56:39 2016 ]=>  amir [151355963] deleted user  user#id151355963
+ 
+[ Fri Feb 19 06:56:39 2016 ]=>  amir [151355963] deleted user  user#id151355963
+ 
+[ Fri Feb 19 06:56:39 2016 ]=>  ❦s♠⇦ναlỹ⇨ᵝ♠❦ [138199708] deleted user  user#id138199708
+ 
+[ Fri Feb 19 06:56:39 2016 ]=>  ❦s♠⇦ναlỹ⇨ᵝ♠❦ [138199708] deleted user  user#id138199708
+ 
+[ Fri Feb 19 06:56:39 2016 ]=>  حدیث [180816872] deleted user  user#id180816872
+ 
+[ Fri Feb 19 06:56:39 2016 ]=>  حدیث [180816872] deleted user  user#id180816872
+ 
+[ Fri Feb 19 06:56:41 2016 ]=>  POUYA [88364266] spammed and kicked ! 
+ 
+[ Fri Feb 19 06:56:41 2016 ]=>  POUYA [88364266] deleted user  user#id88364266
+ 
+[ Fri Feb 19 06:56:41 2016 ]=>  POUYA [88364266] deleted user  user#id88364266
+ 
+[ Fri Feb 19 06:56:41 2016 ]=>  Android_Boy_™ [71672081] spammed and kicked ! 
+ 
+[ Fri Feb 19 06:56:42 2016 ]=>  Android_Boy_™ [71672081] deleted user  user#id71672081
+ 
+[ Fri Feb 19 06:56:42 2016 ]=>  Android_Boy_™ [71672081] deleted user  user#id71672081
+ 
+[ Fri Feb 19 06:56:42 2016 ]=>  нαмι∂_яєzα [118484374] deleted user  user#id118484374
+ 
+[ Fri Feb 19 06:56:42 2016 ]=>  нαмι∂_яєzα [118484374] deleted user  user#id118484374
+ 
+[ Fri Feb 19 06:56:42 2016 ]=>  آتون [92857295] deleted user  user#id92857295
+ 
+[ Fri Feb 19 06:56:42 2016 ]=>  آتون [92857295] deleted user  user#id92857295
+ 
+[ Fri Feb 19 06:56:42 2016 ]=>  پر_درد [119324501] deleted user  user#id119324501
+ 
+[ Fri Feb 19 06:56:42 2016 ]=>  پر_درد [119324501] deleted user  user#id119324501
+ 
+[ Fri Feb 19 06:56:43 2016 ]=>  _-؛($)؛/-_ [198738882] deleted user  user#id198738882
+ 
+[ Fri Feb 19 06:56:43 2016 ]=>  _-؛($)؛/-_ [198738882] deleted user  user#id198738882
+ 
+[ Fri Feb 19 06:56:43 2016 ]=>  💀عًٌٍٍْلٌٍٍّْیًٌٍٍْرٌٍٍْضٌٍٍْآًٌٌٍ💀جًٌٍٍْوًٌٍْکٌٍُْْرٌٌٍْ💀رٌٌٍٍْوًٌٌٍْآًٌٍْلًًٌٌٍٍهًٌٌٌٍ💀 [199258203] added a bot > @star_ASR_bot
+ 
+[ Fri Feb 19 06:56:43 2016 ]=>  E_M_C™ [0] deleted user  user#id143060035
+ 
+[ Fri Feb 19 06:56:43 2016 ]=>  E_M_C™ [0] deleted user  user#id143060035
+ 
+[ Fri Feb 19 06:56:43 2016 ]=>  20411_Kurdestan [64051363] deleted user  user#id64051363
+ 
+[ Fri Feb 19 06:56:43 2016 ]=>  20411_Kurdestan [64051363] deleted user  user#id64051363
+ 
+[ Fri Feb 19 06:56:43 2016 ]=>  مجتبی [85295273] deleted user  user#id85295273
+ 
+[ Fri Feb 19 06:56:43 2016 ]=>  مجتبی [85295273] deleted user  user#id85295273
+ 
+[ Fri Feb 19 06:56:43 2016 ]=>  💀عًٌٍٍْلٌٍٍّْیًٌٍٍْرٌٍٍْضٌٍٍْآًٌٌٍ💀جًٌٍٍْوًٌٍْکٌٍُْْرٌٌٍْ💀رٌٌٍٍْوًٌٌٍْآًٌٍْلًًٌٌٍٍهًٌٌٌٍ💀 [199258203] deleted user  user#id199258203
+ 
+[ Fri Feb 19 06:56:43 2016 ]=>  💀عًٌٍٍْلٌٍٍّْیًٌٍٍْرٌٍٍْضٌٍٍْآًٌٌٍ💀جًٌٍٍْوًٌٍْکٌٍُْْرٌٌٍْ💀رٌٌٍٍْوًٌٌٍْآًٌٍْلًًٌٌٍٍهًٌٌٌٍ💀 [199258203] deleted user  user#id199258203
+ 
+[ Fri Feb 19 06:56:43 2016 ]=>  B@KhT¡@® [120420425] deleted user  user#id120420425
+ 
+[ Fri Feb 19 06:56:43 2016 ]=>  B@KhT¡@® [120420425] deleted user  user#id120420425
+ 
+[ Fri Feb 19 06:56:43 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] Used /help
+ 
+[ Fri Feb 19 06:56:43 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] set flood to [8]
+ 
+[ Fri Feb 19 06:56:43 2016 ]=>  hami [100405876] deleted user  user#id100405876
+ 
+[ Fri Feb 19 06:56:43 2016 ]=>  hami [100405876] deleted user  user#id100405876
+ 
+[ Fri Feb 19 06:56:44 2016 ]=>  فريبرز_پسنديده [116994383] deleted user  user#id116994383
+ 
+[ Fri Feb 19 06:56:44 2016 ]=>  فريبرز_پسنديده [116994383] deleted user  user#id116994383
+ 
+[ Fri Feb 19 06:56:44 2016 ]=>  E_M_C™ [0] deleted user  user#id151154224
+ 
+[ Fri Feb 19 06:56:44 2016 ]=>  E_M_C™ [0] deleted user  user#id151154224
+ 
+[ Fri Feb 19 06:56:44 2016 ]=>  E_M_C™ [0] deleted user  user#id151154224
+ 
+[ Fri Feb 19 06:56:44 2016 ]=>  E_M_C™ [0] deleted user  user#id151154224
+ 
+[ Fri Feb 19 06:58:07 2016 ]=>  V,h [148667044] deleted user  user#id148667044
+ 
+[ Fri Feb 19 06:58:07 2016 ]=>  V,h [148667044] deleted user  user#id148667044
+ 
+[ Fri Feb 19 06:58:39 2016 ]=>  αмιя [135141745] deleted user  user#id135141745
+ 
+[ Fri Feb 19 06:58:39 2016 ]=>  αмιя [135141745] deleted user  user#id135141745
+ 
+[ Fri Feb 19 06:58:39 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] set flood to [5]
+ 
+[ Fri Feb 19 06:59:01 2016 ]=>  Mr.rige [185658347] deleted user  user#id185658347
+ 
+[ Fri Feb 19 06:59:01 2016 ]=>  Mr.rige [185658347] deleted user  user#id185658347
+ 
+[ Fri Feb 19 06:59:12 2016 ]=>  09370580969.مشهد_محمد_پى_خرابه [91083146] deleted user  user#id91083146
+ 
+[ Fri Feb 19 06:59:12 2016 ]=>  09370580969.مشهد_محمد_پى_خرابه [91083146] deleted user  user#id91083146
+ 
+[ Fri Feb 19 07:04:44 2016 ]=>  Kamaall [151154224] banned user is talking !
+ 
+[ Fri Feb 19 07:04:44 2016 ]=>  Kamaall [151154224] banned user is talking !
+ 
+[ Fri Feb 19 07:04:44 2016 ]=>  فريبرز_پسنديده [116994383] deleted user  user#id116994383
+ 
+[ Fri Feb 19 07:04:44 2016 ]=>  فريبرز_پسنديده [116994383] deleted user  user#id116994383
+ 
+[ Fri Feb 19 07:04:44 2016 ]=>  E_M_C™ [0] deleted user  user#id151154224
+ 
+[ Fri Feb 19 07:04:44 2016 ]=>  E_M_C™ [0] deleted user  user#id151154224
+ 
+[ Fri Feb 19 07:04:45 2016 ]=>  E_M_C™ [0] deleted user  user#id151154224
+ 
+[ Fri Feb 19 07:04:45 2016 ]=>  E_M_C™ [0] deleted user  user#id151154224
+ 
+[ Fri Feb 19 07:04:45 2016 ]=>  V,h [148667044] deleted user  user#id148667044
+ 
+[ Fri Feb 19 07:04:45 2016 ]=>  V,h [148667044] deleted user  user#id148667044
+ 
+[ Fri Feb 19 07:04:45 2016 ]=>  αмιя [135141745] deleted user  user#id135141745
+ 
+[ Fri Feb 19 07:04:45 2016 ]=>  αмιя [135141745] deleted user  user#id135141745
+ 
+[ Fri Feb 19 07:04:45 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] set flood to [5]
+ 
+[ Fri Feb 19 07:04:45 2016 ]=>  Mr.rige [185658347] deleted user  user#id185658347
+ 
+[ Fri Feb 19 07:04:45 2016 ]=>  Mr.rige [185658347] deleted user  user#id185658347
+ 
+[ Fri Feb 19 07:04:45 2016 ]=>  09370580969.مشهد_محمد_پى_خرابه [91083146] deleted user  user#id91083146
+ 
+[ Fri Feb 19 07:04:45 2016 ]=>  09370580969.مشهد_محمد_پى_خرابه [91083146] deleted user  user#id91083146
+ 
+[ Fri Feb 19 07:20:35 2016 ]=>  ٺَََََََـِِِِِِِِِِِِِِِِِِِِِِِِِږِِِِآݦََََََِِِِِِِِِـِِِِِِِِـţřăًٌِِِِِِِِِmًُąđõِِِِِِِِِłــِِِِِِِِِِِآڊََََََََِِِِِِۅًٌِِِِݪ‌ِِِِِِِِِِِِِِِ [158855783] deleted user  user#id158855783
+ 
+[ Fri Feb 19 07:20:35 2016 ]=>  ٺَََََََـِِِِِِِِِِِِِِِِِِِِِِِِِږِِِِآݦََََََِِِِِِِِِـِِِِِِِِـţřăًٌِِِِِِِِِmًُąđõِِِِِِِِِłــِِِِِِِِِِِآڊََََََََِِِِِِۅًٌِِِِݪ‌ِِِِِِِِِِِِِِِ [158855783] deleted user  user#id158855783
+ 
+[ Fri Feb 19 07:23:42 2016 ]=>  aghil [117752299] deleted user  user#id117752299
+ 
+[ Fri Feb 19 07:23:42 2016 ]=>  aghil [117752299] deleted user  user#id117752299
+ 
+[ Fri Feb 19 07:28:35 2016 ]=>  ─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─_______________________________________─═हई_─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_f [159948175] deleted user  user#id159948175
+ 
+[ Fri Feb 19 07:28:35 2016 ]=>  ─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─_______________________________________─═हई_─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_f [159948175] deleted user  user#id159948175
+ 
+[ Fri Feb 19 07:42:54 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested group description
+ 
+[ Fri Feb 19 07:43:05 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested group rules
+ 
+[ Fri Feb 19 07:43:15 2016 ]=>  میلاد❇✴✴❇ [104653342] deleted user  user#id104653342
+ 
+[ Fri Feb 19 07:43:15 2016 ]=>  میلاد❇✴✴❇ [104653342] deleted user  user#id104653342
+ 
+[ Fri Feb 19 07:43:17 2016 ]=>  . [137791771] used /id 
+ 
+[ Fri Feb 19 07:45:29 2016 ]=>  Hosein_,,,,,,,,,, [67949297] deleted user  user#id67949297
+ 
+[ Fri Feb 19 07:45:29 2016 ]=>  Hosein_,,,,,,,,,, [67949297] deleted user  user#id67949297
+ 
+[ Fri Feb 19 07:45:51 2016 ]=>  ـ______پًًًًًًًًًًِِِِِِِِِِاًًًًًًًًًِِِِِِِِِِیًًًًًًًًًًِِِِِِِِِِدًًًًًًًًًًًِِِِِِِِِِاًًًًًًًًًًِِِِِِِِِرًًًًًًًًًِِِِِِِِِِ_فًًًًًًًًًًِِِِِِِِِِاًًًًًًًًًَِِِِِِِِِِکًًًًًًًًًِِِِِِِِِِِرًًًًًًًًًًِِِِِِِِِِ_____ـ [179750807] deleted user  user#id179750807
+ 
+[ Fri Feb 19 07:45:51 2016 ]=>  ـ______پًًًًًًًًًًِِِِِِِِِِاًًًًًًًًًِِِِِِِِِِیًًًًًًًًًًِِِِِِِِِِدًًًًًًًًًًًِِِِِِِِِِاًًًًًًًًًًِِِِِِِِِرًًًًًًًًًِِِِِِِِِِ_فًًًًًًًًًًِِِِِِِِِِاًًًًًًًًًَِِِِِِِِِِکًًًًًًًًًِِِِِِِِِِِرًًًًًًًًًًِِِِِِِِِِ_____ـ [179750807] deleted user  user#id179750807
+ 
+[ Fri Feb 19 07:46:45 2016 ]=>  ÂraSh_ShohRe [81219010] deleted user  user#id81219010
+ 
+[ Fri Feb 19 07:46:45 2016 ]=>  ÂraSh_ShohRe [81219010] deleted user  user#id81219010
+ 
+[ Fri Feb 19 07:48:11 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] promoted @@Alireza_Tabrizi
+ 
+[ Fri Feb 19 07:48:25 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested group link [https://telegram.me/joinchat/CNx_gQZTWK-C6CRfxXNAew]
+ 
+[ Fri Feb 19 07:50:28 2016 ]=>  E_M_C™ [0] deleted user  user#id180049016
+ 
+[ Fri Feb 19 07:50:28 2016 ]=>  E_M_C™ [0] deleted user  user#id180049016
+ 
+[ Fri Feb 19 07:50:46 2016 ]=>  $0|~|€¡| [69566131] deleted user  user#id69566131
+ 
+[ Fri Feb 19 07:50:46 2016 ]=>  $0|~|€¡| [69566131] deleted user  user#id69566131
+ 
+[ Fri Feb 19 07:51:47 2016 ]=>  N. [131214898] deleted user  user#id131214898
+ 
+[ Fri Feb 19 07:51:47 2016 ]=>  N. [131214898] deleted user  user#id131214898
+ 
+[ Fri Feb 19 07:51:54 2016 ]=>  Elite [117470469] deleted user  user#id117470469
+ 
+[ Fri Feb 19 07:51:55 2016 ]=>  Elite [117470469] deleted user  user#id117470469
+ 
+[ Fri Feb 19 07:53:24 2016 ]=>  بهزاد [112203985] deleted user  user#id112203985
+ 
+[ Fri Feb 19 07:53:24 2016 ]=>  بهزاد [112203985] deleted user  user#id112203985
+ 
+[ Fri Feb 19 07:53:47 2016 ]=>  ـ______پًًًًًًًًًًِِِِِِِِِِاًًًًًًًًًِِِِِِِِِِیًًًًًًًًًًِِِِِِِِِِدًًًًًًًًًًًِِِِِِِِِِاًًًًًًًًًًِِِِِِِِِرًًًًًًًًًِِِِِِِِِِ_فًًًًًًًًًًِِِِِِِِِِاًًًًًًًًًَِِِِِِِِِِکًًًًًًًًًِِِِِِِِِِِرًًًًًًًًًًِِِِِِِِِِ_____ـ [179750807] left using kickme 
+ 
+[ Fri Feb 19 07:53:48 2016 ]=>  E_M_C™ [0] deleted user  user#id179750807
+ 
+[ Fri Feb 19 07:53:48 2016 ]=>  E_M_C™ [0] deleted user  user#id179750807
+ 
+[ Fri Feb 19 07:55:28 2016 ]=>  Rahim_Ahmadi [101401358] deleted user  user#id101401358
+ 
+[ Fri Feb 19 07:55:28 2016 ]=>  Rahim_Ahmadi [101401358] deleted user  user#id101401358
+ 
+[ Fri Feb 19 07:56:32 2016 ]=>  ٺَََََََـِِِِِِِِِِِِِِِِِِِِِِِِِږِِِِآݦََََََِِِِِِِِِـِِِِِِِِـţřăًٌِِِِِِِِِmًُąđõِِِِِِِِِłــِِِِِِِِِِِآڊََََََََِِِِِِۅًٌِِِِݪ‌ِِِِِِِِِِِِِِِ [158855783] deleted user  user#id158855783
+ 
+[ Fri Feb 19 07:56:32 2016 ]=>  ٺَََََََـِِِِِِِِِِِِِِِِِِِِِِِِِږِِِِآݦََََََِِِِِِِِِـِِِِِِِِـţřăًٌِِِِِِِِِmًُąđõِِِِِِِِِłــِِِِِِِِِِِآڊََََََََِِِِِِۅًٌِِِِݪ‌ِِِِِِِِِِِِِِِ [158855783] deleted user  user#id158855783
+ 
+[ Fri Feb 19 07:56:33 2016 ]=>  aghil [117752299] deleted user  user#id117752299
+ 
+[ Fri Feb 19 07:56:33 2016 ]=>  aghil [117752299] deleted user  user#id117752299
+ 
+[ Fri Feb 19 07:56:34 2016 ]=>  ─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─_______________________________________─═हई_─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_f [159948175] deleted user  user#id159948175
+ 
+[ Fri Feb 19 07:56:34 2016 ]=>  ─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─_______________________________________─═हई_─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_f [159948175] deleted user  user#id159948175
+ 
+[ Fri Feb 19 08:04:45 2016 ]=>  ─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─_______________________________________─═हई_─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_f [159948175] banned user is talking !
+ 
+[ Fri Feb 19 08:04:45 2016 ]=>  ─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─_______________________________________─═हई_─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_f [159948175] banned user is talking !
+ 
+[ Fri Feb 19 08:04:45 2016 ]=>  ─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─_______________________________________─═हई_─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_f [159948175] banned user is talking !
+ 
+[ Fri Feb 19 08:04:45 2016 ]=>  ─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─_______________________________________─═हई_─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_f [159948175] banned user is talking !
+ 
+[ Fri Feb 19 08:04:47 2016 ]=>  ٺَََََََـِِِِِِِِِِِِِِِِِِِِِِِِِږِِِِآݦََََََِِِِِِِِِـِِِِِِِِـţřăًٌِِِِِِِِِmًُąđõِِِِِِِِِłــِِِِِِِِِِِآڊََََََََِِِِِِۅًٌِِِِݪ‌ِِِِِِِِِِِِِِِ [158855783] deleted user  user#id158855783
+ 
+[ Fri Feb 19 08:04:47 2016 ]=>  ٺَََََََـِِِِِِِِِِِِِِِِِِِِِِِِِږِِِِآݦََََََِِِِِِِِِـِِِِِِِِـţřăًٌِِِِِِِِِmًُąđõِِِِِِِِِłــِِِِِِِِِِِآڊََََََََِِِِِِۅًٌِِِِݪ‌ِِِِِِِِِِِِِِِ [158855783] deleted user  user#id158855783
+ 
+[ Fri Feb 19 08:04:48 2016 ]=>  aghil [117752299] deleted user  user#id117752299
+ 
+[ Fri Feb 19 08:04:48 2016 ]=>  aghil [117752299] deleted user  user#id117752299
+ 
+[ Fri Feb 19 08:04:50 2016 ]=>  ─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─_______________________________________─═हई_─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_f [159948175] banned user is talking !
+ 
+[ Fri Feb 19 08:04:50 2016 ]=>  ─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─_______________________________________─═हई_─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_f [159948175] banned user is talking !
+ 
+[ Fri Feb 19 08:04:50 2016 ]=>  ─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─_______________________________________─═हई_─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_f [159948175] banned user is talking !
+ 
+[ Fri Feb 19 08:04:50 2016 ]=>  ─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─_______________________________________─═हई_─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_f [159948175] deleted user  user#id159948175
+ 
+[ Fri Feb 19 08:04:50 2016 ]=>  ─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─_______________________________________─═हई_─═हई♚ashkan_fox98♚ईह═─____________________________________─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_fox98♚ईह═─________________________________._____─═हई♚ashkan_fox98♚ईह═─________________________________________─═हई♚ashkan_f [159948175] deleted user  user#id159948175
+ 
+[ Fri Feb 19 08:05:21 2016 ]=>  . [137791771] deleted user  user#id156121698
+ 
+[ Fri Feb 19 08:05:21 2016 ]=>  . [137791771] deleted user  user#id156121698
+ 
+[ Fri Feb 19 08:05:21 2016 ]=>  . [137791771] spammed and kicked ! 
+ 
+[ Fri Feb 19 08:05:21 2016 ]=>  @عـَـــــسـَـــــݪ_ناجـــــیَمـ_روالـــــہ؟!■□ [161962411] deleted user  user#id161962411
+ 
+[ Fri Feb 19 08:05:21 2016 ]=>  @عـَـــــسـَـــــݪ_ناجـــــیَمـ_روالـــــہ؟!■□ [161962411] deleted user  user#id161962411
+ 
+[ Fri Feb 19 08:05:22 2016 ]=>  AMIReKAMI [150025769] deleted user  user#id150025769
+ 
+[ Fri Feb 19 08:05:22 2016 ]=>  AMIReKAMI [150025769] deleted user  user#id150025769
+ 
+[ Fri Feb 19 08:05:22 2016 ]=>  ALI [176449608] deleted user  user#id176449608
+ 
+[ Fri Feb 19 08:05:22 2016 ]=>  ALI [176449608] deleted user  user#id176449608
+ 
+[ Fri Feb 19 08:05:22 2016 ]=>  🎶...みสɲɪ...🎶 [104518013] deleted user  user#id104518013
+ 
+[ Fri Feb 19 08:05:22 2016 ]=>  🎶...みสɲɪ...🎶 [104518013] deleted user  user#id104518013
+ 
+[ Fri Feb 19 08:05:22 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] used /id 
+ 
+[ Fri Feb 19 08:05:24 2016 ]=>  E_M_C™ [0] deleted user  user#id137791771
+ 
+[ Fri Feb 19 08:05:24 2016 ]=>  E_M_C™ [0] deleted user  user#id137791771
+ 
+[ Fri Feb 19 08:05:24 2016 ]=>  E_M_C™ [0] deleted user  user#id152457798
+ 
+[ Fri Feb 19 08:05:24 2016 ]=>  E_M_C™ [0] deleted user  user#id152457798
+ 
+[ Fri Feb 19 08:08:05 2016 ]=>  👽╋_fαѕι_╋💊 [164750004] deleted user  user#id164750004
+ 
+[ Fri Feb 19 08:08:05 2016 ]=>  👽╋_fαѕι_╋💊 [164750004] deleted user  user#id164750004
+ 
+[ Fri Feb 19 08:14:29 2016 ]=>  Hasti [125882203] deleted user  user#id125882203
+ 
+[ Fri Feb 19 08:14:29 2016 ]=>  Hasti [125882203] deleted user  user#id125882203
+ 
+[ Fri Feb 19 08:16:49 2016 ]=>  ✞_ٌٓℳًُُُٕąّّťîňّّّّّّّّ_8(Report) [81515886] deleted user  user#id81515886
+ 
+[ Fri Feb 19 08:16:49 2016 ]=>  ✞_ٌٓℳًُُُٕąّّťîňّّّّّّّّ_8(Report) [81515886] deleted user  user#id81515886
+ 
+[ Fri Feb 19 08:17:54 2016 ]=>  @Aℓιяєzα [141941906] Used /help
+ 
+[ Fri Feb 19 08:18:41 2016 ]=>  √👈امیـــــ♚քasha_♚ـــــر👉√_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿 [58246848] deleted user  user#id58246848
+ 
+[ Fri Feb 19 08:18:41 2016 ]=>  √👈امیـــــ♚քasha_♚ـــــر👉√_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿👿👿👿👿👿_👽👽👽👽👽👿👿 [58246848] deleted user  user#id58246848
+ 
+[ Fri Feb 19 08:19:28 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested group description
+ 
+[ Fri Feb 19 08:19:38 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested group rules
+ 
+[ Fri Feb 19 08:20:14 2016 ]=>  ηανιδ [86114254] deleted user  user#id86114254
+ 
+[ Fri Feb 19 08:20:14 2016 ]=>  ηανιδ [86114254] deleted user  user#id86114254
+ 
+[ Fri Feb 19 08:25:22 2016 ]=>  Mahdeyar [194367139] deleted user  user#id194367139
+ 
+[ Fri Feb 19 08:25:22 2016 ]=>  Mahdeyar [194367139] deleted user  user#id194367139
+ 
+[ Fri Feb 19 08:31:59 2016 ]=>  卍¤_Åღїґαм♤ℜVѦł€?_¤卍 [176987294] deleted user  user#id176987294
+ 
+[ Fri Feb 19 08:31:59 2016 ]=>  卍¤_Åღїґαм♤ℜVѦł€?_¤卍 [176987294] deleted user  user#id176987294
+ 
+[ Fri Feb 19 08:36:51 2016 ]=>  علی#1 [97846476] deleted user  user#id97846476
+ 
+[ Fri Feb 19 08:36:51 2016 ]=>  علی#1 [97846476] deleted user  user#id97846476
+ 
+[ Fri Feb 19 08:49:42 2016 ]=>  👑ⓐⓛⓘ_👑 [152816907] deleted user  user#id152816907
+ 
+[ Fri Feb 19 08:49:43 2016 ]=>  👑ⓐⓛⓘ_👑 [152816907] deleted user  user#id152816907
+ 
+[ Fri Feb 19 08:52:33 2016 ]=>  ‌‌_‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌ [152579019] deleted user  user#id152579019
+ 
+[ Fri Feb 19 08:52:33 2016 ]=>  ‌‌_‌_‌‌_‌‌_‌‌_‌‌_‌‌_‌ [152579019] deleted user  user#id152579019
+ 
+[ Fri Feb 19 08:52:41 2016 ]=>  Alan_Manutd_😑🔫 [73425223] deleted user  user#id73425223
+ 
+[ Fri Feb 19 08:52:41 2016 ]=>  Alan_Manutd_😑🔫 [73425223] deleted user  user#id73425223
+ 
+[ Fri Feb 19 08:53:42 2016 ]=>  حًًٍٍـۻًًٍٍـĦѦzʀѦтـړًًٍٍټــــ➬مًًٍٍـڄًًٍٍـмѦʝɪÐـېًًٍٍـدًًٍٍم➳بًًٍٍــصًًٍٍـsɪKـېًًٍٍګًًٍٍ [164248931] deleted user  user#id164248931
+ 
+[ Fri Feb 19 08:53:42 2016 ]=>  حًًٍٍـۻًًٍٍـĦѦzʀѦтـړًًٍٍټــــ➬مًًٍٍـڄًًٍٍـмѦʝɪÐـېًًٍٍـدًًٍٍم➳بًًٍٍــصًًٍٍـsɪKـېًًٍٍګًًٍٍ [164248931] deleted user  user#id164248931
+ 
+[ Fri Feb 19 08:54:37 2016 ]=>  E_M_C™ [0] deleted user  user#id199093956
+ 
+[ Fri Feb 19 08:54:37 2016 ]=>  E_M_C™ [0] deleted user  user#id199093956
+ 
+[ Fri Feb 19 08:55:23 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested group link [https://telegram.me/joinchat/CNx_gQZTWK-C6CRfxXNAew]
+ 
+[ Fri Feb 19 08:55:25 2016 ]=>  卐_ғÅآميڕ$нЇ$✞ [119435602] deleted user  user#id119435602
+ 
+[ Fri Feb 19 08:55:25 2016 ]=>  卐_ғÅآميڕ$нЇ$✞ [119435602] deleted user  user#id119435602
+ 
+[ Fri Feb 19 08:55:30 2016 ]=>  Mohammad_Mo [58435890] deleted user  user#id58435890
+ 
+[ Fri Feb 19 08:55:31 2016 ]=>  Mohammad_Mo [58435890] deleted user  user#id58435890
+ 
+[ Fri Feb 19 08:55:40 2016 ]=>  @Aℓιяєzα [141941906] requested group link [https://telegram.me/joinchat/CNx_gQZTWK-C6CRfxXNAew]
+ 
+[ Fri Feb 19 08:56:51 2016 ]=>  ـ______پًًًًًًًًًًِِِِِِِِِِاًًًًًًًًًِِِِِِِِِِیًًًًًًًًًًِِِِِِِِِِدًًًًًًًًًًًِِِِِِِِِِاًًًًًًًًًًِِِِِِِِِرًًًًًًًًًِِِِِِِِِِ_فًًًًًًًًًًِِِِِِِِِِاًًًًًًًًًَِِِِِِِِِِکًًًًًًًًًِِِِِِِِِِِرًًًًًًًًًًِِِِِِِِِِ_____ـ [179750807] deleted user  user#id179750807
+ 
+[ Fri Feb 19 08:56:51 2016 ]=>  ـ______پًًًًًًًًًًِِِِِِِِِِاًًًًًًًًًِِِِِِِِِِیًًًًًًًًًًِِِِِِِِِِدًًًًًًًًًًًِِِِِِِِِِاًًًًًًًًًًِِِِِِِِِرًًًًًًًًًِِِِِِِِِِ_فًًًًًًًًًًِِِِِِِِِِاًًًًًًًًًَِِِِِِِِِِکًًًًًًًًًِِِِِِِِِِِرًًًًًًًًًًِِِِِِِِِِ_____ـ [179750807] deleted user  user#id179750807
+ 
+[ Fri Feb 19 08:57:01 2016 ]=>  MoHαMαD👤 [73806572] deleted user  user#id73806572
+ 
+[ Fri Feb 19 08:57:01 2016 ]=>  MoHαMαD👤 [73806572] deleted user  user#id73806572
+ 
+[ Fri Feb 19 08:58:19 2016 ]=>  @Aℓιяєzα [141941906] added a banned user >164248931
+ 
+[ Fri Feb 19 08:58:19 2016 ]=>  E_M_C™ [0] deleted user  user#id164248931
+ 
+[ Fri Feb 19 08:58:19 2016 ]=>  E_M_C™ [0] deleted user  user#id164248931
+ 
+[ Fri Feb 19 09:04:42 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:04:42 2016 ]=>  卐DA🔥Spa(l)mer🔥AD卐_(Only_Spam)_create_by_DALAD™ [184124193] spammed and kicked ! 
+ 
+[ Fri Feb 19 09:04:43 2016 ]=>  E_M_C™ [0] deleted user  user#id152457798
+ 
+[ Fri Feb 19 09:04:44 2016 ]=>  E_M_C™ [0] deleted user  user#id152457798
+ 
+[ Fri Feb 19 09:04:44 2016 ]=>  E_M_C™ [0] deleted user  user#id184124193
+ 
+[ Fri Feb 19 09:04:44 2016 ]=>  E_M_C™ [0] deleted user  user#id184124193
+ 
+[ Fri Feb 19 09:05:22 2016 ]=>  *:هستم_ولی_خستم*: [94349333] deleted user  user#id94349333
+ 
+[ Fri Feb 19 09:05:22 2016 ]=>  *:هستم_ولی_خستم*: [94349333] deleted user  user#id94349333
+ 
+[ Fri Feb 19 09:05:23 2016 ]=>  @Aℓιяєzα [141941906] added a banned user >152457798
+ 
+[ Fri Feb 19 09:05:23 2016 ]=>  ДLЇ_ЯДvДИ_💀ʄųĆҠɛř👿ŧɛąm💀ادمےݧ_ڢاڪرټيم [122895646] spammed and kicked ! 
+ 
+[ Fri Feb 19 09:05:24 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:24 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:24 2016 ]=>  RAMTIN.KHOFFASHAM [199093956] spammed and kicked ! 
+ 
+[ Fri Feb 19 09:05:24 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:24 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:24 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:24 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:25 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:25 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] spammed and kicked ! 
+ 
+[ Fri Feb 19 09:05:25 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:25 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:25 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:25 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:25 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:25 2016 ]=>  👎حاِِِِِِِِِِِِِِِِِِِِِڄآغّّّّاِِِِِِِِِِِِِِِِِِِِِِِ_ف‍اڪِِِِِِِِِِِِِِِِ‍ـــــ‍ــــــــــــــــڔِِِِِِِِِِِِِِِِِِِِِ👌_ِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِ_😈_د_حصیڹ_اوم‍ـــــده_مشتے_بڪش_ڪنار_😈🔫❤️_رو_مخ_مڹ_یڪے_نرو_ڪ_ننہ_می‍ـــــگام😈🔫❤️ [109345948] spammed and kicked ! 
+ 
+[ Fri Feb 19 09:05:25 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:25 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:25 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:25 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:25 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:25 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:26 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:26 2016 ]=>  ❤↫Åℓi↬❤.(◣ßƒ¢◢) [137557018] deleted user  user#id137557018
+ 
+[ Fri Feb 19 09:05:26 2016 ]=>  ❤↫Åℓi↬❤.(◣ßƒ¢◢) [137557018] deleted user  user#id137557018
+ 
+[ Fri Feb 19 09:05:26 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:26 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:26 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:26 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:26 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:26 2016 ]=>  @Aℓιяєzα [141941906] requested group link [https://telegram.me/joinchat/CNx_gQZTWK-C6CRfxXNAew]
+ 
+[ Fri Feb 19 09:05:26 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested group link [https://telegram.me/joinchat/CNx_gQZTWK-C6CRfxXNAew]
+ 
+[ Fri Feb 19 09:05:27 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] banned user is talking !
+ 
+[ Fri Feb 19 09:05:27 2016 ]=>  卐DA🔥Spa(l)mer🔥AD卐_(Only_Spam)_create_by_DALAD™ [184124193] spammed and kicked ! 
+ 
+[ Fri Feb 19 09:05:28 2016 ]=>  E_M_C™ [0] deleted user  user#id152457798
+ 
+[ Fri Feb 19 09:05:28 2016 ]=>  E_M_C™ [0] deleted user  user#id152457798
+ 
+[ Fri Feb 19 09:05:28 2016 ]=>  E_M_C™ [0] deleted user  user#id184124193
+ 
+[ Fri Feb 19 09:05:28 2016 ]=>  E_M_C™ [0] deleted user  user#id184124193
+ 
+[ Fri Feb 19 09:05:29 2016 ]=>  E_M_C™ [0] deleted user  user#id122895646
+ 
+[ Fri Feb 19 09:05:29 2016 ]=>  E_M_C™ [0] deleted user  user#id122895646
+ 
+[ Fri Feb 19 09:05:29 2016 ]=>  E_M_C™ [0] deleted user  user#id199093956
+ 
+[ Fri Feb 19 09:05:29 2016 ]=>  E_M_C™ [0] deleted user  user#id199093956
+ 
+[ Fri Feb 19 09:05:35 2016 ]=>  ↯اَِمَِٰٰٰٰٰٰٰٰٰٰٰٰٰٰٰٰٰٰٰـَِـَِـَِیَِـَِـَِـَِرٍَِِِِِِِِِِ★بَِـَِـَِـَِوًًٌٍٍٍٍٍَِمَِـَِـَِـٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖ★بَِـَِـَِـَِنٍٍٍٍٍٍٍٍَِـَِـَِگَِـَِـَِمََََََََََ↯ [164621286] banned user is talking !
+ 
+[ Fri Feb 19 09:05:36 2016 ]=>  E_M_C™ [0] deleted user  user#id164621286
+ 
+[ Fri Feb 19 09:05:36 2016 ]=>  E_M_C™ [0] deleted user  user#id164621286
+ 
+[ Fri Feb 19 09:06:54 2016 ]=>  ДLЇ_ЯДvДИ_💀ʄųĆҠɛř👿ŧɛąm💀ادمےݧ_ڢاڪرټيم [122895646] is banned and kicked ! 
+ 
+[ Fri Feb 19 09:06:54 2016 ]=>  E_M_C™ [0] deleted user  user#id122895646
+ 
+[ Fri Feb 19 09:06:54 2016 ]=>  E_M_C™ [0] deleted user  user#id122895646
+ 
+[ Fri Feb 19 09:06:57 2016 ]=>  ↯اَِمَِٰٰٰٰٰٰٰٰٰٰٰٰٰٰٰٰٰٰٰـَِـَِـَِیَِـَِـَِـَِرٍَِِِِِِِِِِ★بَِـَِـَِـَِوًًٌٍٍٍٍٍَِمَِـَِـَِـٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖ★بَِـَِـَِـَِنٍٍٍٍٍٍٍٍَِـَِـَِگَِـَِـَِمََََََََََ↯ [164621286] is banned and kicked ! 
+ 
+[ Fri Feb 19 09:06:57 2016 ]=>  E_M_C™ [0] deleted user  user#id164621286
+ 
+[ Fri Feb 19 09:06:57 2016 ]=>  E_M_C™ [0] deleted user  user#id164621286
+ 
+[ Fri Feb 19 09:07:33 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] is banned and kicked ! 
+ 
+[ Fri Feb 19 09:07:33 2016 ]=>  E_M_C™ [0] deleted user  user#id152457798
+ 
+[ Fri Feb 19 09:07:33 2016 ]=>  E_M_C™ [0] deleted user  user#id152457798
+ 
+[ Fri Feb 19 09:08:22 2016 ]=>  مهران [151787660] deleted user  user#id151787660
+ 
+[ Fri Feb 19 09:08:22 2016 ]=>  مهران [151787660] deleted user  user#id151787660
+ 
+[ Fri Feb 19 09:09:13 2016 ]=>  RAMTIN.KHOFFASHAM [199093956] is banned and kicked ! 
+ 
+[ Fri Feb 19 09:09:13 2016 ]=>  E_M_C™ [0] deleted user  user#id199093956
+ 
+[ Fri Feb 19 09:09:13 2016 ]=>  E_M_C™ [0] deleted user  user#id199093956
+ 
+[ Fri Feb 19 09:10:05 2016 ]=>  حًًٍٍـۻًًٍٍـĦѦzʀѦтـړًًٍٍټــــ➬مًًٍٍـڄًًٍٍـмѦʝɪÐـېًًٍٍـدًًٍٍم➳بًًٍٍــصًًٍٍـsɪKـېًًٍٍګًًٍٍ [164248931] deleted user  user#id164248931
+ 
+[ Fri Feb 19 09:10:05 2016 ]=>  حًًٍٍـۻًًٍٍـĦѦzʀѦтـړًًٍٍټــــ➬مًًٍٍـڄًًٍٍـмѦʝɪÐـېًًٍٍـدًًٍٍم➳بًًٍٍــصًًٍٍـsɪKـېًًٍٍګًًٍٍ [164248931] deleted user  user#id164248931
+ 
+[ Fri Feb 19 09:10:07 2016 ]=>  Mohammad_Gomshen [131576355] deleted user  user#id131576355
+ 
+[ Fri Feb 19 09:10:07 2016 ]=>  Mohammad_Gomshen [131576355] deleted user  user#id131576355
+ 
+[ Fri Feb 19 09:10:48 2016 ]=>  卐۞$ĦѦĦ_$ѦÐℜα_ßℓÅ¢K_†εѦℳ۞卐 [176628491] spammed and kicked ! 
+ 
+[ Fri Feb 19 09:10:48 2016 ]=>  E_M_C™ [0] deleted user  user#id176628491
+ 
+[ Fri Feb 19 09:10:48 2016 ]=>  E_M_C™ [0] deleted user  user#id176628491
+ 
+[ Fri Feb 19 09:11:31 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] revoked group link 
+ 
+[ Fri Feb 19 09:11:39 2016 ]=>  E_M_C™ [0] deleted user  user#id37112255
+ 
+[ Fri Feb 19 09:11:39 2016 ]=>  E_M_C™ [0] deleted user  user#id37112255
+ 
+[ Fri Feb 19 09:22:08 2016 ]=>  Rami_n_S [95390631] deleted user  user#id95390631
+ 
+[ Fri Feb 19 09:22:08 2016 ]=>  Rami_n_S [95390631] deleted user  user#id95390631
+ 
+[ Fri Feb 19 09:29:50 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀ٌ_ٌ [110113114] used /owner
+ 
+[ Fri Feb 19 09:30:14 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀ٌ_ٌ [110113114] used /id 
+ 
+[ Fri Feb 19 09:31:26 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀ٌ_ٌ [110113114] requested group settings 
+ 
+[ Fri Feb 19 09:34:42 2016 ]=>  Amirhossein [194614421] deleted user  user#id194614421
+ 
+[ Fri Feb 19 09:34:43 2016 ]=>  Amirhossein [194614421] deleted user  user#id194614421
+ 
+[ Fri Feb 19 09:38:43 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀ٌ_ٌ [110113114] used /id 
+ 
+[ Fri Feb 19 09:42:11 2016 ]=>  ALIREZA.S.L [121426834] deleted user  user#id121426834
+ 
+[ Fri Feb 19 09:42:11 2016 ]=>  ALIREZA.S.L [121426834] deleted user  user#id121426834
+ 
+[ Fri Feb 19 09:45:33 2016 ]=>  عًًًًًًًًًًًًًـ_ـْْْْْْْْٰٰٰ؁ٖٖٖٖٖٖٖٖٖٖـسًًًًًًًًًًًًًًل_مًًًٍٍٍٍـ؁ـًًًٍٍٍٍخًًًًًٍٍٍٍٍ🎲گًًٍٍٍٍـ؁ـًًًٍٍٍایًًًٍٍٍٍیڋًًًٍٍٍه_ْ [151203708] deleted user  user#id151203708
+ 
+[ Fri Feb 19 09:45:33 2016 ]=>  عًًًًًًًًًًًًًـ_ـْْْْْْْْٰٰٰ؁ٖٖٖٖٖٖٖٖٖٖـسًًًًًًًًًًًًًًل_مًًًٍٍٍٍـ؁ـًًًٍٍٍٍخًًًًًٍٍٍٍٍ🎲گًًٍٍٍٍـ؁ـًًًٍٍٍایًًًٍٍٍٍیڋًًًٍٍٍه_ْ [151203708] deleted user  user#id151203708
+ 
+[ Fri Feb 19 09:52:46 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀 [110113114] left using kickme 
+ 
+[ Fri Feb 19 09:52:47 2016 ]=>  E_M_C™ [0] deleted user  user#id110113114
+ 
+[ Fri Feb 19 09:52:47 2016 ]=>  E_M_C™ [0] deleted user  user#id110113114
+ 
+[ Fri Feb 19 09:53:51 2016 ]=>  ابوالفضل [167633708] deleted user  user#id167633708
+ 
+[ Fri Feb 19 09:53:51 2016 ]=>  ابوالفضل [167633708] deleted user  user#id167633708
+ 
+[ Fri Feb 19 09:54:42 2016 ]=>  卐_ًًًًٍٍٍ_هًًًًًٍٍٍٍٍــــًًٍٍاّنًًًًٍٍٍٍـــًًٍٍتًًًًٍٍٍٍـــًًٍٍرًًًٍٍٍٍّ_卐 [99399891] deleted user  user#id99399891
+ 
+[ Fri Feb 19 09:54:42 2016 ]=>  卐_ًًًًٍٍٍ_هًًًًًٍٍٍٍٍــــًًٍٍاّنًًًًٍٍٍٍـــًًٍٍتًًًًٍٍٍٍـــًًٍٍرًًًٍٍٍٍّ_卐 [99399891] deleted user  user#id99399891
+ 
+[ Fri Feb 19 10:04:38 2016 ]=>  E_M_C™ [0] deleted user  user#id122895646
+ 
+[ Fri Feb 19 10:04:38 2016 ]=>  E_M_C™ [0] deleted user  user#id122895646
+ 
+[ Fri Feb 19 10:04:38 2016 ]=>  E_M_C™ [0] deleted user  user#id199093956
+ 
+[ Fri Feb 19 10:04:38 2016 ]=>  E_M_C™ [0] deleted user  user#id199093956
+ 
+[ Fri Feb 19 10:04:38 2016 ]=>  ↯اَِمَِٰٰٰٰٰٰٰٰٰٰٰٰٰٰٰٰٰٰٰـَِـَِـَِیَِـَِـَِـَِرٍَِِِِِِِِِِ★بَِـَِـَِـَِوًًٌٍٍٍٍٍَِمَِـَِـَِـٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖ★بَِـَِـَِـَِنٍٍٍٍٍٍٍٍَِـَِـَِگَِـَِـَِمََََََََََ↯ [164621286] banned user is talking !
+ 
+[ Fri Feb 19 10:04:38 2016 ]=>  E_M_C™ [0] deleted user  user#id164621286
+ 
+[ Fri Feb 19 10:04:38 2016 ]=>  E_M_C™ [0] deleted user  user#id164621286
+ 
+[ Fri Feb 19 10:04:38 2016 ]=>  ДLЇ_ЯДvДИ_💀ʄųĆҠɛř👿ŧɛąm💀ادمےݧ_ڢاڪرټيم [122895646] is banned and kicked ! 
+ 
+[ Fri Feb 19 10:04:38 2016 ]=>  E_M_C™ [0] deleted user  user#id122895646
+ 
+[ Fri Feb 19 10:04:38 2016 ]=>  E_M_C™ [0] deleted user  user#id122895646
+ 
+[ Fri Feb 19 10:04:38 2016 ]=>  ↯اَِمَِٰٰٰٰٰٰٰٰٰٰٰٰٰٰٰٰٰٰٰـَِـَِـَِیَِـَِـَِـَِرٍَِِِِِِِِِِ★بَِـَِـَِـَِوًًٌٍٍٍٍٍَِمَِـَِـَِـٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖ★بَِـَِـَِـَِنٍٍٍٍٍٍٍٍَِـَِـَِگَِـَِـَِمََََََََََ↯ [164621286] is banned and kicked ! 
+ 
+[ Fri Feb 19 10:04:38 2016 ]=>  E_M_C™ [0] deleted user  user#id164621286
+ 
+[ Fri Feb 19 10:04:39 2016 ]=>  E_M_C™ [0] deleted user  user#id164621286
+ 
+[ Fri Feb 19 10:04:39 2016 ]=>  👁_﷽_ًًًًًًًًًٍٍٍٍٍٍٍٍٍٍَُِِِِِِ¥ًًًًًًًٍٍٍٍٍٍٍَََِِِِِِِِِِِِِِِِ¥ًًًًًًٍٍٍٍٍٍٍِِِِِِِِsًًًًًًٍٍٍٍٍٍِِِِِِِِِhًًًًًًًٍٍٍٍٍٍaًًًًًًًًًٍٍٍٍٍٍٍٍََِِِِِِِِِِِِِِhًًًًًٍٍٍٍٍٍِِِِِِِِِِِِiًًًًًًًًٍٍٍٍnًًًًًًًًًٍٍٍٍٍٍٍ.ٍٍٍٍٍٍِِِِِِِِِِِِِِnًًًًًًٍٍٍٍِِِِِِِِِِ.ِ_nًًًًًًٍٍٍٍِِِِِِِِِِ.ًًًًًًٍٍٍٍٍٍٍٍٍِِِِِِِِِzًًًًًًًٍٍٍٍٍٍٍَََk¥ٍٍٍٍََََََََََََِِِِِِِِِِِِِِِِ¥ََََََِِِِِِِ_﷽ [152457798] is banned and kicked ! 
+ 
+[ Fri Feb 19 10:04:39 2016 ]=>  E_M_C™ [0] deleted user  user#id152457798
+ 
+[ Fri Feb 19 10:04:39 2016 ]=>  E_M_C™ [0] deleted user  user#id152457798
+ 
+[ Fri Feb 19 10:04:39 2016 ]=>  مهران [151787660] deleted user  user#id151787660
+ 
+[ Fri Feb 19 10:04:39 2016 ]=>  مهران [151787660] deleted user  user#id151787660
+ 
+[ Fri Feb 19 10:04:39 2016 ]=>  卐۞$ĦѦĦ_$ѦÐℜα_ßℓÅ¢K_†εѦℳ۞卐 [176628491] is banned and kicked ! 
+ 
+[ Fri Feb 19 10:04:39 2016 ]=>  RAMTIN.KHOFFASHAM [199093956] is banned and kicked ! 
+ 
+[ Fri Feb 19 10:04:39 2016 ]=>  E_M_C™ [0] deleted user  user#id199093956
+ 
+[ Fri Feb 19 10:04:39 2016 ]=>  E_M_C™ [0] deleted user  user#id199093956
+ 
+[ Fri Feb 19 10:04:40 2016 ]=>  Mohammad_Gomshen [131576355] is banned and kicked ! 
+ 
+[ Fri Feb 19 10:04:40 2016 ]=>  حًًٍٍـۻًًٍٍـĦѦzʀѦтـړًًٍٍټــــ➬مًًٍٍـڄًًٍٍـмѦʝɪÐـېًًٍٍـدًًٍٍم➳بًًٍٍــصًًٍٍـsɪKـېًًٍٍګًًٍٍ [164248931] deleted user  user#id164248931
+ 
+[ Fri Feb 19 10:04:40 2016 ]=>  حًًٍٍـۻًًٍٍـĦѦzʀѦтـړًًٍٍټــــ➬مًًٍٍـڄًًٍٍـмѦʝɪÐـېًًٍٍـدًًٍٍم➳بًًٍٍــصًًٍٍـsɪKـېًًٍٍګًًٍٍ [164248931] deleted user  user#id164248931
+ 
+[ Fri Feb 19 10:04:40 2016 ]=>  Mohammad_Gomshen [131576355] deleted user  user#id131576355
+ 
+[ Fri Feb 19 10:04:40 2016 ]=>  Mohammad_Gomshen [131576355] deleted user  user#id131576355
+ 
+[ Fri Feb 19 10:04:40 2016 ]=>  👎حاِِِِِِِِِِِِِِِِِِِِِڄآغّّّّاِِِِِِِِِِِِِِِِِِِِِِِ_ف‍اڪِِِِِِِِِِِِِِِِ‍ـــــ‍ــــــــــــــــڔِِِِِِِِِِِِِِِِِِِِِ👌_ِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِ_😈_د_حصیڹ_اوم‍ـــــده_مشتے_بڪش_ڪنار_😈🔫❤️_رو_مخ_مڹ_یڪے_نرو_ڪ_ننہ_می‍ـــــگام😈🔫❤️ [109345948] spammed and kicked ! 
+ 
+[ Fri Feb 19 10:04:40 2016 ]=>  卐۞$ĦѦĦ_$ѦÐℜα_ßℓÅ¢K_†εѦℳ۞卐 [176628491] banned user is talking !
+ 
+[ Fri Feb 19 10:04:40 2016 ]=>  卐۞$ĦѦĦ_$ѦÐℜα_ßℓÅ¢K_†εѦℳ۞卐 [176628491] banned user is talking !
+ 
+[ Fri Feb 19 10:04:40 2016 ]=>  卐۞$ĦѦĦ_$ѦÐℜα_ßℓÅ¢K_†εѦℳ۞卐 [176628491] banned user is talking !
+ 
+[ Fri Feb 19 10:04:40 2016 ]=>  卐۞$ĦѦĦ_$ѦÐℜα_ßℓÅ¢K_†εѦℳ۞卐 [176628491] banned user is talking !
+ 
+[ Fri Feb 19 10:04:41 2016 ]=>  卐۞$ĦѦĦ_$ѦÐℜα_ßℓÅ¢K_†εѦℳ۞卐 [176628491] banned user is talking !
+ 
+[ Fri Feb 19 10:04:41 2016 ]=>  卐۞$ĦѦĦ_$ѦÐℜα_ßℓÅ¢K_†εѦℳ۞卐 [176628491] banned user is talking !
+ 
+[ Fri Feb 19 10:04:41 2016 ]=>  卐۞$ĦѦĦ_$ѦÐℜα_ßℓÅ¢K_†εѦℳ۞卐 [176628491] banned user is talking !
+ 
+[ Fri Feb 19 10:04:41 2016 ]=>  卐۞$ĦѦĦ_$ѦÐℜα_ßℓÅ¢K_†εѦℳ۞卐 [176628491] spammed and kicked ! 
+ 
+[ Fri Feb 19 10:04:41 2016 ]=>  E_M_C™ [0] deleted user  user#id176628491
+ 
+[ Fri Feb 19 10:04:41 2016 ]=>  E_M_C™ [0] deleted user  user#id176628491
+ 
+[ Fri Feb 19 10:04:41 2016 ]=>  p4r4zit🔞 [37112255] is banned and kicked ! 
+ 
+[ Fri Feb 19 10:04:41 2016 ]=>  p4r4zit🔞 [37112255] banned user is talking !
+ 
+[ Fri Feb 19 10:04:41 2016 ]=>  p4r4zit🔞 [37112255] banned user is talking !
+ 
+[ Fri Feb 19 10:04:41 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] revoked group link 
+ 
+[ Fri Feb 19 10:04:41 2016 ]=>  E_M_C™ [0] deleted user  user#id37112255
+ 
+[ Fri Feb 19 10:04:41 2016 ]=>  E_M_C™ [0] deleted user  user#id37112255
+ 
+[ Fri Feb 19 10:04:45 2016 ]=>  Rami_n_S [95390631] deleted user  user#id95390631
+ 
+[ Fri Feb 19 10:04:45 2016 ]=>  Rami_n_S [95390631] deleted user  user#id95390631
+ 
+[ Fri Feb 19 10:04:46 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀 [110113114] banned user is talking !
+ 
+[ Fri Feb 19 10:04:47 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀 [110113114] banned user is talking !
+ 
+[ Fri Feb 19 10:04:47 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀 [110113114] banned user is talking !
+ 
+[ Fri Feb 19 10:04:47 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀 [110113114] banned user is talking !
+ 
+[ Fri Feb 19 10:04:47 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀 [110113114] banned user is talking !
+ 
+[ Fri Feb 19 10:04:47 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀 [110113114] banned user is talking !
+ 
+[ Fri Feb 19 10:04:47 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀 [110113114] banned user is talking !
+ 
+[ Fri Feb 19 10:04:47 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀 [110113114] spammed and kicked ! 
+ 
+[ Fri Feb 19 10:04:47 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀 [110113114] banned user is talking !
+ 
+[ Fri Feb 19 10:04:49 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀 [110113114] banned user is talking !
+ 
+[ Fri Feb 19 10:04:49 2016 ]=>  Amirhossein [194614421] deleted user  user#id194614421
+ 
+[ Fri Feb 19 10:04:49 2016 ]=>  Amirhossein [194614421] deleted user  user#id194614421
+ 
+[ Fri Feb 19 10:04:50 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀 [110113114] banned user is talking !
+ 
+[ Fri Feb 19 10:04:50 2016 ]=>  Pouya.ssss.0070 [103005401] added a banned user >121426834
+ 
+[ Fri Feb 19 10:04:50 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀 [110113114] banned user is talking !
+ 
+[ Fri Feb 19 10:04:51 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀 [110113114] banned user is talking !
+ 
+[ Fri Feb 19 10:04:51 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀 [110113114] banned user is talking !
+ 
+[ Fri Feb 19 10:04:51 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀 [110113114] banned user is talking !
+ 
+[ Fri Feb 19 10:04:52 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀 [110113114] banned user is talking !
+ 
+[ Fri Feb 19 10:04:52 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀 [110113114] banned user is talking !
+ 
+[ Fri Feb 19 10:04:52 2016 ]=>  ALIREZA.S.L [121426834] deleted user  user#id121426834
+ 
+[ Fri Feb 19 10:04:52 2016 ]=>  ALIREZA.S.L [121426834] deleted user  user#id121426834
+ 
+[ Fri Feb 19 10:04:52 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀 [110113114] banned user is talking !
+ 
+[ Fri Feb 19 10:04:53 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀 [110113114] banned user is talking !
+ 
+[ Fri Feb 19 10:04:53 2016 ]=>  👑شٌٍهّرٍآمٍ_رٍوًآلٍهٌ👑رٍفٌآٍقَّتْ،تًعٍطٌیٌٍلٌٍ➰هٌٍرٌٍکْیٍ_کٍهْ_دٌوْرِشٍٍ_شٌلّوًغٍهُ_لٍآٍشٍیٌ_نٌٍیٌٍسٌٍتٌ〰اٍتِفٌاٌقٌاً_اٍیْجًوُرٍ_آٍدْمٍآ✌️_💀بٌٍآٍٍ_لٌٍٍبٌٍخٌٍنٍدٍ،هٌٍرٍ〰عًٍوٌٍٍضٍٍیٌٍ،هٍٍوٍٍآٌٍٍیٌٍیٌٍ➰نٍمٍیٌٍشٌٍنٌٍ💱گٌٍٍٍفٍتٍمٌٍ،بٌٍدٍؤٌٍنٍٍیٍ-زٍرٍزٍرٍ-نٍکٍنٍیٍ،آٍرٍهٍ،اٍیٍنٍجٌٍٍٍوٌٍرٌٍیٌٍٍآٌٍٍسٌٍتٌٍ💀 [110113114] banned user is talking !
+ 
+[ Fri Feb 19 10:05:24 2016 ]=>  E_M_C™ [0] deleted user  user#id109345948
+ 
+[ Fri Feb 19 10:05:25 2016 ]=>  E_M_C™ [0] deleted user  user#id109345948
+ 
+[ Fri Feb 19 10:08:16 2016 ]=>  A.d [136182738] deleted user  user#id136182738
+ 
+[ Fri Feb 19 10:08:16 2016 ]=>  A.d [136182738] deleted user  user#id136182738
+ 
+[ Fri Feb 19 10:09:55 2016 ]=>  •´¯`•»_💀રεzλ_ʃŮĊκεર💀__«•´¯`• [160066651] deleted user  user#id160066651
+ 
+[ Fri Feb 19 10:09:55 2016 ]=>  •´¯`•»_💀રεzλ_ʃŮĊκεર💀__«•´¯`• [160066651] deleted user  user#id160066651
+ 
+[ Fri Feb 19 10:16:00 2016 ]=>  @Aℓιяєzα [141941906] deleted user  user#id141941906
+ 
+[ Fri Feb 19 10:16:00 2016 ]=>  @Aℓιяєzα [141941906] deleted user  user#id141941906
+ 
+[ Fri Feb 19 10:42:30 2016 ]=>  Pouya.ssss.0070 [103005401] deleted user  user#id103005401
+ 
+[ Fri Feb 19 10:42:30 2016 ]=>  Pouya.ssss.0070 [103005401] deleted user  user#id103005401
+ 
+[ Fri Feb 19 10:45:58 2016 ]=>  "Mohammadali" [67935183] deleted user  user#id67935183
+ 
+[ Fri Feb 19 10:45:58 2016 ]=>  "Mohammadali" [67935183] deleted user  user#id67935183
+ 
+[ Fri Feb 19 10:46:19 2016 ]=>  мя.ρÅʏ∂Åґ_✞💀 [112512354] deleted user  user#id112512354
+ 
+[ Fri Feb 19 10:46:19 2016 ]=>  мя.ρÅʏ∂Åґ_✞💀 [112512354] deleted user  user#id112512354
+ 
+[ Fri Feb 19 10:46:32 2016 ]=>  elnaz [155439857] deleted user  user#id155439857
+ 
+[ Fri Feb 19 10:46:32 2016 ]=>  elnaz [155439857] deleted user  user#id155439857
+ 
+[ Fri Feb 19 11:05:26 2016 ]=>  •´¯`•»_💀રεzλ_ʃŮĊκεર💀__«•´¯`• [160066651] deleted user  user#id160066651
+ 
+[ Fri Feb 19 11:05:26 2016 ]=>  •´¯`•»_💀રεzλ_ʃŮĊκεર💀__«•´¯`• [160066651] deleted user  user#id160066651
+ 
+[ Fri Feb 19 11:05:32 2016 ]=>  @Aℓιяєzα [141941906] deleted user  user#id141941906
+ 
+[ Fri Feb 19 11:05:32 2016 ]=>  @Aℓιяєzα [141941906] deleted user  user#id141941906
+ 
+[ Fri Feb 19 11:09:46 2016 ]=>  мя.ρÅʏ∂Åґ_✞💀 [112512354] deleted user  user#id112512354
+ 
+[ Fri Feb 19 11:09:46 2016 ]=>  мя.ρÅʏ∂Åґ_✞💀 [112512354] deleted user  user#id112512354
+ 
+[ Fri Feb 19 11:09:46 2016 ]=>   [155439857] deleted user  user#id155439857
+ 
+[ Fri Feb 19 11:09:46 2016 ]=>   [155439857] deleted user  user#id155439857
+ 
+[ Fri Feb 19 11:37:09 2016 ]=>  🔥卐ښًًٌٍٍٍٍَََعېًًًًٍٍٍٍٍَََََدًًٍٍٍَمًًًًًٍٍٍٍٍٍٍٍٍٍٍَ_ذٍٍٍٍڪًًٍٍٍٍَََڕًًًٍٍٍَ_لًًًًًٍٍٍٍٍََََبإٹًٍٍٍٍََََ卐🔥 [178033911] deleted user  user#id178033911
+ 
+[ Fri Feb 19 11:37:09 2016 ]=>  🔥卐ښًًٌٍٍٍٍَََعېًًًًٍٍٍٍٍَََََدًًٍٍٍَمًًًًًٍٍٍٍٍٍٍٍٍٍٍَ_ذٍٍٍٍڪًًٍٍٍٍَََڕًًًٍٍٍَ_لًًًًًٍٍٍٍٍََََبإٹًٍٍٍٍََََ卐🔥 [178033911] deleted user  user#id178033911
+ 
+[ Fri Feb 19 11:49:29 2016 ]=>  🔥卐ښًًٌٍٍٍٍَََعېًًًًٍٍٍٍٍَََََدًًٍٍٍَمًًًًًٍٍٍٍٍٍٍٍٍٍٍَ_ذٍٍٍٍڪًًٍٍٍٍَََڕًًًٍٍٍَ_لًًًًًٍٍٍٍٍََََبإٹًٍٍٍٍََََ卐🔥 [178033911] deleted user  user#id178033911
+ 
+[ Fri Feb 19 11:49:29 2016 ]=>  🔥卐ښًًٌٍٍٍٍَََعېًًًًٍٍٍٍٍَََََدًًٍٍٍَمًًًًًٍٍٍٍٍٍٍٍٍٍٍَ_ذٍٍٍٍڪًًٍٍٍٍَََڕًًًٍٍٍَ_لًًًًًٍٍٍٍٍََََبإٹًٍٍٍٍََََ卐🔥 [178033911] deleted user  user#id178033911
+ 
+[ Fri Feb 19 12:09:50 2016 ]=>  🔥卐ښًًٌٍٍٍٍَََعېًًًًٍٍٍٍٍَََََدًًٍٍٍَمًًًًًٍٍٍٍٍٍٍٍٍٍٍَ_ذٍٍٍٍڪًًٍٍٍٍَََڕًًًٍٍٍَ_لًًًًًٍٍٍٍٍََََبإٹًٍٍٍٍََََ卐🔥 [178033911] deleted user  user#id178033911
+ 
+[ Fri Feb 19 12:09:50 2016 ]=>  🔥卐ښًًٌٍٍٍٍَََعېًًًًٍٍٍٍٍَََََدًًٍٍٍَمًًًًًٍٍٍٍٍٍٍٍٍٍٍَ_ذٍٍٍٍڪًًٍٍٍٍَََڕًًًٍٍٍَ_لًًًًًٍٍٍٍٍََََبإٹًٍٍٍٍََََ卐🔥 [178033911] deleted user  user#id178033911
+ 
+[ Fri Feb 19 12:09:58 2016 ]=>  دنت:'(ی還好友好了 [110681108] tried to change name but failed  
+ 
+[ Fri Feb 19 12:09:58 2016 ]=>  دنت:'(ی還好友好了 [110681108] tried to change name but failed  
+ 
+[ Fri Feb 19 12:09:58 2016 ]=>  $їИ∀(◥◣+_+◢◤)$н∀ℜ [156337297] deleted user  user#id156337297
+ 
+[ Fri Feb 19 12:09:58 2016 ]=>  $їИ∀(◥◣+_+◢◤)$н∀ℜ [156337297] deleted user  user#id156337297
+ 
+[ Fri Feb 19 12:09:59 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Fri Feb 19 12:09:59 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Fri Feb 19 12:11:44 2016 ]=>  دنت:'(ی還好友好了 [110681108] tried to change name but failed  
+ 
+[ Fri Feb 19 12:11:44 2016 ]=>  دنت:'(ی還好友好了 [110681108] tried to change name but failed  
+ 
+[ Fri Feb 19 12:11:44 2016 ]=>  $їИ∀(◥◣+_+◢◤)$н∀ℜ [156337297] deleted user  user#id156337297
+ 
+[ Fri Feb 19 12:11:44 2016 ]=>  $їИ∀(◥◣+_+◢◤)$н∀ℜ [156337297] deleted user  user#id156337297
+ 
+[ Fri Feb 19 12:11:45 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Fri Feb 19 12:11:45 2016 ]=>  E_M_C™ [0] tried to change name but failed  
+ 
+[ Fri Feb 19 12:27:00 2016 ]=>  دنت:'(ی還好友好了 [110681108] deleted user  user#id110681108
+ 
+[ Fri Feb 19 12:27:00 2016 ]=>  دنت:'(ی還好友好了 [110681108] deleted user  user#id110681108
+ 
+[ Fri Feb 19 13:09:48 2016 ]=>  💀 [69917482] deleted user  user#id69917482
+ 
+[ Fri Feb 19 13:09:48 2016 ]=>  💀 [69917482] deleted user  user#id69917482
+ 
+[ Fri Feb 19 13:09:49 2016 ]=>  دنت:'(ی還好友好了 [110681108] deleted user  user#id110681108
+ 
+[ Fri Feb 19 13:09:49 2016 ]=>  دنت:'(ی還好友好了 [110681108] deleted user  user#id110681108
+ 
+[ Fri Feb 19 13:11:42 2016 ]=>  💀 [69917482] deleted user  user#id69917482
+ 
+[ Fri Feb 19 13:11:42 2016 ]=>  💀 [69917482] deleted user  user#id69917482
+ 
+[ Fri Feb 19 13:11:43 2016 ]=>  دنت:'(ی還好友好了 [110681108] deleted user  user#id110681108
+ 
+[ Fri Feb 19 13:11:43 2016 ]=>  دنت:'(ی還好友好了 [110681108] deleted user  user#id110681108
+ 
+[ Fri Feb 19 13:52:23 2016 ]=>  Paniz [169687001] deleted user  user#id169687001
+ 
+[ Fri Feb 19 14:06:12 2016 ]=>  ٍـٍٍ↯ٍٍـٍٍ؁ٍٍـٍٍـٍِـَِـِِےٍٍĶًٍõًٍરًٍõًٍ_ًٍֆٍٍみرًوًٌاًٍنًٍـٍٍ↯ٍـٍٍ؁ٍَـٍِـِِ [112890557] deleted user  user#id112890557
+ 
+[ Fri Feb 19 14:06:12 2016 ]=>  ٍـٍٍ↯ٍٍـٍٍ؁ٍٍـٍٍـٍِـَِـِِےٍٍĶًٍõًٍરًٍõًٍ_ًٍֆٍٍみرًوًٌاًٍنًٍـٍٍ↯ٍـٍٍ؁ٍَـٍِـِِ [112890557] deleted user  user#id112890557
+ 
+[ Fri Feb 19 14:07:59 2016 ]=>  💀BoBBy💀 [139066342] deleted user  user#id139066342
+ 
+[ Fri Feb 19 14:07:59 2016 ]=>  💀BoBBy💀 [139066342] deleted user  user#id139066342
+ 
+[ Fri Feb 19 14:10:20 2016 ]=>  ریپوریت___________مًٍحًٍمًٍدًٍمًٍ_شًٍاًٍهًٍ_مًٍرًٍگًٍمًٍ_رًٍوًٍاًٍلًٍهًٍ__ًٍ_ًٍ_ًٍکًٍسًٍیًٍ_جًٍرًٍعًٍتًٍ_نًٍکًٍرًٍدًٍهًٍ_بًٍدًٍخًٍوًٍاًٍهًٍ_بًٍاًٍشًٍهًٍ_اًٍزًٍ_دًٍمًٍ_فًٍاًٍکًٍ_هًٍسًٍنًٍ__ًٍ_ًٍپًٍسًٍ_بًٍزًٍنًٍ_بًٍهًٍ_چًٍاًٍکًٍ_مًٍحًٍبًٍتًٍ_ftd_نًٍشًٍیًٍ [44758889] deleted user  user#id44758889
+ 
+[ Fri Feb 19 14:10:20 2016 ]=>  ریپوریت___________مًٍحًٍمًٍدًٍمًٍ_شًٍاًٍهًٍ_مًٍرًٍگًٍمًٍ_رًٍوًٍاًٍلًٍهًٍ__ًٍ_ًٍ_ًٍکًٍسًٍیًٍ_جًٍرًٍعًٍتًٍ_نًٍکًٍرًٍدًٍهًٍ_بًٍدًٍخًٍوًٍاًٍهًٍ_بًٍاًٍشًٍهًٍ_اًٍزًٍ_دًٍمًٍ_فًٍاًٍکًٍ_هًٍسًٍنًٍ__ًٍ_ًٍپًٍسًٍ_بًٍزًٍنًٍ_بًٍهًٍ_چًٍاًٍکًٍ_مًٍحًٍبًٍتًٍ_ftd_نًٍشًٍیًٍ [44758889] deleted user  user#id44758889
+ 
+[ Fri Feb 19 14:38:47 2016 ]=>  Paniz [169687001] deleted user  user#id169687001
+ 
+[ Fri Feb 19 14:38:47 2016 ]=>  Paniz [169687001] deleted user  user#id169687001
+ 
+[ Fri Feb 19 14:38:50 2016 ]=>  -Dαlтoɴ💎 [148481531] deleted user  user#id148481531
+ 
+[ Fri Feb 19 14:38:50 2016 ]=>  -Dαlтoɴ💎 [148481531] deleted user  user#id148481531
+ 
+[ Fri Feb 19 14:38:53 2016 ]=>  ٍـٍٍ↯ٍٍـٍٍ؁ٍٍـٍٍـٍِـَِـِِےٍٍĶًٍõًٍરًٍõًٍ_ًٍֆٍٍみرًوًٌاًٍنًٍـٍٍ↯ٍـٍٍ؁ٍَـٍِـِِ [112890557] deleted user  user#id112890557
+ 
+[ Fri Feb 19 14:38:53 2016 ]=>  ٍـٍٍ↯ٍٍـٍٍ؁ٍٍـٍٍـٍِـَِـِِےٍٍĶًٍõًٍરًٍõًٍ_ًٍֆٍٍみرًوًٌاًٍنًٍـٍٍ↯ٍـٍٍ؁ٍَـٍِـِِ [112890557] deleted user  user#id112890557
+ 
+[ Fri Feb 19 16:04:08 2016 ]=>  ♥•♥ [161801650] deleted user  user#id161801650
+ 
+[ Fri Feb 19 16:04:08 2016 ]=>  ♥•♥ [161801650] deleted user  user#id161801650
+ 
+[ Fri Feb 19 16:04:08 2016 ]=>  ♥•♥ [161801650] deleted user  user#id161801650
+ 
+[ Fri Feb 19 16:12:32 2016 ]=>  👸مـَلـَڪہ_امــــــــــيڔ_پـــــآشـآم💞 [75706080] deleted user  user#id75706080
+ 
+[ Fri Feb 19 16:12:32 2016 ]=>  👸مـَلـَڪہ_امــــــــــيڔ_پـــــآشـآم💞 [75706080] deleted user  user#id75706080
+ 
+[ Fri Feb 19 16:12:32 2016 ]=>  👸مـَلـَڪہ_امــــــــــيڔ_پـــــآشـآم💞 [75706080] deleted user  user#id75706080
+ 
+[ Fri Feb 19 16:27:13 2016 ]=>  Mahdeyar [194367139] added a banned user >194367139
+ 
+[ Fri Feb 19 16:27:13 2016 ]=>  E_M_C™ [0] deleted user  user#id194367139
+ 
+[ Fri Feb 19 16:27:13 2016 ]=>  E_M_C™ [0] deleted user  user#id194367139
+ 
+[ Fri Feb 19 16:27:13 2016 ]=>  E_M_C™ [0] deleted user  user#id194367139
+ 
+[ Fri Feb 19 16:30:57 2016 ]=>  یاسین [157290104] deleted user  user#id157290104
+ 
+[ Fri Feb 19 16:30:57 2016 ]=>  یاسین [157290104] deleted user  user#id157290104
+ 
+[ Fri Feb 19 16:30:57 2016 ]=>  یاسین [157290104] deleted user  user#id157290104
+ 
+[ Fri Feb 19 16:34:04 2016 ]=>  ̶ع̶̶ِـ̶ز̶ر̶ا̶ی̶ـ̶ـ̶ـ̶H̶ᴏ̶s̶ᴛ̶_̶ᴏ̶f_̶D̶ᴇ̶ᴀ̶ᴅ̶ـ̶ـ̶ی̶ل_▂▃▅▇█▓▒▂▃▅▇█▓▒▂▃▅▇█▓▒▂▃▅▇█▓▒▒▓█▇▅▃▂▒▓█▇▅▃▂▒▓█▇▅▃▂_▒▓█▇▅▃▂ [121852378] deleted user  user#id121852378
+ 
+[ Fri Feb 19 16:34:04 2016 ]=>  ̶ع̶̶ِـ̶ز̶ر̶ا̶ی̶ـ̶ـ̶ـ̶H̶ᴏ̶s̶ᴛ̶_̶ᴏ̶f_̶D̶ᴇ̶ᴀ̶ᴅ̶ـ̶ـ̶ی̶ل_▂▃▅▇█▓▒▂▃▅▇█▓▒▂▃▅▇█▓▒▂▃▅▇█▓▒▒▓█▇▅▃▂▒▓█▇▅▃▂▒▓█▇▅▃▂_▒▓█▇▅▃▂ [121852378] deleted user  user#id121852378
+ 
+[ Fri Feb 19 16:34:04 2016 ]=>  ̶ع̶̶ِـ̶ز̶ر̶ا̶ی̶ـ̶ـ̶ـ̶H̶ᴏ̶s̶ᴛ̶_̶ᴏ̶f_̶D̶ᴇ̶ᴀ̶ᴅ̶ـ̶ـ̶ی̶ل_▂▃▅▇█▓▒▂▃▅▇█▓▒▂▃▅▇█▓▒▂▃▅▇█▓▒▒▓█▇▅▃▂▒▓█▇▅▃▂▒▓█▇▅▃▂_▒▓█▇▅▃▂ [121852378] deleted user  user#id121852378
+ 
+[ Fri Feb 19 17:08:16 2016 ]=>  $@ [157704140] deleted user  user#id157704140
+ 
+[ Fri Feb 19 17:08:16 2016 ]=>  $@ [157704140] deleted user  user#id157704140
+ 
+[ Fri Feb 19 17:08:16 2016 ]=>  $@ [157704140] deleted user  user#id157704140
+ 
+[ Fri Feb 19 17:11:47 2016 ]=>  SINA [93619987] deleted user  user#id93619987
+ 
+[ Fri Feb 19 17:11:47 2016 ]=>  SINA [93619987] deleted user  user#id93619987
+ 
+[ Fri Feb 19 17:11:47 2016 ]=>  SINA [93619987] deleted user  user#id93619987
+ 
+[ Fri Feb 19 17:38:56 2016 ]=>  علی [146402159] deleted user  user#id146402159
+ 
+[ Fri Feb 19 17:38:56 2016 ]=>  علی [146402159] deleted user  user#id146402159
+ 
+[ Fri Feb 19 17:38:56 2016 ]=>  علی [146402159] deleted user  user#id146402159
+ 
+[ Fri Feb 19 18:11:34 2016 ]=>  ھۿ_مھ_؁ڍے_ٳم_بٲۋ__ڕوٵلھ؟؟_(reported)_._._________.___.__._..__________.________.__________._________.__._________._______________.__._________________.___________.________________.__________________.____________________.___________________.____________________._______________._._._________. [108693687] deleted user  user#id108693687
+ 
+[ Fri Feb 19 18:11:34 2016 ]=>  ھۿ_مھ_؁ڍے_ٳم_بٲۋ__ڕوٵلھ؟؟_(reported)_._._________.___.__._..__________.________.__________._________.__._________._______________.__._________________.___________.________________.__________________.____________________.___________________.____________________._______________._._._________. [108693687] deleted user  user#id108693687
+ 
+[ Fri Feb 19 18:11:34 2016 ]=>  ھۿ_مھ_؁ڍے_ٳم_بٲۋ__ڕوٵلھ؟؟_(reported)_._._________.___.__._..__________.________.__________._________.__._________._______________.__._________________.___________.________________.__________________.____________________.___________________.____________________._______________._._._________. [108693687] deleted user  user#id108693687
+ 
+[ Fri Feb 19 18:13:36 2016 ]=>  سالار [129552611] deleted user  user#id129552611
+ 
+[ Fri Feb 19 18:13:36 2016 ]=>  سالار [129552611] deleted user  user#id129552611
+ 
+[ Fri Feb 19 18:13:36 2016 ]=>  سالار [129552611] deleted user  user#id129552611
+ 
+[ Fri Feb 19 18:25:19 2016 ]=>  Call_Of_Marg [147005838] banned user is talking !
+ 
+[ Fri Feb 19 18:25:19 2016 ]=>  E_M_C™ [0] deleted user  user#id147005838
+ 
+[ Fri Feb 19 18:25:19 2016 ]=>  E_M_C™ [0] deleted user  user#id147005838
+ 
+[ Fri Feb 19 18:25:19 2016 ]=>  E_M_C™ [0] deleted user  user#id147005838
+ 
+[ Fri Feb 19 18:44:05 2016 ]=>  Call_Of_Marg [147005838] banned user is talking !
+ 
+[ Fri Feb 19 18:44:05 2016 ]=>  E_M_C™ [0] deleted user  user#id147005838
+ 
+[ Fri Feb 19 18:44:05 2016 ]=>  E_M_C™ [0] deleted user  user#id147005838
+ 
+[ Fri Feb 19 18:44:05 2016 ]=>  E_M_C™ [0] deleted user  user#id147005838
+ 
+[ Fri Feb 19 19:03:06 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] Used /help
+ 
+[ Fri Feb 19 19:05:32 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] left using kickme 
+ 
+[ Fri Feb 19 19:05:32 2016 ]=>  E_M_C™ [0] deleted user  user#id145025039
+ 
+[ Fri Feb 19 19:05:32 2016 ]=>  E_M_C™ [0] deleted user  user#id145025039
+ 
+[ Fri Feb 19 19:05:32 2016 ]=>  E_M_C™ [0] deleted user  user#id145025039
+ 
+[ Fri Feb 19 19:55:37 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] Used /help
+ 
+[ Fri Feb 19 19:55:39 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] left using kickme 
+ 
+[ Fri Feb 19 19:55:39 2016 ]=>  E_M_C™ [0] deleted user  user#id145025039
+ 
+[ Fri Feb 19 19:55:39 2016 ]=>  E_M_C™ [0] deleted user  user#id145025039
+ 
+[ Fri Feb 19 19:55:39 2016 ]=>  E_M_C™ [0] deleted user  user#id145025039
+ 
+[ Fri Feb 19 20:20:43 2016 ]=>  King_Castle_Wolf [170905333] deleted user  user#id170905333
+ 
+[ Fri Feb 19 20:20:43 2016 ]=>  King_Castle_Wolf [170905333] deleted user  user#id170905333
+ 
+[ Fri Feb 19 20:20:43 2016 ]=>  King_Castle_Wolf [170905333] deleted user  user#id170905333
+ 
+[ Fri Feb 19 20:23:10 2016 ]=>  ¥ahii¥ [110813270] deleted user  user#id110813270
+ 
+[ Fri Feb 19 20:23:10 2016 ]=>  ¥ahii¥ [110813270] deleted user  user#id110813270
+ 
+[ Fri Feb 19 20:23:10 2016 ]=>  ¥ahii¥ [110813270] deleted user  user#id110813270
+ 
+[ Fri Feb 19 23:41:17 2016 ]=>  😈↫ًًًًًًًًًًًًًًٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍَÅًًًًًًًًًًًٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍََََℓًًًًًًًًًٍٍٍٍٍٍٍٍٍٍٍٍٍََََiًًًًًٍٍٍٍٍٍٍٍٍٍٍٍٍََََََََ↬ًًًًًًًًٍٍٍٍٍٍٍٍٍٍٍََ💀ʄََََََََِِِِِِِِųَََََََِِِِِِِِĆِِِِِِِِِҠَََََََََََɛřََََََََََََِِِِِِِِِِ👿ŧََََََََََََِِِِِِِِِِِِɛَََََََََ [137557018] added a banned user >137557018
+ 
+[ Fri Feb 19 23:41:18 2016 ]=>  E_M_C™ [0] deleted user  user#id137557018
+ 
+[ Fri Feb 19 23:41:18 2016 ]=>  E_M_C™ [0] deleted user  user#id137557018
+ 
+[ Fri Feb 19 23:41:18 2016 ]=>  E_M_C™ [0] deleted user  user#id137557018
+ 
+[ Sat Feb 20 02:55:28 2016 ]=>  Hanane [136604190] deleted user  user#id136604190
+ 
+[ Sat Feb 20 02:55:28 2016 ]=>  Hanane [136604190] deleted user  user#id136604190
+ 
+[ Sat Feb 20 02:55:28 2016 ]=>  Hanane [136604190] deleted user  user#id136604190
+ 
+[ Sat Feb 20 02:55:52 2016 ]=>  m.m [146564521] deleted user  user#id146564521
+ 
+[ Sat Feb 20 02:55:52 2016 ]=>  m.m [146564521] deleted user  user#id146564521
+ 
+[ Sat Feb 20 02:55:52 2016 ]=>  m.m [146564521] deleted user  user#id146564521
+ 
+[ Sat Feb 20 04:38:23 2016 ]=>  ℳ.ɾєζส [99561699] deleted user  user#id99561699
+ 
+[ Sat Feb 20 04:38:23 2016 ]=>  ℳ.ɾєζส [99561699] deleted user  user#id99561699
+ 
+[ Sat Feb 20 04:38:23 2016 ]=>  ℳ.ɾєζส [99561699] deleted user  user#id99561699
+ 
+[ Sat Feb 20 08:17:42 2016 ]=>  🇹🇷_Mr_Bad_$_Leader_🇹🇷 [176926838] deleted user  user#id176926838
+ 
+[ Sat Feb 20 08:17:42 2016 ]=>  🇹🇷_Mr_Bad_$_Leader_🇹🇷 [176926838] deleted user  user#id176926838
+ 
+[ Sat Feb 20 08:17:42 2016 ]=>  🇹🇷_Mr_Bad_$_Leader_🇹🇷 [176926838] deleted user  user#id176926838
+ 
+[ Sat Feb 20 10:33:51 2016 ]=>  @kjphdc [190431287] deleted user  user#id190431287
+ 
+[ Sat Feb 20 10:33:51 2016 ]=>  @kjphdc [190431287] deleted user  user#id190431287
+ 
+[ Sat Feb 20 10:33:51 2016 ]=>  @kjphdc [190431287] deleted user  user#id190431287
+ 
+[ Sat Feb 20 10:42:15 2016 ]=>  pouriammm [164056251] deleted user  user#id164056251
+ 
+[ Sat Feb 20 10:42:15 2016 ]=>  pouriammm [164056251] deleted user  user#id164056251
+ 
+[ Sat Feb 20 10:42:15 2016 ]=>  pouriammm [164056251] deleted user  user#id164056251
+ 
+[ Sat Feb 20 11:54:48 2016 ]=>  ‮™namas_Matroper [139837032] deleted user  user#id139837032
+ 
+[ Sat Feb 20 11:54:48 2016 ]=>  ‮™namas_Matroper [139837032] deleted user  user#id139837032
+ 
+[ Sat Feb 20 11:54:48 2016 ]=>  ‮™namas_Matroper [139837032] deleted user  user#id139837032
+ 
+[ Sat Feb 20 12:56:49 2016 ]=>  👻P£ĐRĂM😈 [135977482] deleted user  user#id135977482
+ 
+[ Sat Feb 20 12:56:49 2016 ]=>  👻P£ĐRĂM😈 [135977482] deleted user  user#id135977482
+ 
+[ Sat Feb 20 12:56:49 2016 ]=>  👻P£ĐRĂM😈 [135977482] deleted user  user#id135977482
+ 
+[ Sat Feb 20 16:25:43 2016 ]=>  hamidreza [114072109] deleted user  user#id114072109
+ 
+[ Sat Feb 20 16:25:43 2016 ]=>  hamidreza [114072109] deleted user  user#id114072109
+ 
+[ Sat Feb 20 16:25:43 2016 ]=>  hamidreza [114072109] deleted user  user#id114072109
+ 
+[ Sat Feb 20 17:08:20 2016 ]=>  ‌‌مٌٍحِٔمًًٍٰدًٍمٍُ_حًٍٓــــٍْـــًـْاًًِّجًٍَےًٍٰ💀ʄųĆҠɛř👿ŧɛąm💀فــــــــــــــــــــاکـــــــــــــــــر_تـــــــــــــیــــــــــم_گـــــــــــــــارد_اول_رواله_چچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچ [137109564] deleted user  user#id137109564
+ 
+[ Sat Feb 20 17:08:20 2016 ]=>  ‌‌مٌٍحِٔمًًٍٰدًٍمٍُ_حًٍٓــــٍْـــًـْاًًِّجًٍَےًٍٰ💀ʄųĆҠɛř👿ŧɛąm💀فــــــــــــــــــــاکـــــــــــــــــر_تـــــــــــــیــــــــــم_گـــــــــــــــارد_اول_رواله_چچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچ [137109564] deleted user  user#id137109564
+ 
+[ Sat Feb 20 17:08:20 2016 ]=>  ‌‌مٌٍحِٔمًًٍٰدًٍمٍُ_حًٍٓــــٍْـــًـْاًًِّجًٍَےًٍٰ💀ʄųĆҠɛř👿ŧɛąm💀فــــــــــــــــــــاکـــــــــــــــــر_تـــــــــــــیــــــــــم_گـــــــــــــــارد_اول_رواله_چچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچچ [137109564] deleted user  user#id137109564
+ 
+[ Sat Feb 20 19:35:22 2016 ]=>  💀عًٌٍٍْلٌٍٍّْیًٌٍٍْرٌٍٍْضٌٍٍْآًٌٌٍ💀جًٌٍٍْوًٌٍْکٌٍُْْرٌٌٍْ💀رٌٌٍٍْوًٌٌٍْآًٌٍْلًًٌٌٍٍهًٌٌٌٍ💀 [199258203] spammed and kicked ! 
+ 
+[ Sat Feb 20 19:35:27 2016 ]=>  Nader [174811894] spammed and kicked ! 
+ 
+[ Sat Feb 20 19:35:29 2016 ]=>  E_M_C™ [0] deleted user  user#id199258203
+ 
+[ Sat Feb 20 19:35:29 2016 ]=>  E_M_C™ [0] deleted user  user#id199258203
+ 
+[ Sat Feb 20 19:35:29 2016 ]=>  E_M_C™ [0] deleted user  user#id199258203
+ 
+[ Sat Feb 20 19:35:29 2016 ]=>  E_M_C™ [0] deleted user  user#id174811894
+ 
+[ Sat Feb 20 19:35:29 2016 ]=>  E_M_C™ [0] deleted user  user#id174811894
+ 
+[ Sat Feb 20 19:35:29 2016 ]=>  E_M_C™ [0] deleted user  user#id174811894
+ 
+[ Sat Feb 20 20:13:34 2016 ]=>  E_M_C™ [0] deleted user  user#id199258203
+ 
+[ Sat Feb 20 20:13:34 2016 ]=>  E_M_C™ [0] deleted user  user#id199258203
+ 
+[ Sat Feb 20 20:13:34 2016 ]=>  E_M_C™ [0] deleted user  user#id199258203
+ 
+[ Sat Feb 20 20:13:35 2016 ]=>  E_M_C™ [0] deleted user  user#id174811894
+ 
+[ Sat Feb 20 20:13:35 2016 ]=>  E_M_C™ [0] deleted user  user#id174811894
+ 
+[ Sat Feb 20 20:13:35 2016 ]=>  E_M_C™ [0] deleted user  user#id174811894
+ 
+[ Sun Feb 21 09:32:03 2016 ]=>  💀عًٌٍٍْلٌٍٍّْیًٌٍٍْرٌٍٍْضٌٍٍْآًٌٌٍ💀جًٌٍٍْوًٌٍْکٌٍُْْرٌٌٍْ💀رٌٌٍٍْوًٌٌٍْآًٌٍْلًًٌٌٍٍهًٌٌٌٍ💀 [199258203] added a bot > @star_ASR_bot
+ 
+[ Sun Feb 21 09:32:03 2016 ]=>  E_M_C™ [0] deleted user  user#id143060035
+ 
+[ Sun Feb 21 09:32:03 2016 ]=>  E_M_C™ [0] deleted user  user#id143060035
+ 
+[ Sun Feb 21 09:32:03 2016 ]=>  E_M_C™ [0] deleted user  user#id143060035
+ 
+[ Sun Feb 21 09:32:35 2016 ]=>  💀عًٌٍٍْلٌٍٍّْیًٌٍٍْرٌٍٍْضٌٍٍْآًٌٌٍ💀جًٌٍٍْوًٌٍْکٌٍُْْرٌٌٍْ💀رٌٌٍٍْوًٌٌٍْآًٌٍْلًًٌٌٍٍهًٌٌٌٍ💀 [199258203] deleted user  user#id199258203
+ 
+[ Sun Feb 21 09:32:35 2016 ]=>  💀عًٌٍٍْلٌٍٍّْیًٌٍٍْرٌٍٍْضٌٍٍْآًٌٌٍ💀جًٌٍٍْوًٌٍْکٌٍُْْرٌٌٍْ💀رٌٌٍٍْوًٌٌٍْآًٌٍْلًًٌٌٍٍهًٌٌٌٍ💀 [199258203] deleted user  user#id199258203
+ 
+[ Sun Feb 21 09:32:35 2016 ]=>  💀عًٌٍٍْلٌٍٍّْیًٌٍٍْرٌٍٍْضٌٍٍْآًٌٌٍ💀جًٌٍٍْوًٌٍْکٌٍُْْرٌٌٍْ💀رٌٌٍٍْوًٌٌٍْآًٌٍْلًًٌٌٍٍهًٌٌٌٍ💀 [199258203] deleted user  user#id199258203
+ 
+[ Sun Feb 21 09:54:53 2016 ]=>  💀عًٌٍٍْلٌٍٍّْیًٌٍٍْرٌٍٍْضٌٍٍْآًٌٌٍ💀جًٌٍٍْوًٌٍْکٌٍُْْرٌٌٍْ💀رٌٌٍٍْوًٌٌٍْآًٌٍْلًًٌٌٍٍهًٌٌٌٍ💀 [199258203] added a bot > @star_ASR_bot
+ 
+[ Sun Feb 21 09:54:53 2016 ]=>  💀عًٌٍٍْلٌٍٍّْیًٌٍٍْرٌٍٍْضٌٍٍْآًٌٌٍ💀جًٌٍٍْوًٌٍْکٌٍُْْرٌٌٍْ💀رٌٌٍٍْوًٌٌٍْآًٌٍْلًًٌٌٍٍهًٌٌٌٍ💀 [199258203] added a bot > @star_ASR_bot
+ 
+[ Sun Feb 21 09:54:53 2016 ]=>  E_M_C™ [0] deleted user  user#id143060035
+ 
+[ Sun Feb 21 09:54:53 2016 ]=>  E_M_C™ [0] deleted user  user#id143060035
+ 
+[ Sun Feb 21 09:54:53 2016 ]=>  E_M_C™ [0] deleted user  user#id143060035
+ 
+[ Sun Feb 21 09:54:54 2016 ]=>  💀عًٌٍٍْلٌٍٍّْیًٌٍٍْرٌٍٍْضٌٍٍْآًٌٌٍ💀جًٌٍٍْوًٌٍْکٌٍُْْرٌٌٍْ💀رٌٌٍٍْوًٌٌٍْآًٌٍْلًًٌٌٍٍهًٌٌٌٍ💀 [199258203] deleted user  user#id199258203
+ 
+[ Sun Feb 21 09:54:54 2016 ]=>  💀عًٌٍٍْلٌٍٍّْیًٌٍٍْرٌٍٍْضٌٍٍْآًٌٌٍ💀جًٌٍٍْوًٌٍْکٌٍُْْرٌٌٍْ💀رٌٌٍٍْوًٌٌٍْآًٌٍْلًًٌٌٍٍهًٌٌٌٍ💀 [199258203] deleted user  user#id199258203
+ 
+[ Sun Feb 21 09:54:54 2016 ]=>  💀عًٌٍٍْلٌٍٍّْیًٌٍٍْرٌٍٍْضٌٍٍْآًٌٌٍ💀جًٌٍٍْوًٌٍْکٌٍُْْرٌٌٍْ💀رٌٌٍٍْوًٌٌٍْآًٌٍْلًًٌٌٍٍهًٌٌٌٍ💀 [199258203] deleted user  user#id199258203
+ 
+[ Sun Feb 21 09:54:55 2016 ]=>  abolfazl [113792649] spammed and kicked ! 
+ 
+[ Sun Feb 21 09:54:58 2016 ]=>  سکوت [173687123] spammed and kicked ! 
+ 
+[ Sun Feb 21 09:54:59 2016 ]=>  E_M_C™ [0] deleted user  user#id113792649
+ 
+[ Sun Feb 21 09:54:59 2016 ]=>  E_M_C™ [0] deleted user  user#id113792649
+ 
+[ Sun Feb 21 09:54:59 2016 ]=>  E_M_C™ [0] deleted user  user#id113792649
+ 
+[ Sun Feb 21 09:54:59 2016 ]=>  E_M_C™ [0] deleted user  user#id173687123
+ 
+[ Sun Feb 21 09:54:59 2016 ]=>  E_M_C™ [0] deleted user  user#id173687123
+ 
+[ Sun Feb 21 09:54:59 2016 ]=>  E_M_C™ [0] deleted user  user#id173687123
+ 
+[ Sun Feb 21 10:20:17 2016 ]=>  E_M_C™ [0] deleted user  user#id113792649
+ 
+[ Sun Feb 21 10:20:17 2016 ]=>  E_M_C™ [0] deleted user  user#id113792649
+ 
+[ Sun Feb 21 10:20:17 2016 ]=>  E_M_C™ [0] deleted user  user#id113792649
+ 
+[ Sun Feb 21 10:20:17 2016 ]=>  E_M_C™ [0] deleted user  user#id173687123
+ 
+[ Sun Feb 21 10:20:18 2016 ]=>  E_M_C™ [0] deleted user  user#id173687123
+ 
+[ Sun Feb 21 10:20:18 2016 ]=>  E_M_C™ [0] deleted user  user#id173687123
+ 
+[ Sun Feb 21 10:29:01 2016 ]=>  آڢڸايڹم [169775708] requested group link [https://telegram.me/joinchat/CNx_gQZTWK-U9sjXkOZB4g]
+ 
+[ Sun Feb 21 10:31:48 2016 ]=>  آڢڸايڹم [169775708] revoked group link 
+ 
+[ Sun Feb 21 10:31:58 2016 ]=>  آڢڸايڹم [169775708] requested group link [https://telegram.me/joinchat/CNx_gQZTWK8-KBvFwiUHyw]
+ 
+[ Sun Feb 21 10:32:35 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested group modlist
+ 
+[ Sun Feb 21 10:33:47 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] Used /help
+ 
+[ Sun Feb 21 10:34:09 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] cleaned modlist
+ 
+[ Sun Feb 21 10:35:15 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] locked member 
+ 
+[ Sun Feb 21 10:36:03 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested member list 
+ 
+[ Sun Feb 21 10:38:11 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] cleaned rules
+ 
+[ Sun Feb 21 10:38:38 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested group settings 
+ 
+[ Sun Feb 21 10:39:31 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] kicked user 0
+ 
+[ Sun Feb 21 10:40:28 2016 ]=>  E_M_C™ [0] deleted user  user#id124341559
+ 
+[ Sun Feb 21 10:40:28 2016 ]=>  E_M_C™ [0] deleted user  user#id124341559
+ 
+[ Sun Feb 21 10:40:28 2016 ]=>  E_M_C™ [0] deleted user  user#id124341559
+ 
+[ Sun Feb 21 10:40:42 2016 ]=>  E_M_C™ [0] deleted user  user#id67603193
+ 
+[ Sun Feb 21 10:40:42 2016 ]=>  E_M_C™ [0] deleted user  user#id67603193
+ 
+[ Sun Feb 21 10:40:42 2016 ]=>  E_M_C™ [0] deleted user  user#id67603193
+ 
+[ Sun Feb 21 10:40:57 2016 ]=>  E_M_C™ [0] deleted user  user#id156393297
+ 
+[ Sun Feb 21 10:40:57 2016 ]=>  E_M_C™ [0] deleted user  user#id156393297
+ 
+[ Sun Feb 21 10:40:57 2016 ]=>  E_M_C™ [0] deleted user  user#id156393297
+ 
+[ Sun Feb 21 10:41:03 2016 ]=>  Aj.ریپورتم [78827889] deleted user  user#id78827889
+ 
+[ Sun Feb 21 10:41:03 2016 ]=>  Aj.ریپورتم [78827889] deleted user  user#id78827889
+ 
+[ Sun Feb 21 10:41:03 2016 ]=>  Aj.ریپورتم [78827889] deleted user  user#id78827889
+ 
+[ Sun Feb 21 10:41:12 2016 ]=>  E_M_C™ [0] deleted user  user#id127064414
+ 
+[ Sun Feb 21 10:41:12 2016 ]=>  E_M_C™ [0] deleted user  user#id127064414
+ 
+[ Sun Feb 21 10:41:12 2016 ]=>  E_M_C™ [0] deleted user  user#id127064414
+ 
+[ Sun Feb 21 10:41:24 2016 ]=>  E_M_C™ [0] deleted user  user#id168938445
+ 
+[ Sun Feb 21 10:41:24 2016 ]=>  E_M_C™ [0] deleted user  user#id168938445
+ 
+[ Sun Feb 21 10:41:24 2016 ]=>  E_M_C™ [0] deleted user  user#id168938445
+ 
+[ Sun Feb 21 10:41:40 2016 ]=>  E_M_C™ [0] deleted user  user#id154203652
+ 
+[ Sun Feb 21 10:41:40 2016 ]=>  E_M_C™ [0] deleted user  user#id154203652
+ 
+[ Sun Feb 21 10:41:40 2016 ]=>  E_M_C™ [0] deleted user  user#id154203652
+ 
+[ Sun Feb 21 10:41:44 2016 ]=>  حسین [196369032] deleted user  user#id196369032
+ 
+[ Sun Feb 21 10:41:44 2016 ]=>  حسین [196369032] deleted user  user#id196369032
+ 
+[ Sun Feb 21 10:41:44 2016 ]=>  حسین [196369032] deleted user  user#id196369032
+ 
+[ Sun Feb 21 10:41:51 2016 ]=>  E_M_C™ [0] deleted user  user#id110231600
+ 
+[ Sun Feb 21 10:41:51 2016 ]=>  E_M_C™ [0] deleted user  user#id110231600
+ 
+[ Sun Feb 21 10:41:51 2016 ]=>  E_M_C™ [0] deleted user  user#id110231600
+ 
+[ Sun Feb 21 10:42:09 2016 ]=>  E_M_C™ [0] deleted user  user#id149932903
+ 
+[ Sun Feb 21 10:42:09 2016 ]=>  E_M_C™ [0] deleted user  user#id149932903
+ 
+[ Sun Feb 21 10:42:09 2016 ]=>  E_M_C™ [0] deleted user  user#id149932903
+ 
+[ Sun Feb 21 10:42:27 2016 ]=>  E_M_C™ [0] deleted user  user#id116293064
+ 
+[ Sun Feb 21 10:42:27 2016 ]=>  E_M_C™ [0] deleted user  user#id116293064
+ 
+[ Sun Feb 21 10:42:27 2016 ]=>  E_M_C™ [0] deleted user  user#id116293064
+ 
+[ Sun Feb 21 10:42:30 2016 ]=>  E_M_C™ [0] deleted user  user#id137380028
+ 
+[ Sun Feb 21 10:42:30 2016 ]=>  E_M_C™ [0] deleted user  user#id137380028
+ 
+[ Sun Feb 21 10:42:30 2016 ]=>  E_M_C™ [0] deleted user  user#id137380028
+ 
+[ Sun Feb 21 10:42:33 2016 ]=>  E_M_C™ [0] deleted user  user#id164925541
+ 
+[ Sun Feb 21 10:42:33 2016 ]=>  E_M_C™ [0] deleted user  user#id164925541
+ 
+[ Sun Feb 21 10:42:33 2016 ]=>  E_M_C™ [0] deleted user  user#id164925541
+ 
+[ Sun Feb 21 10:42:36 2016 ]=>  E_M_C™ [0] deleted user  user#id133730394
+ 
+[ Sun Feb 21 10:42:36 2016 ]=>  E_M_C™ [0] deleted user  user#id133730394
+ 
+[ Sun Feb 21 10:42:36 2016 ]=>  E_M_C™ [0] deleted user  user#id133730394
+ 
+[ Sun Feb 21 10:42:39 2016 ]=>  E_M_C™ [0] deleted user  user#id128542444
+ 
+[ Sun Feb 21 10:42:39 2016 ]=>  E_M_C™ [0] deleted user  user#id128542444
+ 
+[ Sun Feb 21 10:42:39 2016 ]=>  E_M_C™ [0] deleted user  user#id128542444
+ 
+[ Sun Feb 21 10:42:42 2016 ]=>  E_M_C™ [0] deleted user  user#id126260535
+ 
+[ Sun Feb 21 10:42:42 2016 ]=>  E_M_C™ [0] deleted user  user#id126260535
+ 
+[ Sun Feb 21 10:42:42 2016 ]=>  E_M_C™ [0] deleted user  user#id126260535
+ 
+[ Sun Feb 21 10:42:45 2016 ]=>  E_M_C™ [0] deleted user  user#id110757430
+ 
+[ Sun Feb 21 10:42:45 2016 ]=>  E_M_C™ [0] deleted user  user#id110757430
+ 
+[ Sun Feb 21 10:42:45 2016 ]=>  E_M_C™ [0] deleted user  user#id110757430
+ 
+[ Sun Feb 21 10:42:48 2016 ]=>  E_M_C™ [0] deleted user  user#id146340607
+ 
+[ Sun Feb 21 10:42:48 2016 ]=>  E_M_C™ [0] deleted user  user#id146340607
+ 
+[ Sun Feb 21 10:42:48 2016 ]=>  E_M_C™ [0] deleted user  user#id146340607
+ 
+[ Sun Feb 21 10:42:50 2016 ]=>  E_M_C™ [0] deleted user  user#id153479991
+ 
+[ Sun Feb 21 10:42:51 2016 ]=>  E_M_C™ [0] deleted user  user#id153479991
+ 
+[ Sun Feb 21 10:42:51 2016 ]=>  E_M_C™ [0] deleted user  user#id153479991
+ 
+[ Sun Feb 21 10:42:53 2016 ]=>  E_M_C™ [0] deleted user  user#id93305153
+ 
+[ Sun Feb 21 10:42:53 2016 ]=>  E_M_C™ [0] deleted user  user#id93305153
+ 
+[ Sun Feb 21 10:42:53 2016 ]=>  E_M_C™ [0] deleted user  user#id93305153
+ 
+[ Sun Feb 21 10:42:56 2016 ]=>  E_M_C™ [0] deleted user  user#id197436678
+ 
+[ Sun Feb 21 10:42:56 2016 ]=>  E_M_C™ [0] deleted user  user#id197436678
+ 
+[ Sun Feb 21 10:42:56 2016 ]=>  E_M_C™ [0] deleted user  user#id197436678
+ 
+[ Sun Feb 21 10:42:59 2016 ]=>  E_M_C™ [0] deleted user  user#id179418816
+ 
+[ Sun Feb 21 10:42:59 2016 ]=>  E_M_C™ [0] deleted user  user#id179418816
+ 
+[ Sun Feb 21 10:42:59 2016 ]=>  E_M_C™ [0] deleted user  user#id179418816
+ 
+[ Sun Feb 21 10:43:04 2016 ]=>  E_M_C™ [0] deleted user  user#id181705461
+ 
+[ Sun Feb 21 10:43:04 2016 ]=>  E_M_C™ [0] deleted user  user#id181705461
+ 
+[ Sun Feb 21 10:43:04 2016 ]=>  E_M_C™ [0] deleted user  user#id181705461
+ 
+[ Sun Feb 21 10:43:07 2016 ]=>  E_M_C™ [0] deleted user  user#id133975495
+ 
+[ Sun Feb 21 10:43:07 2016 ]=>  E_M_C™ [0] deleted user  user#id133975495
+ 
+[ Sun Feb 21 10:43:07 2016 ]=>  E_M_C™ [0] deleted user  user#id133975495
+ 
+[ Sun Feb 21 10:43:10 2016 ]=>  E_M_C™ [0] deleted user  user#id62059496
+ 
+[ Sun Feb 21 10:43:10 2016 ]=>  E_M_C™ [0] deleted user  user#id62059496
+ 
+[ Sun Feb 21 10:43:10 2016 ]=>  E_M_C™ [0] deleted user  user#id62059496
+ 
+[ Sun Feb 21 10:43:13 2016 ]=>  E_M_C™ [0] deleted user  user#id120001551
+ 
+[ Sun Feb 21 10:43:13 2016 ]=>  E_M_C™ [0] deleted user  user#id120001551
+ 
+[ Sun Feb 21 10:43:13 2016 ]=>  E_M_C™ [0] deleted user  user#id120001551
+ 
+[ Sun Feb 21 10:43:18 2016 ]=>  E_M_C™ [0] deleted user  user#id81084181
+ 
+[ Sun Feb 21 10:43:18 2016 ]=>  E_M_C™ [0] deleted user  user#id81084181
+ 
+[ Sun Feb 21 10:43:18 2016 ]=>  E_M_C™ [0] deleted user  user#id81084181
+ 
+[ Sun Feb 21 10:43:21 2016 ]=>  E_M_C™ [0] deleted user  user#id105189884
+ 
+[ Sun Feb 21 10:43:21 2016 ]=>  E_M_C™ [0] deleted user  user#id105189884
+ 
+[ Sun Feb 21 10:43:21 2016 ]=>  E_M_C™ [0] deleted user  user#id105189884
+ 
+[ Sun Feb 21 10:43:24 2016 ]=>  E_M_C™ [0] deleted user  user#id124384919
+ 
+[ Sun Feb 21 10:43:24 2016 ]=>  E_M_C™ [0] deleted user  user#id124384919
+ 
+[ Sun Feb 21 10:43:24 2016 ]=>  E_M_C™ [0] deleted user  user#id124384919
+ 
+[ Sun Feb 21 10:43:27 2016 ]=>  E_M_C™ [0] deleted user  user#id122073062
+ 
+[ Sun Feb 21 10:43:27 2016 ]=>  E_M_C™ [0] deleted user  user#id122073062
+ 
+[ Sun Feb 21 10:43:27 2016 ]=>  E_M_C™ [0] deleted user  user#id122073062
+ 
+[ Sun Feb 21 10:43:30 2016 ]=>  E_M_C™ [0] deleted user  user#id167364765
+ 
+[ Sun Feb 21 10:43:30 2016 ]=>  E_M_C™ [0] deleted user  user#id167364765
+ 
+[ Sun Feb 21 10:43:30 2016 ]=>  E_M_C™ [0] deleted user  user#id167364765
+ 
+[ Sun Feb 21 10:43:34 2016 ]=>  E_M_C™ [0] deleted user  user#id187873358
+ 
+[ Sun Feb 21 10:43:34 2016 ]=>  E_M_C™ [0] deleted user  user#id187873358
+ 
+[ Sun Feb 21 10:43:34 2016 ]=>  E_M_C™ [0] deleted user  user#id187873358
+ 
+[ Sun Feb 21 10:43:37 2016 ]=>  E_M_C™ [0] deleted user  user#id144642770
+ 
+[ Sun Feb 21 10:43:37 2016 ]=>  E_M_C™ [0] deleted user  user#id144642770
+ 
+[ Sun Feb 21 10:43:37 2016 ]=>  E_M_C™ [0] deleted user  user#id144642770
+ 
+[ Sun Feb 21 10:43:40 2016 ]=>  E_M_C™ [0] deleted user  user#id164890335
+ 
+[ Sun Feb 21 10:43:40 2016 ]=>  E_M_C™ [0] deleted user  user#id164890335
+ 
+[ Sun Feb 21 10:43:40 2016 ]=>  E_M_C™ [0] deleted user  user#id164890335
+ 
+[ Sun Feb 21 10:43:43 2016 ]=>  E_M_C™ [0] deleted user  user#id130209889
+ 
+[ Sun Feb 21 10:43:43 2016 ]=>  E_M_C™ [0] deleted user  user#id130209889
+ 
+[ Sun Feb 21 10:43:43 2016 ]=>  E_M_C™ [0] deleted user  user#id130209889
+ 
+[ Sun Feb 21 10:43:46 2016 ]=>  E_M_C™ [0] deleted user  user#id174572199
+ 
+[ Sun Feb 21 10:43:46 2016 ]=>  E_M_C™ [0] deleted user  user#id174572199
+ 
+[ Sun Feb 21 10:43:46 2016 ]=>  E_M_C™ [0] deleted user  user#id174572199
+ 
+[ Sun Feb 21 10:43:53 2016 ]=>  E_M_C™ [0] deleted user  user#id183874348
+ 
+[ Sun Feb 21 10:43:53 2016 ]=>  E_M_C™ [0] deleted user  user#id183874348
+ 
+[ Sun Feb 21 10:43:53 2016 ]=>  E_M_C™ [0] deleted user  user#id183874348
+ 
+[ Sun Feb 21 10:43:57 2016 ]=>  E_M_C™ [0] deleted user  user#id178398638
+ 
+[ Sun Feb 21 10:43:57 2016 ]=>  E_M_C™ [0] deleted user  user#id178398638
+ 
+[ Sun Feb 21 10:43:57 2016 ]=>  E_M_C™ [0] deleted user  user#id178398638
+ 
+[ Sun Feb 21 10:44:00 2016 ]=>  E_M_C™ [0] deleted user  user#id162215377
+ 
+[ Sun Feb 21 10:44:00 2016 ]=>  E_M_C™ [0] deleted user  user#id162215377
+ 
+[ Sun Feb 21 10:44:00 2016 ]=>  E_M_C™ [0] deleted user  user#id162215377
+ 
+[ Sun Feb 21 10:44:03 2016 ]=>  E_M_C™ [0] deleted user  user#id176029265
+ 
+[ Sun Feb 21 10:44:03 2016 ]=>  E_M_C™ [0] deleted user  user#id176029265
+ 
+[ Sun Feb 21 10:44:03 2016 ]=>  E_M_C™ [0] deleted user  user#id176029265
+ 
+[ Sun Feb 21 10:44:20 2016 ]=>  E_M_C™ [0] deleted user  user#id114061294
+ 
+[ Sun Feb 21 10:44:20 2016 ]=>  E_M_C™ [0] deleted user  user#id114061294
+ 
+[ Sun Feb 21 10:44:20 2016 ]=>  E_M_C™ [0] deleted user  user#id114061294
+ 
+[ Sun Feb 21 10:44:25 2016 ]=>  E_M_C™ [0] deleted user  user#id169775708
+ 
+[ Sun Feb 21 10:44:25 2016 ]=>  E_M_C™ [0] deleted user  user#id169775708
+ 
+[ Sun Feb 21 10:44:25 2016 ]=>  E_M_C™ [0] deleted user  user#id169775708
+ 
+[ Sun Feb 21 10:44:31 2016 ]=>  E_M_C™ [0] deleted user  user#id164385775
+ 
+[ Sun Feb 21 10:44:31 2016 ]=>  E_M_C™ [0] deleted user  user#id164385775
+ 
+[ Sun Feb 21 10:44:31 2016 ]=>  E_M_C™ [0] deleted user  user#id164385775
+ 
+[ Sun Feb 21 10:44:34 2016 ]=>  E_M_C™ [0] deleted user  user#id146272252
+ 
+[ Sun Feb 21 10:44:34 2016 ]=>  E_M_C™ [0] deleted user  user#id146272252
+ 
+[ Sun Feb 21 10:44:34 2016 ]=>  E_M_C™ [0] deleted user  user#id146272252
+ 
+[ Sun Feb 21 10:44:37 2016 ]=>  E_M_C™ [0] deleted user  user#id150523057
+ 
+[ Sun Feb 21 10:44:37 2016 ]=>  E_M_C™ [0] deleted user  user#id150523057
+ 
+[ Sun Feb 21 10:44:37 2016 ]=>  E_M_C™ [0] deleted user  user#id150523057
+ 
+[ Sun Feb 21 10:44:39 2016 ]=>  E_M_C™ [0] deleted user  user#id186770911
+ 
+[ Sun Feb 21 10:44:39 2016 ]=>  E_M_C™ [0] deleted user  user#id186770911
+ 
+[ Sun Feb 21 10:44:39 2016 ]=>  E_M_C™ [0] deleted user  user#id186770911
+ 
+[ Sun Feb 21 10:44:45 2016 ]=>  E_M_C™ [0] deleted user  user#id152924683
+ 
+[ Sun Feb 21 10:44:45 2016 ]=>  E_M_C™ [0] deleted user  user#id152924683
+ 
+[ Sun Feb 21 10:44:45 2016 ]=>  E_M_C™ [0] deleted user  user#id152924683
+ 
+[ Sun Feb 21 10:45:15 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] Used /help
+ 
+[ Sun Feb 21 10:48:52 2016 ]=>  E_M_C™ [0] deleted user  user#id100547061
+ 
+[ Sun Feb 21 10:48:52 2016 ]=>  E_M_C™ [0] deleted user  user#id100547061
+ 
+[ Sun Feb 21 10:48:52 2016 ]=>  E_M_C™ [0] deleted user  user#id100547061
+ 
+[ Sun Feb 21 10:48:52 2016 ]=>  E_M_C™ [0] deleted user  user#id100547061
+ 
+[ Sun Feb 21 10:48:52 2016 ]=>  E_M_C™ [0] deleted user  user#id100547061
+ 
+[ Sun Feb 21 10:48:52 2016 ]=>  E_M_C™ [0] deleted user  user#id100547061
+ 
+[ Sun Feb 21 10:54:52 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested group modlist
+ 
+[ Sun Feb 21 10:54:52 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] Used /help
+ 
+[ Sun Feb 21 10:54:52 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] locked member 
+ 
+[ Sun Feb 21 10:54:52 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested member list 
+ 
+[ Sun Feb 21 10:54:53 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] cleaned rules
+ 
+[ Sun Feb 21 10:54:53 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] requested group settings 
+ 
+[ Sun Feb 21 10:54:53 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] kicked user 0
+ 
+[ Sun Feb 21 10:54:53 2016 ]=>  E_M_C™ [0] deleted user  user#id124341559
+ 
+[ Sun Feb 21 10:54:53 2016 ]=>  E_M_C™ [0] deleted user  user#id124341559
+ 
+[ Sun Feb 21 10:54:53 2016 ]=>  E_M_C™ [0] deleted user  user#id124341559
+ 
+[ Sun Feb 21 10:54:54 2016 ]=>  E_M_C™ [0] deleted user  user#id67603193
+ 
+[ Sun Feb 21 10:54:54 2016 ]=>  E_M_C™ [0] deleted user  user#id67603193
+ 
+[ Sun Feb 21 10:54:54 2016 ]=>  E_M_C™ [0] deleted user  user#id67603193
+ 
+[ Sun Feb 21 10:54:54 2016 ]=>  E_M_C™ [0] deleted user  user#id156393297
+ 
+[ Sun Feb 21 10:54:54 2016 ]=>  E_M_C™ [0] deleted user  user#id156393297
+ 
+[ Sun Feb 21 10:54:54 2016 ]=>  E_M_C™ [0] deleted user  user#id156393297
+ 
+[ Sun Feb 21 10:54:54 2016 ]=>  Aj.ریپورتم [78827889] deleted user  user#id78827889
+ 
+[ Sun Feb 21 10:54:54 2016 ]=>  Aj.ریپورتم [78827889] deleted user  user#id78827889
+ 
+[ Sun Feb 21 10:54:54 2016 ]=>  Aj.ریپورتم [78827889] deleted user  user#id78827889
+ 
+[ Sun Feb 21 10:54:54 2016 ]=>  E_M_C™ [0] deleted user  user#id127064414
+ 
+[ Sun Feb 21 10:54:54 2016 ]=>  E_M_C™ [0] deleted user  user#id127064414
+ 
+[ Sun Feb 21 10:54:54 2016 ]=>  E_M_C™ [0] deleted user  user#id127064414
+ 
+[ Sun Feb 21 10:54:54 2016 ]=>  E_M_C™ [0] deleted user  user#id168938445
+ 
+[ Sun Feb 21 10:54:54 2016 ]=>  E_M_C™ [0] deleted user  user#id168938445
+ 
+[ Sun Feb 21 10:54:54 2016 ]=>  E_M_C™ [0] deleted user  user#id168938445
+ 
+[ Sun Feb 21 10:54:54 2016 ]=>  E_M_C™ [0] deleted user  user#id154203652
+ 
+[ Sun Feb 21 10:54:54 2016 ]=>  E_M_C™ [0] deleted user  user#id154203652
+ 
+[ Sun Feb 21 10:54:54 2016 ]=>  E_M_C™ [0] deleted user  user#id154203652
+ 
+[ Sun Feb 21 10:54:54 2016 ]=>  حسین [196369032] deleted user  user#id196369032
+ 
+[ Sun Feb 21 10:54:54 2016 ]=>  حسین [196369032] deleted user  user#id196369032
+ 
+[ Sun Feb 21 10:54:54 2016 ]=>  حسین [196369032] deleted user  user#id196369032
+ 
+[ Sun Feb 21 10:54:55 2016 ]=>  E_M_C™ [0] deleted user  user#id110231600
+ 
+[ Sun Feb 21 10:54:55 2016 ]=>  E_M_C™ [0] deleted user  user#id110231600
+ 
+[ Sun Feb 21 10:54:55 2016 ]=>  E_M_C™ [0] deleted user  user#id110231600
+ 
+[ Sun Feb 21 10:54:55 2016 ]=>  E_M_C™ [0] deleted user  user#id149932903
+ 
+[ Sun Feb 21 10:54:55 2016 ]=>  E_M_C™ [0] deleted user  user#id149932903
+ 
+[ Sun Feb 21 10:54:55 2016 ]=>  E_M_C™ [0] deleted user  user#id149932903
+ 
+[ Sun Feb 21 10:54:55 2016 ]=>  E_M_C™ [0] deleted user  user#id116293064
+ 
+[ Sun Feb 21 10:54:55 2016 ]=>  E_M_C™ [0] deleted user  user#id116293064
+ 
+[ Sun Feb 21 10:54:55 2016 ]=>  E_M_C™ [0] deleted user  user#id116293064
+ 
+[ Sun Feb 21 10:54:55 2016 ]=>  E_M_C™ [0] deleted user  user#id137380028
+ 
+[ Sun Feb 21 10:54:55 2016 ]=>  E_M_C™ [0] deleted user  user#id137380028
+ 
+[ Sun Feb 21 10:54:55 2016 ]=>  E_M_C™ [0] deleted user  user#id137380028
+ 
+[ Sun Feb 21 10:54:55 2016 ]=>  E_M_C™ [0] deleted user  user#id164925541
+ 
+[ Sun Feb 21 10:54:55 2016 ]=>  E_M_C™ [0] deleted user  user#id164925541
+ 
+[ Sun Feb 21 10:54:55 2016 ]=>  E_M_C™ [0] deleted user  user#id164925541
+ 
+[ Sun Feb 21 10:54:55 2016 ]=>  E_M_C™ [0] deleted user  user#id133730394
+ 
+[ Sun Feb 21 10:54:56 2016 ]=>  E_M_C™ [0] deleted user  user#id133730394
+ 
+[ Sun Feb 21 10:54:56 2016 ]=>  E_M_C™ [0] deleted user  user#id133730394
+ 
+[ Sun Feb 21 10:54:56 2016 ]=>  E_M_C™ [0] deleted user  user#id128542444
+ 
+[ Sun Feb 21 10:54:56 2016 ]=>  E_M_C™ [0] deleted user  user#id128542444
+ 
+[ Sun Feb 21 10:54:56 2016 ]=>  E_M_C™ [0] deleted user  user#id128542444
+ 
+[ Sun Feb 21 10:54:56 2016 ]=>  E_M_C™ [0] deleted user  user#id126260535
+ 
+[ Sun Feb 21 10:54:56 2016 ]=>  E_M_C™ [0] deleted user  user#id126260535
+ 
+[ Sun Feb 21 10:54:56 2016 ]=>  E_M_C™ [0] deleted user  user#id126260535
+ 
+[ Sun Feb 21 10:54:56 2016 ]=>  E_M_C™ [0] deleted user  user#id110757430
+ 
+[ Sun Feb 21 10:54:56 2016 ]=>  E_M_C™ [0] deleted user  user#id110757430
+ 
+[ Sun Feb 21 10:54:56 2016 ]=>  E_M_C™ [0] deleted user  user#id110757430
+ 
+[ Sun Feb 21 10:54:56 2016 ]=>  E_M_C™ [0] deleted user  user#id146340607
+ 
+[ Sun Feb 21 10:54:56 2016 ]=>  E_M_C™ [0] deleted user  user#id146340607
+ 
+[ Sun Feb 21 10:54:56 2016 ]=>  E_M_C™ [0] deleted user  user#id146340607
+ 
+[ Sun Feb 21 10:54:56 2016 ]=>  E_M_C™ [0] deleted user  user#id153479991
+ 
+[ Sun Feb 21 10:54:56 2016 ]=>  E_M_C™ [0] deleted user  user#id153479991
+ 
+[ Sun Feb 21 10:54:56 2016 ]=>  E_M_C™ [0] deleted user  user#id153479991
+ 
+[ Sun Feb 21 10:54:56 2016 ]=>  E_M_C™ [0] deleted user  user#id93305153
+ 
+[ Sun Feb 21 10:54:56 2016 ]=>  E_M_C™ [0] deleted user  user#id93305153
+ 
+[ Sun Feb 21 10:54:57 2016 ]=>  E_M_C™ [0] deleted user  user#id93305153
+ 
+[ Sun Feb 21 10:54:57 2016 ]=>  E_M_C™ [0] deleted user  user#id197436678
+ 
+[ Sun Feb 21 10:54:57 2016 ]=>  E_M_C™ [0] deleted user  user#id197436678
+ 
+[ Sun Feb 21 10:54:57 2016 ]=>  E_M_C™ [0] deleted user  user#id197436678
+ 
+[ Sun Feb 21 10:54:57 2016 ]=>  E_M_C™ [0] deleted user  user#id179418816
+ 
+[ Sun Feb 21 10:54:57 2016 ]=>  E_M_C™ [0] deleted user  user#id179418816
+ 
+[ Sun Feb 21 10:54:57 2016 ]=>  E_M_C™ [0] deleted user  user#id179418816
+ 
+[ Sun Feb 21 10:54:57 2016 ]=>  E_M_C™ [0] deleted user  user#id181705461
+ 
+[ Sun Feb 21 10:54:57 2016 ]=>  E_M_C™ [0] deleted user  user#id181705461
+ 
+[ Sun Feb 21 10:54:57 2016 ]=>  E_M_C™ [0] deleted user  user#id181705461
+ 
+[ Sun Feb 21 10:54:57 2016 ]=>  E_M_C™ [0] deleted user  user#id133975495
+ 
+[ Sun Feb 21 10:54:57 2016 ]=>  E_M_C™ [0] deleted user  user#id133975495
+ 
+[ Sun Feb 21 10:54:57 2016 ]=>  E_M_C™ [0] deleted user  user#id133975495
+ 
+[ Sun Feb 21 10:54:58 2016 ]=>  E_M_C™ [0] deleted user  user#id62059496
+ 
+[ Sun Feb 21 10:54:58 2016 ]=>  E_M_C™ [0] deleted user  user#id62059496
+ 
+[ Sun Feb 21 10:54:58 2016 ]=>  E_M_C™ [0] deleted user  user#id62059496
+ 
+[ Sun Feb 21 10:54:58 2016 ]=>  E_M_C™ [0] deleted user  user#id120001551
+ 
+[ Sun Feb 21 10:54:58 2016 ]=>  E_M_C™ [0] deleted user  user#id120001551
+ 
+[ Sun Feb 21 10:54:58 2016 ]=>  E_M_C™ [0] deleted user  user#id120001551
+ 
+[ Sun Feb 21 10:54:58 2016 ]=>  E_M_C™ [0] deleted user  user#id81084181
+ 
+[ Sun Feb 21 10:54:58 2016 ]=>  E_M_C™ [0] deleted user  user#id81084181
+ 
+[ Sun Feb 21 10:54:58 2016 ]=>  E_M_C™ [0] deleted user  user#id81084181
+ 
+[ Sun Feb 21 10:54:58 2016 ]=>  E_M_C™ [0] deleted user  user#id105189884
+ 
+[ Sun Feb 21 10:54:58 2016 ]=>  E_M_C™ [0] deleted user  user#id105189884
+ 
+[ Sun Feb 21 10:54:58 2016 ]=>  E_M_C™ [0] deleted user  user#id105189884
+ 
+[ Sun Feb 21 10:54:58 2016 ]=>  E_M_C™ [0] deleted user  user#id124384919
+ 
+[ Sun Feb 21 10:54:58 2016 ]=>  E_M_C™ [0] deleted user  user#id124384919
+ 
+[ Sun Feb 21 10:54:59 2016 ]=>  E_M_C™ [0] deleted user  user#id124384919
+ 
+[ Sun Feb 21 10:54:59 2016 ]=>  E_M_C™ [0] deleted user  user#id122073062
+ 
+[ Sun Feb 21 10:54:59 2016 ]=>  E_M_C™ [0] deleted user  user#id122073062
+ 
+[ Sun Feb 21 10:54:59 2016 ]=>  E_M_C™ [0] deleted user  user#id122073062
+ 
+[ Sun Feb 21 10:54:59 2016 ]=>  E_M_C™ [0] deleted user  user#id167364765
+ 
+[ Sun Feb 21 10:54:59 2016 ]=>  E_M_C™ [0] deleted user  user#id167364765
+ 
+[ Sun Feb 21 10:54:59 2016 ]=>  E_M_C™ [0] deleted user  user#id167364765
+ 
+[ Sun Feb 21 10:54:59 2016 ]=>  E_M_C™ [0] deleted user  user#id187873358
+ 
+[ Sun Feb 21 10:54:59 2016 ]=>  E_M_C™ [0] deleted user  user#id187873358
+ 
+[ Sun Feb 21 10:54:59 2016 ]=>  E_M_C™ [0] deleted user  user#id187873358
+ 
+[ Sun Feb 21 10:54:59 2016 ]=>  E_M_C™ [0] deleted user  user#id144642770
+ 
+[ Sun Feb 21 10:54:59 2016 ]=>  E_M_C™ [0] deleted user  user#id144642770
+ 
+[ Sun Feb 21 10:54:59 2016 ]=>  E_M_C™ [0] deleted user  user#id144642770
+ 
+[ Sun Feb 21 10:54:59 2016 ]=>  E_M_C™ [0] deleted user  user#id164890335
+ 
+[ Sun Feb 21 10:54:59 2016 ]=>  E_M_C™ [0] deleted user  user#id164890335
+ 
+[ Sun Feb 21 10:54:59 2016 ]=>  E_M_C™ [0] deleted user  user#id164890335
+ 
+[ Sun Feb 21 10:55:00 2016 ]=>  E_M_C™ [0] deleted user  user#id130209889
+ 
+[ Sun Feb 21 10:55:00 2016 ]=>  E_M_C™ [0] deleted user  user#id130209889
+ 
+[ Sun Feb 21 10:55:00 2016 ]=>  E_M_C™ [0] deleted user  user#id130209889
+ 
+[ Sun Feb 21 10:55:00 2016 ]=>  E_M_C™ [0] deleted user  user#id174572199
+ 
+[ Sun Feb 21 10:55:00 2016 ]=>  E_M_C™ [0] deleted user  user#id174572199
+ 
+[ Sun Feb 21 10:55:00 2016 ]=>  E_M_C™ [0] deleted user  user#id174572199
+ 
+[ Sun Feb 21 10:55:00 2016 ]=>  E_M_C™ [0] deleted user  user#id183874348
+ 
+[ Sun Feb 21 10:55:00 2016 ]=>  E_M_C™ [0] deleted user  user#id183874348
+ 
+[ Sun Feb 21 10:55:00 2016 ]=>  E_M_C™ [0] deleted user  user#id183874348
+ 
+[ Sun Feb 21 10:55:00 2016 ]=>  E_M_C™ [0] deleted user  user#id178398638
+ 
+[ Sun Feb 21 10:55:00 2016 ]=>  E_M_C™ [0] deleted user  user#id178398638
+ 
+[ Sun Feb 21 10:55:00 2016 ]=>  E_M_C™ [0] deleted user  user#id178398638
+ 
+[ Sun Feb 21 10:55:00 2016 ]=>  E_M_C™ [0] deleted user  user#id162215377
+ 
+[ Sun Feb 21 10:55:00 2016 ]=>  E_M_C™ [0] deleted user  user#id162215377
+ 
+[ Sun Feb 21 10:55:00 2016 ]=>  E_M_C™ [0] deleted user  user#id162215377
+ 
+[ Sun Feb 21 10:55:00 2016 ]=>  E_M_C™ [0] deleted user  user#id176029265
+ 
+[ Sun Feb 21 10:55:01 2016 ]=>  E_M_C™ [0] deleted user  user#id176029265
+ 
+[ Sun Feb 21 10:55:01 2016 ]=>  E_M_C™ [0] deleted user  user#id176029265
+ 
+[ Sun Feb 21 10:55:01 2016 ]=>  E_M_C™ [0] deleted user  user#id114061294
+ 
+[ Sun Feb 21 10:55:01 2016 ]=>  E_M_C™ [0] deleted user  user#id114061294
+ 
+[ Sun Feb 21 10:55:01 2016 ]=>  E_M_C™ [0] deleted user  user#id114061294
+ 
+[ Sun Feb 21 10:55:01 2016 ]=>  E_M_C™ [0] deleted user  user#id169775708
+ 
+[ Sun Feb 21 10:55:01 2016 ]=>  E_M_C™ [0] deleted user  user#id169775708
+ 
+[ Sun Feb 21 10:55:01 2016 ]=>  E_M_C™ [0] deleted user  user#id169775708
+ 
+[ Sun Feb 21 10:55:01 2016 ]=>  E_M_C™ [0] deleted user  user#id164385775
+ 
+[ Sun Feb 21 10:55:01 2016 ]=>  E_M_C™ [0] deleted user  user#id164385775
+ 
+[ Sun Feb 21 10:55:01 2016 ]=>  E_M_C™ [0] deleted user  user#id164385775
+ 
+[ Sun Feb 21 10:55:01 2016 ]=>  E_M_C™ [0] deleted user  user#id146272252
+ 
+[ Sun Feb 21 10:55:01 2016 ]=>  E_M_C™ [0] deleted user  user#id146272252
+ 
+[ Sun Feb 21 10:55:01 2016 ]=>  E_M_C™ [0] deleted user  user#id146272252
+ 
+[ Sun Feb 21 10:55:01 2016 ]=>  E_M_C™ [0] deleted user  user#id150523057
+ 
+[ Sun Feb 21 10:55:01 2016 ]=>  E_M_C™ [0] deleted user  user#id150523057
+ 
+[ Sun Feb 21 10:55:02 2016 ]=>  E_M_C™ [0] deleted user  user#id150523057
+ 
+[ Sun Feb 21 10:55:02 2016 ]=>  E_M_C™ [0] deleted user  user#id186770911
+ 
+[ Sun Feb 21 10:55:02 2016 ]=>  E_M_C™ [0] deleted user  user#id186770911
+ 
+[ Sun Feb 21 10:55:02 2016 ]=>  E_M_C™ [0] deleted user  user#id186770911
+ 
+[ Sun Feb 21 10:55:02 2016 ]=>  E_M_C™ [0] deleted user  user#id152924683
+ 
+[ Sun Feb 21 10:55:02 2016 ]=>  E_M_C™ [0] deleted user  user#id152924683
+ 
+[ Sun Feb 21 10:55:02 2016 ]=>  E_M_C™ [0] deleted user  user#id152924683
+ 
+[ Sun Feb 21 10:55:02 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] Used /help
+ 
+[ Sun Feb 21 10:55:04 2016 ]=>  E_M_C™ [0] deleted user  user#id100547061
+ 
+[ Sun Feb 21 10:55:04 2016 ]=>  E_M_C™ [0] deleted user  user#id100547061
+ 
+[ Sun Feb 21 10:55:04 2016 ]=>  E_M_C™ [0] deleted user  user#id100547061
+ 
+[ Sun Feb 21 10:55:04 2016 ]=>  E_M_C™ [0] deleted user  user#id100547061
+ 
+[ Sun Feb 21 10:55:04 2016 ]=>  E_M_C™ [0] deleted user  user#id100547061
+ 
+[ Sun Feb 21 10:55:04 2016 ]=>  E_M_C™ [0] deleted user  user#id100547061
+ 
+[ Sun Feb 21 10:59:58 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] deleted user  user#id145025039
+ 
+[ Sun Feb 21 10:59:58 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] deleted user  user#id145025039
+ 
+[ Sun Feb 21 10:59:58 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] deleted user  user#id145025039
+ 
+[ Sun Feb 21 11:20:19 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] deleted user  user#id145025039
+ 
+[ Sun Feb 21 11:20:19 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] deleted user  user#id145025039
+ 
+[ Sun Feb 21 11:20:19 2016 ]=>  🎅💪عًًًًٖڸًٖ؁ّٰےٍٍٍ‌ٍٍٍ__آٓٓݧٌٌٌۅٔٔڹْْيْْمُُُۅٰس [145025039] deleted user  user#id145025039
+ 
+[ Sun Feb 21 17:35:25 2016 ]=>  {๓.๓๏lคz๓เ} [111494009] deleted user  user#id111494009
+ 
+[ Sun Feb 21 17:35:25 2016 ]=>  {๓.๓๏lคz๓เ} [111494009] deleted user  user#id111494009
+ 
+[ Sun Feb 21 17:35:25 2016 ]=>  {๓.๓๏lคz๓เ} [111494009] deleted user  user#id111494009
+ 
+[ Sun Feb 21 17:49:38 2016 ]=>  {๓.๓๏lคz๓เ} [111494009] deleted user  user#id111494009
+ 
+[ Sun Feb 21 17:49:38 2016 ]=>  {๓.๓๏lคz๓เ} [111494009] deleted user  user#id111494009
+ 
+[ Sun Feb 21 17:49:38 2016 ]=>  {๓.๓๏lคz๓เ} [111494009] deleted user  user#id111494009
+ 
+[ Tue Feb 23 13:42:31 2016 ]=>  🗼Shahabsaf🗼 [171608708] requested member list in a file
+ 
+[ Tue Feb 23 16:46:14 2016 ]=>  داریوش [99577964] deleted user  user#id99577964
+ 
+[ Tue Feb 23 16:46:14 2016 ]=>  داریوش [99577964] deleted user  user#id99577964
+ 
+[ Tue Feb 23 16:46:14 2016 ]=>  داریوش [99577964] deleted user  user#id99577964
+ 
+[ Tue Feb 23 16:59:23 2016 ]=>  داریوش [99577964] deleted user  user#id99577964
+ 
+[ Tue Feb 23 16:59:23 2016 ]=>  داریوش [99577964] deleted user  user#id99577964
+ 
+[ Tue Feb 23 16:59:23 2016 ]=>  داریوش [99577964] deleted user  user#id99577964
+ 

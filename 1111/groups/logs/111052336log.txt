@@ -1,0 +1,26 @@
+[ Thu Feb 18 08:54:25 2016 ]=>  ______‌‌_ [187769689] revoked group link 
+ 
+[ Thu Feb 18 08:54:26 2016 ]=>  ______‌‌_ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQaehjC017qp8cD2EQ]
+ 
+[ Thu Feb 18 08:55:12 2016 ]=>  E__M__C [0] deleted user  user#id108862143
+ 
+[ Thu Feb 18 08:55:12 2016 ]=>  E__M__C [0] deleted user  user#id108862143
+ 
+[ Thu Feb 18 08:56:38 2016 ]=>  🇩🇪Dirt5⃣ever🇩🇪 [133372394] deleted user  user#id133372394
+ 
+[ Thu Feb 18 08:56:38 2016 ]=>  🇩🇪Dirt5⃣ever🇩🇪 [133372394] deleted user  user#id133372394
+ 
+[ Thu Feb 18 08:56:56 2016 ]=>  åŁį JãB [125402813] setted [125402813] as owner
+ 
+[ Thu Feb 18 08:57:04 2016 ]=>  ______‌‌_ [187769689] left using kickme 
+ 
+[ Thu Feb 18 08:57:04 2016 ]=>  E__M__C [0] deleted user  user#id187769689
+ 
+[ Thu Feb 18 08:57:04 2016 ]=>  E__M__C [0] deleted user  user#id187769689
+ 
+[ Thu Feb 18 08:57:20 2016 ]=>  åŁį_JãB [125402813] revoked group link 
+ 
+[ Thu Feb 18 08:57:27 2016 ]=>  åŁį_JãB [125402813] used /id 
+ 
+[ Thu Feb 18 08:57:29 2016 ]=>  åŁį_JãB [125402813] used /id 
+ 

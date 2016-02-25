@@ -1,0 +1,94 @@
+[ Mon Feb 15 15:22:55 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Mon Feb 15 15:23:02 2016 ]=>  ______‌‌_ [187769689] Used /res U_S_E_R_N_A_ME
+ 
+[ Mon Feb 15 15:23:07 2016 ]=>  ______‌‌_ [187769689] set [121167108] as owner
+ 
+[ Mon Feb 15 15:24:31 2016 ]=>  KĪnG_Øf_Snœóker [121167108] Used /help
+ 
+[ Mon Feb 15 15:30:04 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Mon Feb 15 15:30:11 2016 ]=>  KĪnG Øf Snœóker [121167108] setted [121167108] as owner
+ 
+[ Mon Feb 15 15:30:27 2016 ]=>  KĪnG_Øf_Snœóker [121167108] Used /help
+ 
+[ Mon Feb 15 15:31:42 2016 ]=>  KĪnG_Øf_Snœóker [121167108] used /id 
+ 
+[ Mon Feb 15 15:31:45 2016 ]=>  KĪnG_Øf_Snœóker [121167108] used /id 
+ 
+[ Mon Feb 15 15:32:06 2016 ]=>  E__M__C [0] deleted user  user#id140447706
+ 
+[ Mon Feb 15 15:32:06 2016 ]=>  E__M__C [0] deleted user  user#id140447706
+ 
+[ Mon Feb 15 15:34:22 2016 ]=>  ______‌‌_ [187769689] left using kickme 
+ 
+[ Mon Feb 15 15:34:22 2016 ]=>  E__M__C [0] deleted user  user#id187769689
+ 
+[ Mon Feb 15 15:34:22 2016 ]=>  E__M__C [0] deleted user  user#id187769689
+ 
+[ Mon Feb 15 15:34:59 2016 ]=>  KĪnG_Øf_Snœóker [121167108] revoked group link 
+ 
+[ Mon Feb 15 15:35:04 2016 ]=>  KĪnG_Øf_Snœóker [121167108] requested group link [https://telegram.me/joinchat/CNx_gQYaFW0djpWBSVJX8Q]
+ 
+[ Mon Feb 15 18:11:53 2016 ]=>  KĪnG_Øf_Snœóker [121167108] added a banned user >161281996
+ 
+[ Mon Feb 15 18:11:55 2016 ]=>  E__M__C [0] deleted user  user#id161281996
+ 
+[ Mon Feb 15 18:11:55 2016 ]=>  E__M__C [0] deleted user  user#id161281996
+ 
+[ Mon Feb 15 18:39:47 2016 ]=>  KĪnG_Øf_Snœóker [121167108] used /id 
+ 
+[ Mon Feb 15 18:57:24 2016 ]=>  E__M__C [0] deleted user  user#id161281996
+ 
+[ Mon Feb 15 18:57:24 2016 ]=>  E__M__C [0] deleted user  user#id161281996
+ 
+[ Mon Feb 15 18:58:22 2016 ]=>  E__M__C [0] deleted user  user#id161281996
+ 
+[ Mon Feb 15 18:58:22 2016 ]=>  E__M__C [0] deleted user  user#id161281996
+ 
+[ Mon Feb 15 19:24:20 2016 ]=>  KĪnG_Øf_Snœóker [121167108] Used /help
+ 
+[ Mon Feb 15 19:24:28 2016 ]=>  KĪnG_Øf_Snœóker [121167108] used /id 
+ 
+[ Mon Feb 15 19:24:59 2016 ]=>  KĪnG_Øf_Snœóker [121167108] promoted @@P_sop
+ 
+[ Tue Feb 16 02:45:30 2016 ]=>  KĪnG_Øf_Snœóker [121167108] Used /help
+ 
+[ Tue Feb 16 02:45:48 2016 ]=>  KĪnG_Øf_Snœóker [121167108] used /id 
+ 
+[ Tue Feb 16 02:46:14 2016 ]=>  KĪnG_Øf_Snœóker [121167108] used /idetergent 
+ 
+[ Tue Feb 16 03:00:22 2016 ]=>  KĪnG_Øf_Snœóker [121167108] used /owner
+ 
+[ Tue Feb 16 03:00:35 2016 ]=>  KĪnG_Øf_Snœóker [121167108] used /id 
+ 
+[ Wed Feb 17 16:46:11 2016 ]=>  KĪnG_Øf_Snœóker [121167108] used /idetergent 
+ 
+[ Wed Feb 17 19:18:33 2016 ]=>  KĪnG_Øf_Snœóker [121167108] Used /help
+ 
+[ Wed Feb 17 19:18:37 2016 ]=>  KĪnG_Øf_Snœóker [121167108] used /id 
+ 
+[ Wed Feb 17 19:49:56 2016 ]=>  KĪnG_Øf_Snœóker [121167108] Used /help
+ 
+[ Wed Feb 17 19:49:56 2016 ]=>  KĪnG_Øf_Snœóker [121167108] used /id 
+ 
+[ Thu Feb 18 03:02:28 2016 ]=>  KĪnG_Øf_Snœóker [121167108] used /idetergent 
+ 
+[ Thu Feb 18 03:13:59 2016 ]=>  KĪnG_Øf_Snœóker [121167108] used /idetergent 
+ 
+[ Thu Feb 18 12:02:00 2016 ]=>  KĪnG_Øf_Snœóker [121167108] Used /help
+ 
+[ Thu Feb 18 12:31:38 2016 ]=>  KĪnG_Øf_Snœóker [121167108] Used /help
+ 
+[ Fri Feb 19 17:15:29 2016 ]=>  KĪnG_Øf_Snœóker [121167108] used /idetergent 
+ 
+[ Fri Feb 19 17:15:36 2016 ]=>  KĪnG_Øf_Snœóker [121167108] Used /help
+ 
+[ Fri Feb 19 17:15:40 2016 ]=>  KĪnG_Øf_Snœóker [121167108] used /idetergent 
+ 
+[ Fri Feb 19 17:39:24 2016 ]=>  KĪnG_Øf_Snœóker [121167108] used /idetergent 
+ 
+[ Fri Feb 19 17:39:24 2016 ]=>  KĪnG_Øf_Snœóker [121167108] Used /help
+ 
+[ Fri Feb 19 17:39:24 2016 ]=>  KĪnG_Øf_Snœóker [121167108] used /idetergent 
+ 

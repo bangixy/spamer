@@ -1,0 +1,50 @@
+[ Thu Feb 18 08:53:37 2016 ]=>  ______‌‌_ [187769689] revoked group link 
+ 
+[ Thu Feb 18 08:53:38 2016 ]=>  ______‌‌_ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQX4JqqWXkS-pC_Jcg]
+ 
+[ Thu Feb 18 08:53:59 2016 ]=>  ‮‮™‮a n i m [83817319] setted [83817319] as owner
+ 
+[ Thu Feb 18 08:54:02 2016 ]=>  ______‌‌_ [187769689] left using kickme 
+ 
+[ Thu Feb 18 08:54:02 2016 ]=>  E__M__C [0] deleted user  user#id187769689
+ 
+[ Thu Feb 18 08:54:02 2016 ]=>  E__M__C [0] deleted user  user#id187769689
+ 
+[ Thu Feb 18 08:54:26 2016 ]=>  ‮☞_คlŦгє๔_ןן_☜ [108862143] deleted user  user#id108862143
+ 
+[ Thu Feb 18 08:54:26 2016 ]=>  ‮☞_คlŦгє๔_ןן_☜ [108862143] deleted user  user#id108862143
+ 
+[ Thu Feb 18 08:54:32 2016 ]=>  ‮💍=>ṡһѧһѧɞ_Ԁѧяҡ<=💍 [146352807] left using kickme 
+ 
+[ Thu Feb 18 08:54:32 2016 ]=>  E__M__C [0] deleted user  user#id146352807
+ 
+[ Thu Feb 18 08:54:32 2016 ]=>  E__M__C [0] deleted user  user#id146352807
+ 
+[ Thu Feb 18 08:54:48 2016 ]=>  Group { X#2 }  name changed to [ free ] by ‮‮™‮a_n_i_m [83817319]
+ 
+[ Thu Feb 18 09:34:44 2016 ]=>  ‮‮™‮a_n_i_m [83817319] requested group link [https://telegram.me/joinchat/CNx_gQX4JqqWXkS-pC_Jcg]
+ 
+[ Thu Feb 18 09:34:57 2016 ]=>  Group { free }  name changed to [ badboy ] by ‮‮™‮a_n_i_m [83817319]
+ 
+[ Thu Feb 18 09:35:04 2016 ]=>  ‮‮™‮a_n_i_m [83817319] requested group link [https://telegram.me/joinchat/CNx_gQX4JqqWXkS-pC_Jcg]
+ 
+[ Thu Feb 18 11:05:23 2016 ]=>  ‮‮™‮a_n_i_m [83817319] used /id 
+ 
+[ Thu Feb 18 11:20:09 2016 ]=>  ‮‮™‮a_n_i_m [83817319] requested group link [https://telegram.me/joinchat/CNx_gQX4JqqWXkS-pC_Jcg]
+ 
+[ Thu Feb 18 12:02:04 2016 ]=>  ‮‮™‮a_n_i_m [83817319] Used /help
+ 
+[ Thu Feb 18 12:31:38 2016 ]=>  ‮‮™‮a_n_i_m [83817319] Used /help
+ 
+[ Thu Feb 18 13:19:03 2016 ]=>  ✘ًَPُ૯ِّςٍَคًَՐًَ۞َِცًٌคًٌძ✯ֆђﾑℜℜْ✘ [122378210] left using kickme 
+ 
+[ Thu Feb 18 13:19:03 2016 ]=>  E__M__C [0] deleted user  user#id122378210
+ 
+[ Thu Feb 18 13:19:03 2016 ]=>  E__M__C [0] deleted user  user#id122378210
+ 
+[ Thu Feb 18 14:07:07 2016 ]=>  ✘ًَِPُ૯ِّςًٍَِคًَՐًًَِ۞ًَُِცًًٌِคًٌَძْ_╭∩╮(◣_▲_◢)╭∩╮✘_✘ًَPُ૯ِّςٍَคًَՐًَ۞َِცًٌคًٌძ✯ֆђﾑℜℜْ✘ [122378210] left using kickme 
+ 
+[ Thu Feb 18 14:07:07 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id122378210
+ 
+[ Thu Feb 18 14:07:07 2016 ]=>  ⚠E__M__C⚠ [0] deleted user  user#id122378210
+ 

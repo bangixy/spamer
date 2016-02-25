@@ -1,0 +1,182 @@
+[ Sat Feb 13 14:36:24 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Sat Feb 13 14:36:26 2016 ]=>  ______‌‌_ [187769689] used /owner
+ 
+[ Sat Feb 13 14:37:18 2016 ]=>  ค๓เг ђ๏รรєเภ [103373495] setted [103373495] as owner
+ 
+[ Sat Feb 13 14:37:24 2016 ]=>  ______‌‌_ [187769689] used /id 
+ 
+[ Sat Feb 13 14:37:27 2016 ]=>  ______‌‌_ [187769689] left using kickme 
+ 
+[ Sat Feb 13 14:37:27 2016 ]=>  E__M__C [0] deleted user  user#id187769689
+ 
+[ Sat Feb 13 14:37:41 2016 ]=>  ค๓เг_ђ๏รรєเภ [103373495] deleted user  user#id127301400
+ 
+[ Sat Feb 13 14:39:06 2016 ]=>  ค๓เг_ђ๏รรєเภ [103373495] Used /help
+ 
+[ Sat Feb 13 14:39:24 2016 ]=>  ค๓เг_ђ๏รรєเภ [103373495] used /owner
+ 
+[ Sat Feb 13 14:39:31 2016 ]=>  ค๓เг_ђ๏รรєเภ [103373495] Used /help
+ 
+[ Sat Feb 13 14:40:07 2016 ]=>  ค๓เг_ђ๏รรєเภ [103373495] revoked group link 
+ 
+[ Sat Feb 13 14:42:07 2016 ]=>  ค๓เг_ђ๏รรєเภ [103373495] requested group settings 
+ 
+[ Sat Feb 13 14:44:17 2016 ]=>  ค๓เг_ђ๏รรєเภ [103373495] locked link 
+ 
+[ Sat Feb 13 17:30:55 2016 ]=>  H4J™_@Rprt [160522435] deleted user  user#id160522435
+ 
+[ Sat Feb 13 17:30:55 2016 ]=>  H4J™_@Rprt [160522435] deleted user  user#id160522435
+ 
+[ Sat Feb 13 17:54:44 2016 ]=>  ค๓เг_ђ๏รรєเภ [103373495] Used /help
+ 
+[ Sat Feb 13 19:27:08 2016 ]=>  ค๓เг_ђ๏รรєเภ [103373495] requested group link [https://telegram.me/joinchat/CNx_gQaRGAucz755mw-YRA]
+ 
+[ Sun Feb 14 17:08:48 2016 ]=>  ค๓เг_ђ๏รรєเภ [103373495] Used /help
+ 
+[ Mon Feb 15 15:02:15 2016 ]=>  ค๓เг_ђ๏รรєเภ [103373495] used /id 
+ 
+[ Mon Feb 15 15:28:58 2016 ]=>  ค๓เг_ђ๏รรєเภ [103373495] requested group link [https://telegram.me/joinchat/CNx_gQaRGAucz755mw-YRA]
+ 
+[ Mon Feb 15 15:34:50 2016 ]=>  ค๓เг_ђ๏รรєเภ [103373495] deleted user  user#id98435060
+ 
+[ Mon Feb 15 15:34:50 2016 ]=>  ค๓เг_ђ๏รรєเภ [103373495] deleted user  user#id98435060
+ 
+[ Mon Feb 15 15:34:58 2016 ]=>  ค๓เг_ђ๏รรєเภ [103373495] used /id 
+ 
+[ Mon Feb 15 15:36:06 2016 ]=>  ค๓เг_ђ๏รรєเภ [103373495] unlocked leaving 
+ 
+[ Mon Feb 15 15:36:28 2016 ]=>  ค๓เг_ђ๏รรєเภ [103373495] used /id 
+ 
+[ Mon Feb 15 15:38:19 2016 ]=>  ค๓เг_ђ๏รรєเภ [103373495] revoked group link 
+ 
+[ Mon Feb 15 15:39:30 2016 ]=>  ค๓เг_ђ๏รรєเภ [103373495] requested group description
+ 
+[ Mon Feb 15 15:40:02 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] setted [148305399] as owner
+ 
+[ Mon Feb 15 15:40:59 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] requested group description
+ 
+[ Mon Feb 15 15:41:21 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] locked bots 
+ 
+[ Mon Feb 15 15:42:13 2016 ]=>  ค๓เг_ђ๏รรєเภ [103373495] left using kickme 
+ 
+[ Mon Feb 15 15:42:13 2016 ]=>  E__M__C [0] deleted user  user#id103373495
+ 
+[ Mon Feb 15 15:42:13 2016 ]=>  E__M__C [0] deleted user  user#id103373495
+ 
+[ Mon Feb 15 15:43:31 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] requested group link [https://telegram.me/joinchat/CNx_gQaRGAu2_EoO9AAhMw]
+ 
+[ Mon Feb 15 15:43:56 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] used /owner
+ 
+[ Mon Feb 15 15:45:06 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] locked tag 
+ 
+[ Mon Feb 15 15:45:30 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] locked name 
+ 
+[ Mon Feb 15 15:45:45 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] tried to change name but failed  
+ 
+[ Mon Feb 15 15:45:45 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] tried to change name but failed  
+ 
+[ Mon Feb 15 15:45:45 2016 ]=>  E__M__C [0] tried to change name but failed  
+ 
+[ Mon Feb 15 15:45:45 2016 ]=>  E__M__C [0] tried to change name but failed  
+ 
+[ Mon Feb 15 15:45:45 2016 ]=>  E__M__C [0] tried to change name but failed  
+ 
+[ Mon Feb 15 15:45:45 2016 ]=>  E__M__C [0] tried to change name but failed  
+ 
+[ Mon Feb 15 15:45:59 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] locked name 
+ 
+[ Mon Feb 15 15:47:02 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] locked flood 
+ 
+[ Mon Feb 15 15:48:32 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] requested group rules
+ 
+[ Mon Feb 15 15:49:11 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] unlocked name 
+ 
+[ Mon Feb 15 15:54:12 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] revoked group link 
+ 
+[ Mon Feb 15 15:54:16 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] requested group link [https://telegram.me/joinchat/CNx_gQaRGAvpyiWJ_DdkPg]
+ 
+[ Tue Feb 16 11:47:31 2016 ]=>  Gis暗暗оо_~_Еф~:巡~點 [113071647] deleted user  user#id113071647
+ 
+[ Tue Feb 16 11:47:31 2016 ]=>  Gis暗暗оо_~_Еф~:巡~點 [113071647] deleted user  user#id113071647
+ 
+[ Tue Feb 16 12:12:35 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id79247533
+ 
+[ Tue Feb 16 12:12:35 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id79247533
+ 
+[ Tue Feb 16 12:12:38 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id147365426
+ 
+[ Tue Feb 16 12:12:38 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id147365426
+ 
+[ Tue Feb 16 12:13:23 2016 ]=>  E__M__C [0] deleted user  user#id157263086
+ 
+[ Tue Feb 16 12:13:23 2016 ]=>  E__M__C [0] deleted user  user#id157263086
+ 
+[ Tue Feb 16 12:13:34 2016 ]=>  E__M__C [0] deleted user  user#id172280509
+ 
+[ Tue Feb 16 12:13:34 2016 ]=>  E__M__C [0] deleted user  user#id172280509
+ 
+[ Tue Feb 16 12:13:39 2016 ]=>  E__M__C [0] deleted user  user#id110918397
+ 
+[ Tue Feb 16 12:13:39 2016 ]=>  E__M__C [0] deleted user  user#id110918397
+ 
+[ Tue Feb 16 12:14:01 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id136415426
+ 
+[ Tue Feb 16 12:14:01 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id136415426
+ 
+[ Tue Feb 16 12:14:07 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id102866448
+ 
+[ Tue Feb 16 12:14:07 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id102866448
+ 
+[ Tue Feb 16 12:14:09 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id108033295
+ 
+[ Tue Feb 16 12:14:09 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id108033295
+ 
+[ Tue Feb 16 12:14:11 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id126200894
+ 
+[ Tue Feb 16 12:14:11 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id126200894
+ 
+[ Tue Feb 16 12:14:15 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id122963705
+ 
+[ Tue Feb 16 12:14:15 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id122963705
+ 
+[ Tue Feb 16 12:14:19 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id109221227
+ 
+[ Tue Feb 16 12:14:19 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id109221227
+ 
+[ Tue Feb 16 12:14:22 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id58936012
+ 
+[ Tue Feb 16 12:14:22 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id58936012
+ 
+[ Tue Feb 16 12:14:26 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id121046680
+ 
+[ Tue Feb 16 12:14:26 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id121046680
+ 
+[ Tue Feb 16 12:14:30 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id52801946
+ 
+[ Tue Feb 16 12:14:30 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id52801946
+ 
+[ Tue Feb 16 12:14:38 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id94603697
+ 
+[ Tue Feb 16 12:14:38 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id94603697
+ 
+[ Tue Feb 16 12:14:41 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id83618921
+ 
+[ Tue Feb 16 12:14:41 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id83618921
+ 
+[ Tue Feb 16 12:14:57 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id52291197
+ 
+[ Tue Feb 16 12:14:57 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id52291197
+ 
+[ Tue Feb 16 12:15:05 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id135029478
+ 
+[ Tue Feb 16 12:15:05 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id135029478
+ 
+[ Tue Feb 16 12:16:30 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id148305399
+ 
+[ Tue Feb 16 12:16:30 2016 ]=>  ɱѳɦɑɱɱɑɗ [148305399] deleted user  user#id148305399
+ 
+[ Tue Feb 16 13:58:25 2016 ]=>  ¤Ali¤ [91928382] deleted user  user#id91928382
+ 
+[ Tue Feb 16 13:58:25 2016 ]=>  ¤Ali¤ [91928382] deleted user  user#id91928382
+ 

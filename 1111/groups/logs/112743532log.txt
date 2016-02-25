@@ -1,0 +1,64 @@
+[ Wed Feb 17 16:57:37 2016 ]=>  ______‌‌_ [187769689] revoked group link 
+ 
+[ Wed Feb 17 16:57:38 2016 ]=>  ______‌‌_ [187769689] requested group link [https://telegram.me/joinchat/CNx_gQa4VGzdkrTq3F-Wzw]
+ 
+[ Wed Feb 17 16:58:04 2016 ]=>  </м_я_._м_α_м_α_∂> [94477327] deleted user  user#id94477327
+ 
+[ Wed Feb 17 16:58:04 2016 ]=>  </м_я_._м_α_м_α_∂> [94477327] deleted user  user#id94477327
+ 
+[ Wed Feb 17 16:58:07 2016 ]=>  M.H.P. [108639314] setted [108639314] as owner
+ 
+[ Wed Feb 17 16:58:12 2016 ]=>  E__M__C [0] deleted user  user#id119838979
+ 
+[ Wed Feb 17 16:58:12 2016 ]=>  E__M__C [0] deleted user  user#id119838979
+ 
+[ Wed Feb 17 16:58:14 2016 ]=>  ______‌‌_ [187769689] left using kickme 
+ 
+[ Wed Feb 17 16:58:14 2016 ]=>  E__M__C [0] deleted user  user#id187769689
+ 
+[ Wed Feb 17 16:58:14 2016 ]=>  E__M__C [0] deleted user  user#id187769689
+ 
+[ Wed Feb 17 16:58:20 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] revoked group link 
+ 
+[ Wed Feb 17 16:58:25 2016 ]=>  E__M__C [0] deleted user  user#id172871742
+ 
+[ Wed Feb 17 16:58:25 2016 ]=>  E__M__C [0] deleted user  user#id172871742
+ 
+[ Wed Feb 17 16:58:25 2016 ]=>  E__M__C [0] deleted user  user#id108862143
+ 
+[ Wed Feb 17 16:58:25 2016 ]=>  E__M__C [0] deleted user  user#id108862143
+ 
+[ Wed Feb 17 16:58:35 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] used /id 
+ 
+[ Wed Feb 17 16:58:37 2016 ]=>  ‮👑bahahs_gnik👑_kcolb_=_vp_izabdeZ_CME [119989724] left using kickme 
+ 
+[ Wed Feb 17 16:58:37 2016 ]=>  E__M__C [0] deleted user  user#id119989724
+ 
+[ Wed Feb 17 16:58:37 2016 ]=>  E__M__C [0] deleted user  user#id119989724
+ 
+[ Wed Feb 17 16:58:56 2016 ]=>  M.H.P. [108639314] requested group settings 
+ 
+[ Wed Feb 17 16:59:12 2016 ]=>  M.H.P. [108639314] Used /help
+ 
+[ Wed Feb 17 17:01:48 2016 ]=>  M.H.P. [108639314] requested group settings 
+ 
+[ Wed Feb 17 21:01:27 2016 ]=>  M.H.P. [108639314] requested group settings 
+ 
+[ Wed Feb 17 21:01:32 2016 ]=>  M.H.P. [108639314] Used /help
+ 
+[ Wed Feb 17 21:11:22 2016 ]=>  M.H.P. [108639314] requested group settings 
+ 
+[ Wed Feb 17 21:13:48 2016 ]=>  M.H.P. [108639314] requested group settings 
+ 
+[ Wed Feb 17 21:13:48 2016 ]=>  M.H.P. [108639314] Used /help
+ 
+[ Wed Feb 17 21:13:48 2016 ]=>  M.H.P. [108639314] requested group settings 
+ 
+[ Thu Feb 18 09:02:14 2016 ]=>  M.H.P. [108639314] revoked group link 
+ 
+[ Thu Feb 18 09:02:35 2016 ]=>  M.H.P. [108639314] used /id 
+ 
+[ Thu Feb 18 09:02:49 2016 ]=>  M.H.P. [108639314] deleted user  user#id108639314
+ 
+[ Thu Feb 18 09:02:49 2016 ]=>  M.H.P. [108639314] deleted user  user#id108639314
+ 
